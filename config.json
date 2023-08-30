@@ -1,0 +1,6 @@
+{
+  "devMode": "false",
+  "locations":[
+    { "country":  "sweden", "geoName": "sweden", "cities": ["stockholm", "gothenburg", "uppsala", "helsingborg"], "imageUrl": "https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg" }
+  ]
+}
