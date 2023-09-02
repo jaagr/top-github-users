@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg" alt="Sweden">
 </a>
 
-The `number of followers` of users in Sweden on `2023/9/2 6:15 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
+The `number of followers` of users in Sweden on `2023/9/2 7:10 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
 
 There are `1 countries` and `4 cities` can be found [here](https://github.com/jaagr/top-github-users).
 
@@ -154,7 +154,7 @@ There are `963 users`  in Sweden. You need at least `71 followers` to be on this
 		<td>@wolfssl  </td>
 		<td><a href="https://twitter.com/bagder">bagder</a></td>
 		<td>the curl factory, Sweden</td>
-		<td>5387</td>
+		<td>5388</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -193,7 +193,7 @@ There are `963 users`  in Sweden. You need at least `71 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/ernerfeldt">ernerfeldt</a></td>
 		<td>Stockholm, Sweden</td>
-		<td>4168</td>
+		<td>4170</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -401,7 +401,7 @@ There are `963 users`  in Sweden. You need at least `71 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/bjorklundvictor">bjorklundvictor</a></td>
 		<td>Stockholm, Sweden</td>
-		<td>1789</td>
+		<td>1790</td>
 	</tr>
 	<tr>
 		<td>24</td>
@@ -921,7 +921,7 @@ There are `963 users`  in Sweden. You need at least `71 followers` to be on this
 		<td>Superagent, Mersenne Ab </td>
 		<td><a href="https://twitter.com/pelaseyed">pelaseyed</a></td>
 		<td>Sweden</td>
-		<td>720</td>
+		<td>721</td>
 	</tr>
 	<tr>
 		<td>64</td>
@@ -2221,7 +2221,7 @@ There are `963 users`  in Sweden. You need at least `71 followers` to be on this
 		<td>Plejd </td>
 		<td>No Twitter Username</td>
 		<td>Sweden</td>
-		<td>318</td>
+		<td>317</td>
 	</tr>
 	<tr>
 		<td>164</td>
@@ -10494,13 +10494,13 @@ There are `963 users`  in Sweden. You need at least `71 followers` to be on this
 	<tr>
 		<td>800</td>
 		<td>
-			<a href="https://github.com/StephanErb">
-				<img src="https://avatars.githubusercontent.com/u/483730?s=72&u=14d65f08e014e8f841445b3fb83bfa8685367c85&v=4" width="24" alt="Avatar of StephanErb"> StephanErb
+			<a href="https://github.com/simme">
+				<img src="https://avatars.githubusercontent.com/u/95989?s=72&u=5c19f878a0952df1a0f0b1e6dec314b46de2a15a&v=4" width="24" alt="Avatar of simme"> simme
 			</a><br/>
-			Stephan Erb
+			Simon Ljungberg
 		</td>
-		<td>Blue Yonder </td>
-		<td><a href="https://twitter.com/ErbStephan">ErbStephan</a></td>
+		<td>@filibaba  </td>
+		<td>No Twitter Username</td>
 		<td>Göteborg, Sweden</td>
 		<td>86</td>
 	</tr>
