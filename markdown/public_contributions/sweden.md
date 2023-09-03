@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg" alt="Sweden">
 </a>
 
-The `public contributions` by users in Sweden on `2023/9/3 6:13 PM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
+The `public contributions` by users in Sweden on `2023/9/3 7:10 PM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
 
 There are `1 countries` and `4 cities` can be found [here](https://github.com/jaagr/top-github-users).
 
@@ -791,7 +791,7 @@ There are `963 users`  in Sweden. You need at least `71 followers` to be on this
 		<td>@mojang  </td>
 		<td>No Twitter Username</td>
 		<td>Sweden</td>
-		<td>1393</td>
+		<td>1395</td>
 	</tr>
 	<tr>
 		<td>54</td>
@@ -869,13 +869,13 @@ There are `963 users`  in Sweden. You need at least `71 followers` to be on this
 		<td>@evilcorpltd </td>
 		<td>No Twitter Username</td>
 		<td>Sweden</td>
-		<td>1364</td>
+		<td>1365</td>
 	</tr>
 	<tr>
 		<td>60</td>
 		<td>
 			<a href="https://github.com/leostera">
-				<img src="https://avatars.githubusercontent.com/u/854222?s=72&u=c3c5ae01fda6036f93d9abfb2b57ab23af882da3&v=4" width="24" alt="Avatar of leostera"> leostera
+				<img src="https://avatars.githubusercontent.com/u/854222?s=72&u=0e5e230cd3d868b7861698cfcd50bdc1c2311159&v=4" width="24" alt="Avatar of leostera"> leostera
 			</a><br/>
 			Leandro Ostera
 		</td>
@@ -1116,7 +1116,7 @@ There are `963 users`  in Sweden. You need at least `71 followers` to be on this
 		<td>Arizon </td>
 		<td><a href="https://twitter.com/___zth___">___zth___</a></td>
 		<td>Stockholm</td>
-		<td>1122</td>
+		<td>1123</td>
 	</tr>
 	<tr>
 		<td>79</td>
@@ -1545,7 +1545,7 @@ There are `963 users`  in Sweden. You need at least `71 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Göteborg, Sweden</td>
-		<td>799</td>
+		<td>800</td>
 	</tr>
 	<tr>
 		<td>112</td>
@@ -1909,7 +1909,7 @@ There are `963 users`  in Sweden. You need at least `71 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Sweden</td>
-		<td>616</td>
+		<td>617</td>
 	</tr>
 	<tr>
 		<td>140</td>
@@ -2065,7 +2065,7 @@ There are `963 users`  in Sweden. You need at least `71 followers` to be on this
 		<td>@kastelo </td>
 		<td>No Twitter Username</td>
 		<td>Sweden</td>
-		<td>574</td>
+		<td>575</td>
 	</tr>
 	<tr>
 		<td>152</td>
@@ -2130,7 +2130,7 @@ There are `963 users`  in Sweden. You need at least `71 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Linköping, Sweden</td>
-		<td>545</td>
+		<td>548</td>
 	</tr>
 	<tr>
 		<td>157</td>
@@ -2169,7 +2169,7 @@ There are `963 users`  in Sweden. You need at least `71 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/john_johnkal">john_johnkal</a></td>
 		<td>Sweden</td>
-		<td>529</td>
+		<td>532</td>
 	</tr>
 	<tr>
 		<td>160</td>
@@ -2377,7 +2377,7 @@ There are `963 users`  in Sweden. You need at least `71 followers` to be on this
 		<td>Cppcheck Solutions Ab </td>
 		<td>No Twitter Username</td>
 		<td>Sweden, Eskilstuna</td>
-		<td>483</td>
+		<td>484</td>
 	</tr>
 	<tr>
 		<td>176</td>

@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg" alt="Sweden">
 </a>
 
-The `number of followers` of users in Sweden on `2023/9/3 6:13 PM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
+The `number of followers` of users in Sweden on `2023/9/3 7:10 PM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
 
 There are `1 countries` and `4 cities` can be found [here](https://github.com/jaagr/top-github-users).
 
@@ -947,7 +947,7 @@ There are `963 users`  in Sweden. You need at least `71 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Sweden, Lund</td>
-		<td>709</td>
+		<td>710</td>
 	</tr>
 	<tr>
 		<td>66</td>
@@ -1129,7 +1129,7 @@ There are `963 users`  in Sweden. You need at least `71 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Stockholm, Sweden</td>
-		<td>597</td>
+		<td>596</td>
 	</tr>
 	<tr>
 		<td>80</td>
@@ -1317,7 +1317,7 @@ There are `963 users`  in Sweden. You need at least `71 followers` to be on this
 		<td>94</td>
 		<td>
 			<a href="https://github.com/leostera">
-				<img src="https://avatars.githubusercontent.com/u/854222?s=72&u=c3c5ae01fda6036f93d9abfb2b57ab23af882da3&v=4" width="24" alt="Avatar of leostera"> leostera
+				<img src="https://avatars.githubusercontent.com/u/854222?s=72&u=0e5e230cd3d868b7861698cfcd50bdc1c2311159&v=4" width="24" alt="Avatar of leostera"> leostera
 			</a><br/>
 			Leandro Ostera
 		</td>
@@ -6334,19 +6334,6 @@ There are `963 users`  in Sweden. You need at least `71 followers` to be on this
 	<tr>
 		<td>480</td>
 		<td>
-			<a href="https://github.com/mptre">
-				<img src="https://avatars.githubusercontent.com/u/43914?s=72&u=2c4e1205d5fa98b1674293e1c876ad634a606d19&v=4" width="24" alt="Avatar of mptre"> mptre
-			</a><br/>
-			Anton Lindqvist
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Stockholm, Sweden</td>
-		<td>132</td>
-	</tr>
-	<tr>
-		<td>481</td>
-		<td>
 			<a href="https://github.com/peterix">
 				<img src="https://avatars.githubusercontent.com/u/203326?s=72&u=3088f492f29bd29965956ae72b6ffb306a4d7651&v=4" width="24" alt="Avatar of peterix"> peterix
 			</a><br/>
@@ -6355,6 +6342,19 @@ There are `963 users`  in Sweden. You need at least `71 followers` to be on this
 		<td>@mojang  </td>
 		<td>No Twitter Username</td>
 		<td>Sweden</td>
+		<td>132</td>
+	</tr>
+	<tr>
+		<td>481</td>
+		<td>
+			<a href="https://github.com/mptre">
+				<img src="https://avatars.githubusercontent.com/u/43914?s=72&u=2c4e1205d5fa98b1674293e1c876ad634a606d19&v=4" width="24" alt="Avatar of mptre"> mptre
+			</a><br/>
+			Anton Lindqvist
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Stockholm, Sweden</td>
 		<td>132</td>
 	</tr>
 	<tr>
