@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg" alt="Sweden">
 </a>
 
-The `number of followers` of users in Sweden on `2023/10/14 8:12 PM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
+The `number of followers` of users in Sweden on `2023/10/14 9:11 PM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
 
 There are `1 countries` and `4 cities` can be found [here](https://github.com/jaagr/top-github-users).
 
@@ -323,7 +323,7 @@ There are `960 users`  in Sweden. You need at least `72 followers` to be on this
 		<td>Bache Consulting </td>
 		<td>No Twitter Username</td>
 		<td>Göteborg, Sweden</td>
-		<td>2377</td>
+		<td>2378</td>
 	</tr>
 	<tr>
 		<td>18</td>
@@ -1285,7 +1285,7 @@ There are `960 users`  in Sweden. You need at least `72 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/julienBisconti">julienBisconti</a></td>
 		<td>Stockholm, Sweden</td>
-		<td>521</td>
+		<td>522</td>
 	</tr>
 	<tr>
 		<td>92</td>
@@ -2689,7 +2689,7 @@ There are `960 users`  in Sweden. You need at least `72 followers` to be on this
 		<td>@unfoldml  </td>
 		<td>No Twitter Username</td>
 		<td>Göteborg, Sweden</td>
-		<td>270</td>
+		<td>269</td>
 	</tr>
 	<tr>
 		<td>200</td>
@@ -7353,7 +7353,7 @@ There are `960 users`  in Sweden. You need at least `72 followers` to be on this
 			</a><br/>
 			Ashwin V. Mohanan
 		</td>
-		<td>No Company</td>
+		<td>@smhi </td>
 		<td>No Twitter Username</td>
 		<td>Stockholm</td>
 		<td>118</td>
