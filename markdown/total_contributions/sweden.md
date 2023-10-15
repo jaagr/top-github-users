@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg" alt="Sweden">
 </a>
 
-The `public contributions` and `private contributions` by users in Sweden on `2023/10/15 2:25 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
+The `public contributions` and `private contributions` by users in Sweden on `2023/10/15 3:12 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
 
 There are `1 countries` and `4 cities` can be found [here](https://github.com/jaagr/top-github-users).
 
@@ -299,7 +299,7 @@ There are `960 users`  in Sweden. You need at least `72 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Sweden, Stockholm</td>
 		<td>25</td>
-		<td>4195</td>
+		<td>4202</td>
 	</tr>
 	<tr>
 		<td>15</td>
@@ -2278,6 +2278,20 @@ There are `960 users`  in Sweden. You need at least `72 followers` to be on this
 	<tr>
 		<td>156</td>
 		<td>
+			<a href="https://github.com/astrit">
+				<img src="https://avatars.githubusercontent.com/u/2398447?s=72&u=619b2bd97fb3bbb619d274ab00cfb9040130caa8&v=4" width="24" alt="Avatar of astrit"> astrit
+			</a><br/>
+			astrit
+		</td>
+		<td>@sebgroup </td>
+		<td><a href="https://twitter.com/astritmalsija">astritmalsija</a></td>
+		<td>Stockholm, Sweden</td>
+		<td>250</td>
+		<td>1322</td>
+	</tr>
+	<tr>
+		<td>157</td>
+		<td>
 			<a href="https://github.com/FRidh">
 				<img src="https://avatars.githubusercontent.com/u/2129135?s=72&u=dc44f21e5093b3bf073d8dd2fadf3d916e81e3f1&v=4" width="24" alt="Avatar of FRidh"> FRidh
 			</a><br/>
@@ -2288,20 +2302,6 @@ There are `960 users`  in Sweden. You need at least `72 followers` to be on this
 		<td>Sweden</td>
 		<td>190</td>
 		<td>1322</td>
-	</tr>
-	<tr>
-		<td>157</td>
-		<td>
-			<a href="https://github.com/astrit">
-				<img src="https://avatars.githubusercontent.com/u/2398447?s=72&u=619b2bd97fb3bbb619d274ab00cfb9040130caa8&v=4" width="24" alt="Avatar of astrit"> astrit
-			</a><br/>
-			astrit
-		</td>
-		<td>@sebgroup </td>
-		<td><a href="https://twitter.com/astritmalsija">astritmalsija</a></td>
-		<td>Stockholm, Sweden</td>
-		<td>250</td>
-		<td>1321</td>
 	</tr>
 	<tr>
 		<td>158</td>
@@ -5834,20 +5834,6 @@ There are `960 users`  in Sweden. You need at least `72 followers` to be on this
 	<tr>
 		<td>410</td>
 		<td>
-			<a href="https://github.com/camilaibs">
-				<img src="https://avatars.githubusercontent.com/u/6290749?s=72&u=cfb328c7a274d93f19f9638aa7958b90428d7587&v=4" width="24" alt="Avatar of camilaibs"> camilaibs
-			</a><br/>
-			Camila Belo
-		</td>
-		<td>Spotify </td>
-		<td>No Twitter Username</td>
-		<td>Stockholm, Sweden</td>
-		<td>378</td>
-		<td>410</td>
-	</tr>
-	<tr>
-		<td>411</td>
-		<td>
 			<a href="https://github.com/MarcusOtter">
 				<img src="https://avatars.githubusercontent.com/u/35617441?s=72&u=1cb3a186ccc75d24e43bfcc54c0d27f60a26dc5e&v=4" width="24" alt="Avatar of MarcusOtter"> MarcusOtter
 			</a><br/>
@@ -5857,6 +5843,20 @@ There are `960 users`  in Sweden. You need at least `72 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Sweden</td>
 		<td>252</td>
+		<td>411</td>
+	</tr>
+	<tr>
+		<td>411</td>
+		<td>
+			<a href="https://github.com/camilaibs">
+				<img src="https://avatars.githubusercontent.com/u/6290749?s=72&u=cfb328c7a274d93f19f9638aa7958b90428d7587&v=4" width="24" alt="Avatar of camilaibs"> camilaibs
+			</a><br/>
+			Camila Belo
+		</td>
+		<td>Spotify </td>
+		<td>No Twitter Username</td>
+		<td>Stockholm, Sweden</td>
+		<td>378</td>
 		<td>410</td>
 	</tr>
 	<tr>
@@ -6402,8 +6402,8 @@ There are `960 users`  in Sweden. You need at least `72 followers` to be on this
 		<td>Valo Intranet </td>
 		<td><a href="https://twitter.com/erwinvanhunen">erwinvanhunen</a></td>
 		<td>Sweden</td>
-		<td>341</td>
-		<td>341</td>
+		<td>342</td>
+		<td>342</td>
 	</tr>
 	<tr>
 		<td>451</td>
@@ -7131,7 +7131,7 @@ There are `960 users`  in Sweden. You need at least `72 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Sweden</td>
 		<td>21</td>
-		<td>244</td>
+		<td>245</td>
 	</tr>
 	<tr>
 		<td>503</td>
