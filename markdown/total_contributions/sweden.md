@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg" alt="Sweden">
 </a>
 
-The `public contributions` and `private contributions` by users in Sweden on `2023/10/31 5:12 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
+The `public contributions` and `private contributions` by users in Sweden on `2023/10/31 6:16 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
 
 There are `1 countries` and `4 cities` can be found [here](https://github.com/jaagr/top-github-users).
 
@@ -117,7 +117,7 @@ There are `959 users`  in Sweden. You need at least `72 followers` to be on this
 		<td><a href="https://twitter.com/IvanUkhov">IvanUkhov</a></td>
 		<td>Stockholm, Sweden</td>
 		<td>1363</td>
-		<td>8111</td>
+		<td>8114</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -481,7 +481,7 @@ There are `959 users`  in Sweden. You need at least `72 followers` to be on this
 		<td><a href="https://twitter.com/mehdy314">mehdy314</a></td>
 		<td>Stockholm, Sweden</td>
 		<td>200</td>
-		<td>3543</td>
+		<td>3544</td>
 	</tr>
 	<tr>
 		<td>28</td>
@@ -676,8 +676,8 @@ There are `959 users`  in Sweden. You need at least `72 followers` to be on this
 		<td>Google </td>
 		<td>No Twitter Username</td>
 		<td>Stockholm</td>
-		<td>2868</td>
-		<td>2868</td>
+		<td>2870</td>
+		<td>2870</td>
 	</tr>
 	<tr>
 		<td>42</td>
@@ -1082,8 +1082,8 @@ There are `959 users`  in Sweden. You need at least `72 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/awesomekling">awesomekling</a></td>
 		<td>Sweden</td>
-		<td>2136</td>
-		<td>2148</td>
+		<td>2137</td>
+		<td>2149</td>
 	</tr>
 	<tr>
 		<td>71</td>
@@ -1740,8 +1740,8 @@ There are `959 users`  in Sweden. You need at least `72 followers` to be on this
 		<td>@styrainc </td>
 		<td><a href="https://twitter.com/anderseknert">anderseknert</a></td>
 		<td>Stockholm, Sweden</td>
-		<td>1378</td>
-		<td>1581</td>
+		<td>1380</td>
+		<td>1583</td>
 	</tr>
 	<tr>
 		<td>118</td>
@@ -2734,8 +2734,8 @@ There are `959 users`  in Sweden. You need at least `72 followers` to be on this
 		<td>@apple </td>
 		<td><a href="https://twitter.com/tadeuzagallo">tadeuzagallo</a></td>
 		<td>Stockholm, Sweden</td>
-		<td>851</td>
-		<td>1160</td>
+		<td>852</td>
+		<td>1162</td>
 	</tr>
 	<tr>
 		<td>189</td>
@@ -5386,6 +5386,20 @@ There are `959 users`  in Sweden. You need at least `72 followers` to be on this
 	<tr>
 		<td>378</td>
 		<td>
+			<a href="https://github.com/edvinerikson">
+				<img src="https://avatars.githubusercontent.com/u/3890572?s=72&u=a5bb5a2b78191bd8b0e7ea1989f6df8a4fa329e1&v=4" width="24" alt="Avatar of edvinerikson"> edvinerikson
+			</a><br/>
+			Edvin Eriksson
+		</td>
+		<td>Pokeyo Ab </td>
+		<td>No Twitter Username</td>
+		<td>Sweden</td>
+		<td>26</td>
+		<td>461</td>
+	</tr>
+	<tr>
+		<td>379</td>
+		<td>
 			<a href="https://github.com/volkansahin45">
 				<img src="https://avatars.githubusercontent.com/u/23407802?s=72&u=a8332003d3f1c85fb51fff4b35ca49e1937edb30&v=4" width="24" alt="Avatar of volkansahin45"> volkansahin45
 			</a><br/>
@@ -5398,7 +5412,7 @@ There are `959 users`  in Sweden. You need at least `72 followers` to be on this
 		<td>460</td>
 	</tr>
 	<tr>
-		<td>379</td>
+		<td>380</td>
 		<td>
 			<a href="https://github.com/danielgustafsson">
 				<img src="https://avatars.githubusercontent.com/u/321790?s=72&u=1d0e60e82bbcc1231f75eca4c63398962001be93&v=4" width="24" alt="Avatar of danielgustafsson"> danielgustafsson
@@ -5412,7 +5426,7 @@ There are `959 users`  in Sweden. You need at least `72 followers` to be on this
 		<td>460</td>
 	</tr>
 	<tr>
-		<td>380</td>
+		<td>381</td>
 		<td>
 			<a href="https://github.com/aristocratos">
 				<img src="https://avatars.githubusercontent.com/u/59659483?s=72&u=e7a780662f1876525a5d2f7f642fa3f8fe56b1fe&v=4" width="24" alt="Avatar of aristocratos"> aristocratos
@@ -5424,20 +5438,6 @@ There are `959 users`  in Sweden. You need at least `72 followers` to be on this
 		<td>Sweden</td>
 		<td>128</td>
 		<td>459</td>
-	</tr>
-	<tr>
-		<td>381</td>
-		<td>
-			<a href="https://github.com/edvinerikson">
-				<img src="https://avatars.githubusercontent.com/u/3890572?s=72&u=a5bb5a2b78191bd8b0e7ea1989f6df8a4fa329e1&v=4" width="24" alt="Avatar of edvinerikson"> edvinerikson
-			</a><br/>
-			Edvin Eriksson
-		</td>
-		<td>Pokeyo Ab </td>
-		<td>No Twitter Username</td>
-		<td>Sweden</td>
-		<td>26</td>
-		<td>458</td>
 	</tr>
 	<tr>
 		<td>382</td>
