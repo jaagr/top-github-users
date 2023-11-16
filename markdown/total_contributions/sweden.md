@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg" alt="Sweden">
 </a>
 
-The `public contributions` and `private contributions` by users in Sweden on `2023/11/16 4:16 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
+The `public contributions` and `private contributions` by users in Sweden on `2023/11/16 5:14 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
 
 There are `1 countries` and `4 cities` can be found [here](https://github.com/jaagr/top-github-users).
 
@@ -747,7 +747,7 @@ There are `958 users`  in Sweden. You need at least `72 followers` to be on this
 		<td><a href="https://twitter.com/troglobit">troglobit</a></td>
 		<td>Surahammar, Västmanland, Sweden</td>
 		<td>2272</td>
-		<td>2820</td>
+		<td>2821</td>
 	</tr>
 	<tr>
 		<td>47</td>
@@ -2286,8 +2286,8 @@ There are `958 users`  in Sweden. You need at least `72 followers` to be on this
 		<td>@antifragile-systems  </td>
 		<td><a href="https://twitter.com/hfreire_">hfreire_</a></td>
 		<td>Stockholm, Sweden</td>
-		<td>722</td>
-		<td>1349</td>
+		<td>723</td>
+		<td>1350</td>
 	</tr>
 	<tr>
 		<td>157</td>
@@ -4302,8 +4302,8 @@ There are `958 users`  in Sweden. You need at least `72 followers` to be on this
 		<td>@input-output-hk  </td>
 		<td>No Twitter Username</td>
 		<td>Anviken-Jämtland-Sweden</td>
-		<td>682</td>
-		<td>689</td>
+		<td>684</td>
+		<td>691</td>
 	</tr>
 	<tr>
 		<td>301</td>
