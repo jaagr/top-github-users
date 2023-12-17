@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg" alt="Sweden">
 </a>
 
-The `public contributions` and `private contributions` by users in Sweden on `2023/12/17 4:16 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
+The `public contributions` and `private contributions` by users in Sweden on `2023/12/17 5:12 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
 
 There are `1 countries` and `4 cities` can be found [here](https://github.com/jaagr/top-github-users).
 
@@ -704,8 +704,8 @@ There are `955 users`  in Sweden. You need at least `73 followers` to be on this
 		<td>Freelance </td>
 		<td>No Twitter Username</td>
 		<td>Malmö, Sweden</td>
-		<td>2308</td>
-		<td>3032</td>
+		<td>2309</td>
+		<td>3033</td>
 	</tr>
 	<tr>
 		<td>44</td>
@@ -1194,8 +1194,8 @@ There are `955 users`  in Sweden. You need at least `73 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Stockholm</td>
-		<td>961</td>
-		<td>2045</td>
+		<td>962</td>
+		<td>2046</td>
 	</tr>
 	<tr>
 		<td>79</td>
@@ -1474,8 +1474,8 @@ There are `955 users`  in Sweden. You need at least `73 followers` to be on this
 		<td>@brixtol  </td>
 		<td><a href="https://twitter.com/niksavvidis">niksavvidis</a></td>
 		<td>Stockholm • Amsterdam</td>
-		<td>1737</td>
-		<td>1787</td>
+		<td>1742</td>
+		<td>1792</td>
 	</tr>
 	<tr>
 		<td>99</td>
@@ -2146,8 +2146,8 @@ There are `955 users`  in Sweden. You need at least `73 followers` to be on this
 		<td>@wikimedia </td>
 		<td>No Twitter Username</td>
 		<td>Stockholm, Sweden</td>
-		<td>1377</td>
-		<td>1413</td>
+		<td>1378</td>
+		<td>1414</td>
 	</tr>
 	<tr>
 		<td>147</td>
@@ -2958,8 +2958,8 @@ There are `955 users`  in Sweden. You need at least `73 followers` to be on this
 		<td>@demaai </td>
 		<td><a href="https://twitter.com/derektraveller">derektraveller</a></td>
 		<td>Stockholm • Istanbul</td>
-		<td>318</td>
-		<td>1099</td>
+		<td>319</td>
+		<td>1100</td>
 	</tr>
 	<tr>
 		<td>205</td>
@@ -3938,8 +3938,8 @@ There are `955 users`  in Sweden. You need at least `73 followers` to be on this
 		<td>Phd @kth-rpl; Mphil Hkust<br/></td>
 		<td>No Twitter Username</td>
 		<td>Stockholm, Sweden</td>
-		<td>282</td>
-		<td>771</td>
+		<td>283</td>
+		<td>772</td>
 	</tr>
 	<tr>
 		<td>275</td>
