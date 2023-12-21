@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg" alt="Sweden">
 </a>
 
-The `number of followers` of users in Sweden on `2023/12/21 4:16 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
+The `number of followers` of users in Sweden on `2023/12/21 5:13 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
 
 There are `1 countries` and `4 cities` can be found [here](https://github.com/jaagr/top-github-users).
 
@@ -180,7 +180,7 @@ There are `955 users`  in Sweden. You need at least `73 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/ernerfeldt">ernerfeldt</a></td>
 		<td>Stockholm, Sweden</td>
-		<td>5027</td>
+		<td>5029</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -648,7 +648,7 @@ There are `955 users`  in Sweden. You need at least `73 followers` to be on this
 		<td>Grafana Labs </td>
 		<td><a href="https://twitter.com/torkelo">torkelo</a></td>
 		<td>Stockholm</td>
-		<td>1021</td>
+		<td>1022</td>
 	</tr>
 	<tr>
 		<td>43</td>
@@ -2234,7 +2234,7 @@ There are `955 users`  in Sweden. You need at least `73 followers` to be on this
 		<td>Serverpod </td>
 		<td><a href="https://twitter.com/viktorlidholt">viktorlidholt</a></td>
 		<td>Stockholm</td>
-		<td>321</td>
+		<td>320</td>
 	</tr>
 	<tr>
 		<td>165</td>
@@ -4904,6 +4904,19 @@ There are `955 users`  in Sweden. You need at least `73 followers` to be on this
 	<tr>
 		<td>370</td>
 		<td>
+			<a href="https://github.com/mpenet">
+				<img src="https://avatars.githubusercontent.com/u/106390?s=72&u=b7c2d01abac7e07234a44bf1e3a1db9783716375&v=4" width="24" alt="Avatar of mpenet"> mpenet
+			</a><br/>
+			Max Penet
+		</td>
+		<td>@exoscale </td>
+		<td><a href="https://twitter.com/mpenet">mpenet</a></td>
+		<td>Sweden/Switzerland</td>
+		<td>164</td>
+	</tr>
+	<tr>
+		<td>371</td>
+		<td>
 			<a href="https://github.com/Gegy">
 				<img src="https://avatars.githubusercontent.com/u/5172118?s=72&u=8aad510d03455d4a930553468a8dde864c93fbc2&v=4" width="24" alt="Avatar of Gegy"> Gegy
 			</a><br/>
@@ -4915,7 +4928,7 @@ There are `955 users`  in Sweden. You need at least `73 followers` to be on this
 		<td>164</td>
 	</tr>
 	<tr>
-		<td>371</td>
+		<td>372</td>
 		<td>
 			<a href="https://github.com/TwoTenPvP">
 				<img src="https://avatars.githubusercontent.com/u/21089228?s=72&u=fe63ed58851fda6895fc31e229213f873537df53&v=4" width="24" alt="Avatar of TwoTenPvP"> TwoTenPvP
@@ -4928,7 +4941,7 @@ There are `955 users`  in Sweden. You need at least `73 followers` to be on this
 		<td>164</td>
 	</tr>
 	<tr>
-		<td>372</td>
+		<td>373</td>
 		<td>
 			<a href="https://github.com/mehrdad-shokri">
 				<img src="https://avatars.githubusercontent.com/u/13661520?s=72&u=6cc9f60753dab49a93dcb5a1b73ea6263523ee02&v=4" width="24" alt="Avatar of mehrdad-shokri"> mehrdad-shokri
@@ -4937,19 +4950,6 @@ There are `955 users`  in Sweden. You need at least `73 followers` to be on this
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/mehrdad_shokri">mehrdad_shokri</a></td>
-		<td>Sweden</td>
-		<td>164</td>
-	</tr>
-	<tr>
-		<td>373</td>
-		<td>
-			<a href="https://github.com/Lallassu">
-				<img src="https://avatars.githubusercontent.com/u/1034939?s=72&u=1c4c326ccfa680309303f5259514e9b1b9b0f308&v=4" width="24" alt="Avatar of Lallassu"> Lallassu
-			</a><br/>
-			Magnus
-		</td>
-		<td>Varnish Software </td>
-		<td><a href="https://twitter.com/lallassu">lallassu</a></td>
 		<td>Sweden</td>
 		<td>164</td>
 	</tr>
