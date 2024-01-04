@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg" alt="Sweden">
 </a>
 
-The `number of followers` of users in Sweden on `2024/1/4 12:19 PM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
+The `number of followers` of users in Sweden on `2024/1/4 1:16 PM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
 
 There are `1 countries` and `4 cities` can be found [here](https://github.com/jaagr/top-github-users).
 
@@ -739,7 +739,7 @@ There are `954 users`  in Sweden. You need at least `73 followers` to be on this
 		<td>Spotify </td>
 		<td><a href="https://twitter.com/rockbruno_">rockbruno_</a></td>
 		<td>Sweden</td>
-		<td>871</td>
+		<td>872</td>
 	</tr>
 	<tr>
 		<td>50</td>
@@ -1493,7 +1493,7 @@ There are `954 users`  in Sweden. You need at least `73 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Sweden  ⇄ Spain</td>
-		<td>457</td>
+		<td>458</td>
 	</tr>
 	<tr>
 		<td>108</td>
@@ -1961,7 +1961,7 @@ There are `954 users`  in Sweden. You need at least `73 followers` to be on this
 		<td>Google </td>
 		<td>No Twitter Username</td>
 		<td>Stockholm</td>
-		<td>361</td>
+		<td>362</td>
 	</tr>
 	<tr>
 		<td>144</td>
@@ -2078,7 +2078,7 @@ There are `954 users`  in Sweden. You need at least `73 followers` to be on this
 		<td>@epidemicsound </td>
 		<td><a href="https://twitter.com/carlthome">carlthome</a></td>
 		<td>Stockholm, Sweden</td>
-		<td>341</td>
+		<td>342</td>
 	</tr>
 	<tr>
 		<td>153</td>
@@ -2832,7 +2832,7 @@ There are `954 users`  in Sweden. You need at least `73 followers` to be on this
 		<td>Acme Corporation </td>
 		<td><a href="https://twitter.com/martinmonperrus">martinmonperrus</a></td>
 		<td>Stockholm, Sweden</td>
-		<td>264</td>
+		<td>265</td>
 	</tr>
 	<tr>
 		<td>211</td>
@@ -4145,7 +4145,7 @@ There are `954 users`  in Sweden. You need at least `73 followers` to be on this
 		<td>Peach </td>
 		<td>No Twitter Username</td>
 		<td>Gothenburg, Sweden</td>
-		<td>189</td>
+		<td>190</td>
 	</tr>
 	<tr>
 		<td>312</td>
@@ -6061,6 +6061,19 @@ There are `954 users`  in Sweden. You need at least `73 followers` to be on this
 	<tr>
 		<td>459</td>
 		<td>
+			<a href="https://github.com/DXVVAY">
+				<img src="https://avatars.githubusercontent.com/u/89728480?s=72&u=0c22658cf3f3599774eeafe0ac3b1d504f990e2d&v=4" width="24" alt="Avatar of DXVVAY"> DXVVAY
+			</a><br/>
+			DEXV
+		</td>
+		<td>Xvirus </td>
+		<td><a href="https://twitter.com/DXVVAY">DXVVAY</a></td>
+		<td>sweden</td>
+		<td>140</td>
+	</tr>
+	<tr>
+		<td>460</td>
+		<td>
 			<a href="https://github.com/IuryAlves">
 				<img src="https://avatars.githubusercontent.com/u/1934268?s=72&u=4d5bede692170231a1a0b32fd3f74243f5d8e53d&v=4" width="24" alt="Avatar of IuryAlves"> IuryAlves
 			</a><br/>
@@ -6072,7 +6085,7 @@ There are `954 users`  in Sweden. You need at least `73 followers` to be on this
 		<td>139</td>
 	</tr>
 	<tr>
-		<td>460</td>
+		<td>461</td>
 		<td>
 			<a href="https://github.com/zegl">
 				<img src="https://avatars.githubusercontent.com/u/47952?s=72&u=ea6f04adb8a7bb6c0d52f903376d8a9e42e619a6&v=4" width="24" alt="Avatar of zegl"> zegl
@@ -6085,7 +6098,7 @@ There are `954 users`  in Sweden. You need at least `73 followers` to be on this
 		<td>139</td>
 	</tr>
 	<tr>
-		<td>461</td>
+		<td>462</td>
 		<td>
 			<a href="https://github.com/camilaibs">
 				<img src="https://avatars.githubusercontent.com/u/6290749?s=72&u=cfb328c7a274d93f19f9638aa7958b90428d7587&v=4" width="24" alt="Avatar of camilaibs"> camilaibs
@@ -6095,19 +6108,6 @@ There are `954 users`  in Sweden. You need at least `73 followers` to be on this
 		<td>Spotify </td>
 		<td>No Twitter Username</td>
 		<td>Stockholm, Sweden</td>
-		<td>139</td>
-	</tr>
-	<tr>
-		<td>462</td>
-		<td>
-			<a href="https://github.com/DXVVAY">
-				<img src="https://avatars.githubusercontent.com/u/89728480?s=72&u=0c22658cf3f3599774eeafe0ac3b1d504f990e2d&v=4" width="24" alt="Avatar of DXVVAY"> DXVVAY
-			</a><br/>
-			DEXV
-		</td>
-		<td>Xvirus </td>
-		<td><a href="https://twitter.com/DXVVAY">DXVVAY</a></td>
-		<td>sweden</td>
 		<td>139</td>
 	</tr>
 	<tr>
@@ -7829,6 +7829,19 @@ There are `954 users`  in Sweden. You need at least `73 followers` to be on this
 	<tr>
 		<td>595</td>
 		<td>
+			<a href="https://github.com/Tritlo">
+				<img src="https://avatars.githubusercontent.com/u/1667287?s=72&u=a0bb58a53c3446d567621501f9819814e1fc4c0b&v=4" width="24" alt="Avatar of Tritlo"> Tritlo
+			</a><br/>
+			Matthías Páll Gissurarson
+		</td>
+		<td>Chalmers University Of Technology<br/></td>
+		<td><a href="https://twitter.com/Tritlo">Tritlo</a></td>
+		<td>Gothenburg, Sweden</td>
+		<td>114</td>
+	</tr>
+	<tr>
+		<td>596</td>
+		<td>
 			<a href="https://github.com/cabral">
 				<img src="https://avatars.githubusercontent.com/u/182472?s=72&u=4077dca366fb0aeee43599760277ecffe25ff603&v=4" width="24" alt="Avatar of cabral"> cabral
 			</a><br/>
@@ -7837,19 +7850,6 @@ There are `954 users`  in Sweden. You need at least `73 followers` to be on this
 		<td>@felipebcabral </td>
 		<td>No Twitter Username</td>
 		<td>Stockholm</td>
-		<td>114</td>
-	</tr>
-	<tr>
-		<td>596</td>
-		<td>
-			<a href="https://github.com/Grokzen">
-				<img src="https://avatars.githubusercontent.com/u/892309?s=72&u=8c9cacf20b1de782736cd569060a488b8b657678&v=4" width="24" alt="Avatar of Grokzen"> Grokzen
-			</a><br/>
-			Grokzen
-		</td>
-		<td>Dynamist (https://dynamist.se </td>
-		<td>No Twitter Username</td>
-		<td>Sweden</td>
 		<td>114</td>
 	</tr>
 	<tr>
@@ -10638,7 +10638,7 @@ There are `954 users`  in Sweden. You need at least `73 followers` to be on this
 		<td>811</td>
 		<td>
 			<a href="https://github.com/victorjonsson">
-				<img src="https://avatars.githubusercontent.com/u/429182?s=72&u=9dfa27249a800fb0b386601ecb63d8bb93757d2a&v=4" width="24" alt="Avatar of victorjonsson"> victorjonsson
+				<img src="https://avatars.githubusercontent.com/u/429182?s=72&u=fa5e6ab6756ffe7ef5fe2b2e9fdcf6efd5d75cc5&v=4" width="24" alt="Avatar of victorjonsson"> victorjonsson
 			</a><br/>
 			Victor Jonsson
 		</td>
