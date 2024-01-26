@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg" alt="Sweden">
 </a>
 
-The `number of followers` of users in Sweden on `2024/1/26 4:15 PM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
+The `number of followers` of users in Sweden on `2024/1/26 5:11 PM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
 
 There are `1 countries` and `4 cities` can be found [here](https://github.com/jaagr/top-github-users).
 
@@ -167,7 +167,7 @@ There are `952 users`  in Sweden. You need at least `75 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/ernerfeldt">ernerfeldt</a></td>
 		<td>Stockholm, Sweden</td>
-		<td>5124</td>
+		<td>5123</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -219,7 +219,7 @@ There are `952 users`  in Sweden. You need at least `75 followers` to be on this
 		<td>Chia Net </td>
 		<td>No Twitter Username</td>
 		<td>Stockholm, Sweden</td>
-		<td>3284</td>
+		<td>3285</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -1441,7 +1441,7 @@ There are `952 users`  in Sweden. You need at least `75 followers` to be on this
 		<td>Worktiles </td>
 		<td><a href="https://twitter.com/voxpelli">voxpelli</a></td>
 		<td>Malmö, Sweden</td>
-		<td>476</td>
+		<td>477</td>
 	</tr>
 	<tr>
 		<td>104</td>
@@ -3097,6 +3097,19 @@ There are `952 users`  in Sweden. You need at least `75 followers` to be on this
 	<tr>
 		<td>231</td>
 		<td>
+			<a href="https://github.com/danba340">
+				<img src="https://avatars.githubusercontent.com/u/12296279?s=72&u=6e74a94086fc7376eb9c9a5a4e9ecefcc0ade1f8&v=4" width="24" alt="Avatar of danba340"> danba340
+			</a><br/>
+			Daniel Bark
+		</td>
+		<td>Volvo Cars </td>
+		<td><a href="https://twitter.com/barelydaniel">barelydaniel</a></td>
+		<td>Gothenburg</td>
+		<td>245</td>
+	</tr>
+	<tr>
+		<td>232</td>
+		<td>
 			<a href="https://github.com/mikaelvesavuori">
 				<img src="https://avatars.githubusercontent.com/u/23580994?s=72&u=f0c36772e539105f73230678e8c86909a841377e&v=4" width="24" alt="Avatar of mikaelvesavuori"> mikaelvesavuori
 			</a><br/>
@@ -3108,7 +3121,7 @@ There are `952 users`  in Sweden. You need at least `75 followers` to be on this
 		<td>244</td>
 	</tr>
 	<tr>
-		<td>232</td>
+		<td>233</td>
 		<td>
 			<a href="https://github.com/nglgzz">
 				<img src="https://avatars.githubusercontent.com/u/13448636?s=72&u=31d1e7139d49d9946a65f4ac24e9aab3035fad61&v=4" width="24" alt="Avatar of nglgzz"> nglgzz
@@ -3121,7 +3134,7 @@ There are `952 users`  in Sweden. You need at least `75 followers` to be on this
 		<td>244</td>
 	</tr>
 	<tr>
-		<td>233</td>
+		<td>234</td>
 		<td>
 			<a href="https://github.com/m3hrdadfi">
 				<img src="https://avatars.githubusercontent.com/u/2601833?s=72&u=a836fc9f949e7150958d16087590fd89aebbfb02&v=4" width="24" alt="Avatar of m3hrdadfi"> m3hrdadfi
@@ -3131,19 +3144,6 @@ There are `952 users`  in Sweden. You need at least `75 followers` to be on this
 		<td>Chalmers University Of Technology<br/></td>
 		<td><a href="https://twitter.com/m3hrdadfi">m3hrdadfi</a></td>
 		<td>Gothenburg, Sweden</td>
-		<td>244</td>
-	</tr>
-	<tr>
-		<td>234</td>
-		<td>
-			<a href="https://github.com/danba340">
-				<img src="https://avatars.githubusercontent.com/u/12296279?s=72&u=6e74a94086fc7376eb9c9a5a4e9ecefcc0ade1f8&v=4" width="24" alt="Avatar of danba340"> danba340
-			</a><br/>
-			Daniel Bark
-		</td>
-		<td>Volvo Cars </td>
-		<td><a href="https://twitter.com/barelydaniel">barelydaniel</a></td>
-		<td>Gothenburg</td>
 		<td>244</td>
 	</tr>
 	<tr>
