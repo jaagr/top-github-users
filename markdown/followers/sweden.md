@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg" alt="Sweden">
 </a>
 
-The `number of followers` of users in Sweden on `2024/1/28 9:11 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
+The `number of followers` of users in Sweden on `2024/1/28 10:11 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
 
 There are `1 countries` and `4 cities` can be found [here](https://github.com/jaagr/top-github-users).
 
@@ -757,6 +757,19 @@ There are `952 users`  in Sweden. You need at least `75 followers` to be on this
 	<tr>
 		<td>51</td>
 		<td>
+			<a href="https://github.com/dejwid">
+				<img src="https://avatars.githubusercontent.com/u/4366518?s=72&u=8279404551418caa6e85acb3553d39bf1e8d8aff&v=4" width="24" alt="Avatar of dejwid"> dejwid
+			</a><br/>
+			Dawid Paszko
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Stockholm, Sweden</td>
+		<td>862</td>
+	</tr>
+	<tr>
+		<td>52</td>
+		<td>
 			<a href="https://github.com/kushaldas">
 				<img src="https://avatars.githubusercontent.com/u/272303?s=72&u=392b46c2a0102df453221ef8ce6ab5d8374f1ee9&v=4" width="24" alt="Avatar of kushaldas"> kushaldas
 			</a><br/>
@@ -766,19 +779,6 @@ There are `952 users`  in Sweden. You need at least `75 followers` to be on this
 		<td><a href="https://twitter.com/kushaldas">kushaldas</a></td>
 		<td>Stockholm</td>
 		<td>862</td>
-	</tr>
-	<tr>
-		<td>52</td>
-		<td>
-			<a href="https://github.com/dejwid">
-				<img src="https://avatars.githubusercontent.com/u/4366518?s=72&u=8279404551418caa6e85acb3553d39bf1e8d8aff&v=4" width="24" alt="Avatar of dejwid"> dejwid
-			</a><br/>
-			Dawid Paszko
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Stockholm, Sweden</td>
-		<td>861</td>
 	</tr>
 	<tr>
 		<td>53</td>
@@ -1025,7 +1025,7 @@ There are `952 users`  in Sweden. You need at least `75 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Sweden</td>
-		<td>710</td>
+		<td>711</td>
 	</tr>
 	<tr>
 		<td>72</td>
@@ -5866,6 +5866,19 @@ There are `952 users`  in Sweden. You need at least `75 followers` to be on this
 	<tr>
 		<td>444</td>
 		<td>
+			<a href="https://github.com/zegl">
+				<img src="https://avatars.githubusercontent.com/u/47952?s=72&u=ea6f04adb8a7bb6c0d52f903376d8a9e42e619a6&v=4" width="24" alt="Avatar of zegl"> zegl
+			</a><br/>
+			Gustav Westling
+		</td>
+		<td>@polarsource </td>
+		<td><a href="https://twitter.com/zegl">zegl</a></td>
+		<td>Stockholm, Sweden</td>
+		<td>144</td>
+	</tr>
+	<tr>
+		<td>445</td>
+		<td>
 			<a href="https://github.com/DXVVAY">
 				<img src="https://avatars.githubusercontent.com/u/89728480?s=72&u=0c22658cf3f3599774eeafe0ac3b1d504f990e2d&v=4" width="24" alt="Avatar of DXVVAY"> DXVVAY
 			</a><br/>
@@ -5877,7 +5890,7 @@ There are `952 users`  in Sweden. You need at least `75 followers` to be on this
 		<td>144</td>
 	</tr>
 	<tr>
-		<td>445</td>
+		<td>446</td>
 		<td>
 			<a href="https://github.com/massemanet">
 				<img src="https://avatars.githubusercontent.com/u/12678?s=72&v=4" width="24" alt="Avatar of massemanet"> massemanet
@@ -5890,7 +5903,7 @@ There are `952 users`  in Sweden. You need at least `75 followers` to be on this
 		<td>144</td>
 	</tr>
 	<tr>
-		<td>446</td>
+		<td>447</td>
 		<td>
 			<a href="https://github.com/sim0n">
 				<img src="https://avatars.githubusercontent.com/u/47766407?s=72&u=fa894c4a0528537a6801d4781fa2d32e7dd82b25&v=4" width="24" alt="Avatar of sim0n"> sim0n
@@ -5901,19 +5914,6 @@ There are `952 users`  in Sweden. You need at least `75 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Sweden</td>
 		<td>144</td>
-	</tr>
-	<tr>
-		<td>447</td>
-		<td>
-			<a href="https://github.com/zegl">
-				<img src="https://avatars.githubusercontent.com/u/47952?s=72&u=ea6f04adb8a7bb6c0d52f903376d8a9e42e619a6&v=4" width="24" alt="Avatar of zegl"> zegl
-			</a><br/>
-			Gustav Westling
-		</td>
-		<td>@polarsource </td>
-		<td><a href="https://twitter.com/zegl">zegl</a></td>
-		<td>Stockholm, Sweden</td>
-		<td>143</td>
 	</tr>
 	<tr>
 		<td>448</td>
