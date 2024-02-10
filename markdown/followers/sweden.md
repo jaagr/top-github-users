@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg" alt="Sweden">
 </a>
 
-The `number of followers` of users in Sweden on `2024/2/10 3:15 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
+The `number of followers` of users in Sweden on `2024/2/10 4:15 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
 
 There are `1 countries` and `4 cities` can be found [here](https://github.com/jaagr/top-github-users).
 
@@ -232,7 +232,7 @@ There are `952 users`  in Sweden. You need at least `75 followers` to be on this
 		<td>Pixolity Ab </td>
 		<td><a href="https://twitter.com/vandadnp">vandadnp</a></td>
 		<td>Sweden</td>
-		<td>3057</td>
+		<td>3058</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -1831,7 +1831,7 @@ There are `952 users`  in Sweden. You need at least `75 followers` to be on this
 		<td>Finsit </td>
 		<td><a href="https://twitter.com/NicolasPetton">NicolasPetton</a></td>
 		<td>Stockholm, Sweden</td>
-		<td>396</td>
+		<td>397</td>
 	</tr>
 	<tr>
 		<td>134</td>
@@ -1940,6 +1940,19 @@ There are `952 users`  in Sweden. You need at least `75 followers` to be on this
 	<tr>
 		<td>142</td>
 		<td>
+			<a href="https://github.com/trapd00r">
+				<img src="https://avatars.githubusercontent.com/u/43331?s=72&u=9b7bea245930fa680b2ceab80c4f828a55b01344&v=4" width="24" alt="Avatar of trapd00r"> trapd00r
+			</a><br/>
+			magnus woldrich
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>sweden</td>
+		<td>370</td>
+	</tr>
+	<tr>
+		<td>143</td>
+		<td>
 			<a href="https://github.com/YieldEnhancementLabs">
 				<img src="https://avatars.githubusercontent.com/u/85647044?s=72&u=ed05aa51b905cbf85af4199ac12411fb3fa20a4d&v=4" width="24" alt="Avatar of YieldEnhancementLabs"> YieldEnhancementLabs
 			</a><br/>
@@ -1949,19 +1962,6 @@ There are `952 users`  in Sweden. You need at least `75 followers` to be on this
 		<td><a href="https://twitter.com/yel_finance">yel_finance</a></td>
 		<td>Sweden</td>
 		<td>370</td>
-	</tr>
-	<tr>
-		<td>143</td>
-		<td>
-			<a href="https://github.com/trapd00r">
-				<img src="https://avatars.githubusercontent.com/u/43331?s=72&u=9b7bea245930fa680b2ceab80c4f828a55b01344&v=4" width="24" alt="Avatar of trapd00r"> trapd00r
-			</a><br/>
-			magnus woldrich
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>sweden</td>
-		<td>369</td>
 	</tr>
 	<tr>
 		<td>144</td>
@@ -5476,19 +5476,6 @@ There are `952 users`  in Sweden. You need at least `75 followers` to be on this
 	<tr>
 		<td>414</td>
 		<td>
-			<a href="https://github.com/jkotlinski">
-				<img src="https://avatars.githubusercontent.com/u/3259963?s=72&u=e95a140cf46c0693703985b2476144efbcc0d865&v=4" width="24" alt="Avatar of jkotlinski"> jkotlinski
-			</a><br/>
-			Johan Kotlinski
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Stockholm</td>
-		<td>154</td>
-	</tr>
-	<tr>
-		<td>415</td>
-		<td>
 			<a href="https://github.com/mropert">
 				<img src="https://avatars.githubusercontent.com/u/101672?s=72&u=27776f914dc7cbee25485d9709afa2e09b42f39f&v=4" width="24" alt="Avatar of mropert"> mropert
 			</a><br/>
@@ -5500,7 +5487,7 @@ There are `952 users`  in Sweden. You need at least `75 followers` to be on this
 		<td>154</td>
 	</tr>
 	<tr>
-		<td>416</td>
+		<td>415</td>
 		<td>
 			<a href="https://github.com/henkwymeersch">
 				<img src="https://avatars.githubusercontent.com/u/43907870?s=72&u=c803d4f313cd812a9e7e724985b456c1d80ed988&v=4" width="24" alt="Avatar of henkwymeersch"> henkwymeersch
@@ -5513,7 +5500,7 @@ There are `952 users`  in Sweden. You need at least `75 followers` to be on this
 		<td>154</td>
 	</tr>
 	<tr>
-		<td>417</td>
+		<td>416</td>
 		<td>
 			<a href="https://github.com/lawik">
 				<img src="https://avatars.githubusercontent.com/u/1971237?s=72&u=671495fb9f1a273698d28143739868e993be816e&v=4" width="24" alt="Avatar of lawik"> lawik
@@ -5523,6 +5510,19 @@ There are `952 users`  in Sweden. You need at least `75 followers` to be on this
 		<td>Underjord </td>
 		<td>No Twitter Username</td>
 		<td>West coast, Sweden</td>
+		<td>153</td>
+	</tr>
+	<tr>
+		<td>417</td>
+		<td>
+			<a href="https://github.com/jkotlinski">
+				<img src="https://avatars.githubusercontent.com/u/3259963?s=72&u=e95a140cf46c0693703985b2476144efbcc0d865&v=4" width="24" alt="Avatar of jkotlinski"> jkotlinski
+			</a><br/>
+			Johan Kotlinski
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Stockholm</td>
 		<td>153</td>
 	</tr>
 	<tr>
@@ -5705,7 +5705,7 @@ There are `952 users`  in Sweden. You need at least `75 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Sweden</td>
-		<td>148</td>
+		<td>149</td>
 	</tr>
 	<tr>
 		<td>432</td>

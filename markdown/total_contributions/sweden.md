@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg" alt="Sweden">
 </a>
 
-The `public contributions` and `private contributions` by users in Sweden on `2024/2/10 3:15 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
+The `public contributions` and `private contributions` by users in Sweden on `2024/2/10 4:15 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
 
 There are `1 countries` and `4 cities` can be found [here](https://github.com/jaagr/top-github-users).
 
@@ -425,7 +425,7 @@ There are `952 users`  in Sweden. You need at least `75 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Sweden, Stockholm</td>
 		<td>28</td>
-		<td>3791</td>
+		<td>3795</td>
 	</tr>
 	<tr>
 		<td>24</td>
@@ -2357,7 +2357,7 @@ There are `952 users`  in Sweden. You need at least `75 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Västerås, Sweden</td>
 		<td>35</td>
-		<td>1350</td>
+		<td>1351</td>
 	</tr>
 	<tr>
 		<td>162</td>
@@ -6108,8 +6108,8 @@ There are `952 users`  in Sweden. You need at least `75 followers` to be on this
 		<td>Happyr </td>
 		<td>No Twitter Username</td>
 		<td>Stockholm</td>
-		<td>372</td>
-		<td>372</td>
+		<td>373</td>
+		<td>373</td>
 	</tr>
 	<tr>
 		<td>430</td>
