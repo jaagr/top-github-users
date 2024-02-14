@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg" alt="Sweden">
 </a>
 
-The `number of followers` of users in Sweden on `2024/2/14 2:21 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
+The `number of followers` of users in Sweden on `2024/2/14 3:14 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
 
 There are `1 countries` and `4 cities` can be found [here](https://github.com/jaagr/top-github-users).
 
@@ -1199,6 +1199,19 @@ There are `951 users`  in Sweden. You need at least `75 followers` to be on this
 	<tr>
 		<td>85</td>
 		<td>
+			<a href="https://github.com/gkaramanis">
+				<img src="https://avatars.githubusercontent.com/u/3393168?s=72&u=863af696bed2f9916811ae5ce1a54e90022b9f32&v=4" width="24" alt="Avatar of gkaramanis"> gkaramanis
+			</a><br/>
+			Georgios Karamanis
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/geokaramanis">geokaramanis</a></td>
+		<td>Uppsala, Sweden</td>
+		<td>568</td>
+	</tr>
+	<tr>
+		<td>86</td>
+		<td>
 			<a href="https://github.com/JunshengFu">
 				<img src="https://avatars.githubusercontent.com/u/15829883?s=72&u=e109667358491c93dd89d7eff095e829665ad2d0&v=4" width="24" alt="Avatar of JunshengFu"> JunshengFu
 			</a><br/>
@@ -1208,19 +1221,6 @@ There are `951 users`  in Sweden. You need at least `75 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Gothenburg, Sweden</td>
 		<td>568</td>
-	</tr>
-	<tr>
-		<td>86</td>
-		<td>
-			<a href="https://github.com/gkaramanis">
-				<img src="https://avatars.githubusercontent.com/u/3393168?s=72&u=863af696bed2f9916811ae5ce1a54e90022b9f32&v=4" width="24" alt="Avatar of gkaramanis"> gkaramanis
-			</a><br/>
-			Georgios Karamanis
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/geokaramanis">geokaramanis</a></td>
-		<td>Uppsala, Sweden</td>
-		<td>567</td>
 	</tr>
 	<tr>
 		<td>87</td>
