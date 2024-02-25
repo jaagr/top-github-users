@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg" alt="Sweden">
 </a>
 
-The `number of followers` of users in Sweden on `2024/2/25 2:23 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
+The `number of followers` of users in Sweden on `2024/2/25 3:14 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
 
 There are `1 countries` and `4 cities` can be found [here](https://github.com/jaagr/top-github-users).
 
@@ -375,7 +375,7 @@ There are `949 users`  in Sweden. You need at least `75 followers` to be on this
 		<td>@mojang </td>
 		<td><a href="https://twitter.com/Dinnerbone">Dinnerbone</a></td>
 		<td>Stockholm, Sweden</td>
-		<td>2100</td>
+		<td>2101</td>
 	</tr>
 	<tr>
 		<td>22</td>
@@ -5034,6 +5034,19 @@ There are `949 users`  in Sweden. You need at least `75 followers` to be on this
 	<tr>
 		<td>380</td>
 		<td>
+			<a href="https://github.com/TwoTenPvP">
+				<img src="https://avatars.githubusercontent.com/u/21089228?s=72&u=fe63ed58851fda6895fc31e229213f873537df53&v=4" width="24" alt="Avatar of TwoTenPvP"> TwoTenPvP
+			</a><br/>
+			Albin Corén
+		</td>
+		<td>Iqxr </td>
+		<td>No Twitter Username</td>
+		<td>Sweden, Skåne</td>
+		<td>166</td>
+	</tr>
+	<tr>
+		<td>381</td>
+		<td>
 			<a href="https://github.com/JonasNilson">
 				<img src="https://avatars.githubusercontent.com/u/5990550?s=72&u=9771537b677eed8b0a44c5eab1119a8714d7bd3e&v=4" width="24" alt="Avatar of JonasNilson"> JonasNilson
 			</a><br/>
@@ -5045,7 +5058,7 @@ There are `949 users`  in Sweden. You need at least `75 followers` to be on this
 		<td>166</td>
 	</tr>
 	<tr>
-		<td>381</td>
+		<td>382</td>
 		<td>
 			<a href="https://github.com/mjansson">
 				<img src="https://avatars.githubusercontent.com/u/3316562?s=72&u=468fbf0cefde729d3cec86a291c7a4a870a77f93&v=4" width="24" alt="Avatar of mjansson"> mjansson
@@ -5058,7 +5071,7 @@ There are `949 users`  in Sweden. You need at least `75 followers` to be on this
 		<td>166</td>
 	</tr>
 	<tr>
-		<td>382</td>
+		<td>383</td>
 		<td>
 			<a href="https://github.com/lastguest">
 				<img src="https://avatars.githubusercontent.com/u/178900?s=72&u=9ea6877064eaec1061b898e7c843cda3d6fcaecb&v=4" width="24" alt="Avatar of lastguest"> lastguest
@@ -5069,19 +5082,6 @@ There are `949 users`  in Sweden. You need at least `75 followers` to be on this
 		<td><a href="https://twitter.com/lastguest">lastguest</a></td>
 		<td>Stockholm, Sweden</td>
 		<td>166</td>
-	</tr>
-	<tr>
-		<td>383</td>
-		<td>
-			<a href="https://github.com/TwoTenPvP">
-				<img src="https://avatars.githubusercontent.com/u/21089228?s=72&u=fe63ed58851fda6895fc31e229213f873537df53&v=4" width="24" alt="Avatar of TwoTenPvP"> TwoTenPvP
-			</a><br/>
-			Albin Corén
-		</td>
-		<td>Iqxr </td>
-		<td>No Twitter Username</td>
-		<td>Sweden, Skåne</td>
-		<td>165</td>
 	</tr>
 	<tr>
 		<td>384</td>
@@ -6308,6 +6308,19 @@ There are `949 users`  in Sweden. You need at least `75 followers` to be on this
 	<tr>
 		<td>478</td>
 		<td>
+			<a href="https://github.com/TheMolkaPL">
+				<img src="https://avatars.githubusercontent.com/u/4578571?s=72&u=530b7334315244d57b873f74ed117aa28f586232&v=4" width="24" alt="Avatar of TheMolkaPL"> TheMolkaPL
+			</a><br/>
+			Aleksander Jagiello
+		</td>
+		<td>@craftserve </td>
+		<td><a href="https://twitter.com/TheMolkaPL">TheMolkaPL</a></td>
+		<td>Stockholm, Sweden</td>
+		<td>139</td>
+	</tr>
+	<tr>
+		<td>479</td>
+		<td>
 			<a href="https://github.com/ruthpozuelo">
 				<img src="https://avatars.githubusercontent.com/u/19476550?s=72&v=4" width="24" alt="Avatar of ruthpozuelo"> ruthpozuelo
 			</a><br/>
@@ -6319,7 +6332,7 @@ There are `949 users`  in Sweden. You need at least `75 followers` to be on this
 		<td>139</td>
 	</tr>
 	<tr>
-		<td>479</td>
+		<td>480</td>
 		<td>
 			<a href="https://github.com/daniguerrato">
 				<img src="https://avatars.githubusercontent.com/u/111906?s=72&u=a303678118bbf1c99a387f4b7679a9413a152b18&v=4" width="24" alt="Avatar of daniguerrato"> daniguerrato
@@ -6332,7 +6345,7 @@ There are `949 users`  in Sweden. You need at least `75 followers` to be on this
 		<td>139</td>
 	</tr>
 	<tr>
-		<td>480</td>
+		<td>481</td>
 		<td>
 			<a href="https://github.com/bergmark">
 				<img src="https://avatars.githubusercontent.com/u/100681?s=72&u=a61c516443f4cbfde578e01f17432a06ba302c30&v=4" width="24" alt="Avatar of bergmark"> bergmark
@@ -6345,7 +6358,7 @@ There are `949 users`  in Sweden. You need at least `75 followers` to be on this
 		<td>138</td>
 	</tr>
 	<tr>
-		<td>481</td>
+		<td>482</td>
 		<td>
 			<a href="https://github.com/FRidh">
 				<img src="https://avatars.githubusercontent.com/u/2129135?s=72&u=dc44f21e5093b3bf073d8dd2fadf3d916e81e3f1&v=4" width="24" alt="Avatar of FRidh"> FRidh
@@ -6358,7 +6371,7 @@ There are `949 users`  in Sweden. You need at least `75 followers` to be on this
 		<td>138</td>
 	</tr>
 	<tr>
-		<td>482</td>
+		<td>483</td>
 		<td>
 			<a href="https://github.com/algomaster99">
 				<img src="https://avatars.githubusercontent.com/u/35191225?s=72&u=44db73e3db685b5983965dd57c2ff6c02ad6407b&v=4" width="24" alt="Avatar of algomaster99"> algomaster99
@@ -6371,7 +6384,7 @@ There are `949 users`  in Sweden. You need at least `75 followers` to be on this
 		<td>138</td>
 	</tr>
 	<tr>
-		<td>483</td>
+		<td>484</td>
 		<td>
 			<a href="https://github.com/satterly">
 				<img src="https://avatars.githubusercontent.com/u/615057?s=72&u=346feb65112c7e1c4973d529fd3755701fe8efb7&v=4" width="24" alt="Avatar of satterly"> satterly
@@ -6381,19 +6394,6 @@ There are `949 users`  in Sweden. You need at least `75 followers` to be on this
 		<td>@alerta </td>
 		<td><a href="https://twitter.com/alertaio">alertaio</a></td>
 		<td>Stockholm</td>
-		<td>138</td>
-	</tr>
-	<tr>
-		<td>484</td>
-		<td>
-			<a href="https://github.com/TheMolkaPL">
-				<img src="https://avatars.githubusercontent.com/u/4578571?s=72&u=530b7334315244d57b873f74ed117aa28f586232&v=4" width="24" alt="Avatar of TheMolkaPL"> TheMolkaPL
-			</a><br/>
-			Aleksander Jagiello
-		</td>
-		<td>@craftserve </td>
-		<td><a href="https://twitter.com/TheMolkaPL">TheMolkaPL</a></td>
-		<td>Stockholm, Sweden</td>
 		<td>138</td>
 	</tr>
 	<tr>

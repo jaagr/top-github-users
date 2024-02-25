@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg" alt="Sweden">
 </a>
 
-The `public contributions` and `private contributions` by users in Sweden on `2024/2/25 2:23 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
+The `public contributions` and `private contributions` by users in Sweden on `2024/2/25 3:14 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
 
 There are `1 countries` and `4 cities` can be found [here](https://github.com/jaagr/top-github-users).
 
@@ -326,8 +326,8 @@ There are `949 users`  in Sweden. You need at least `75 followers` to be on this
 		<td>@gitbutlerapp </td>
 		<td>No Twitter Username</td>
 		<td>Göteborg, Sweden</td>
-		<td>3602</td>
-		<td>4155</td>
+		<td>3604</td>
+		<td>4157</td>
 	</tr>
 	<tr>
 		<td>17</td>
@@ -481,7 +481,7 @@ There are `949 users`  in Sweden. You need at least `75 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Sweden, Stockholm</td>
 		<td>31</td>
-		<td>3671</td>
+		<td>3673</td>
 	</tr>
 	<tr>
 		<td>28</td>
@@ -3406,8 +3406,8 @@ There are `949 users`  in Sweden. You need at least `75 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Sweden</td>
-		<td>112</td>
-		<td>900</td>
+		<td>133</td>
+		<td>901</td>
 	</tr>
 	<tr>
 		<td>237</td>
@@ -5400,6 +5400,20 @@ There are `949 users`  in Sweden. You need at least `75 followers` to be on this
 	<tr>
 		<td>379</td>
 		<td>
+			<a href="https://github.com/erwinvanhunen">
+				<img src="https://avatars.githubusercontent.com/u/7666381?s=72&u=38bb0ce5e0286997502f8fda54898a4ed71710c1&v=4" width="24" alt="Avatar of erwinvanhunen"> erwinvanhunen
+			</a><br/>
+			Erwin van Hunen
+		</td>
+		<td>Valo Intranet </td>
+		<td><a href="https://twitter.com/erwinvanhunen">erwinvanhunen</a></td>
+		<td>Sweden</td>
+		<td>465</td>
+		<td>465</td>
+	</tr>
+	<tr>
+		<td>380</td>
+		<td>
 			<a href="https://github.com/mhagander">
 				<img src="https://avatars.githubusercontent.com/u/174657?s=72&v=4" width="24" alt="Avatar of mhagander"> mhagander
 			</a><br/>
@@ -5410,20 +5424,6 @@ There are `949 users`  in Sweden. You need at least `75 followers` to be on this
 		<td>Stockholm, Sweden</td>
 		<td>426</td>
 		<td>465</td>
-	</tr>
-	<tr>
-		<td>380</td>
-		<td>
-			<a href="https://github.com/erwinvanhunen">
-				<img src="https://avatars.githubusercontent.com/u/7666381?s=72&u=38bb0ce5e0286997502f8fda54898a4ed71710c1&v=4" width="24" alt="Avatar of erwinvanhunen"> erwinvanhunen
-			</a><br/>
-			Erwin van Hunen
-		</td>
-		<td>Valo Intranet </td>
-		<td><a href="https://twitter.com/erwinvanhunen">erwinvanhunen</a></td>
-		<td>Sweden</td>
-		<td>464</td>
-		<td>464</td>
 	</tr>
 	<tr>
 		<td>381</td>
@@ -9110,6 +9110,20 @@ There are `949 users`  in Sweden. You need at least `75 followers` to be on this
 	<tr>
 		<td>644</td>
 		<td>
+			<a href="https://github.com/arirawr">
+				<img src="https://avatars.githubusercontent.com/u/6777313?s=72&u=2cbae2d48e1864e7dc734cc301edf16e047fdce3&v=4" width="24" alt="Avatar of arirawr"> arirawr
+			</a><br/>
+			Ari V
+		</td>
+		<td>King Games </td>
+		<td><a href="https://twitter.com/AriVanider">AriVanider</a></td>
+		<td>Stockholm</td>
+		<td>52</td>
+		<td>56</td>
+	</tr>
+	<tr>
+		<td>645</td>
+		<td>
 			<a href="https://github.com/tonythomas01">
 				<img src="https://avatars.githubusercontent.com/u/4214481?s=72&u=ad580760285b2ccfe0d4db35215b28e3f248bae8&v=4" width="24" alt="Avatar of tonythomas01"> tonythomas01
 			</a><br/>
@@ -9122,7 +9136,7 @@ There are `949 users`  in Sweden. You need at least `75 followers` to be on this
 		<td>56</td>
 	</tr>
 	<tr>
-		<td>645</td>
+		<td>646</td>
 		<td>
 			<a href="https://github.com/ledongthuc">
 				<img src="https://avatars.githubusercontent.com/u/1828895?s=72&u=3f558537d744054e6b9d30bf6e3d90150b788a12&v=4" width="24" alt="Avatar of ledongthuc"> ledongthuc
@@ -9134,20 +9148,6 @@ There are `949 users`  in Sweden. You need at least `75 followers` to be on this
 		<td>Stockholm</td>
 		<td>56</td>
 		<td>56</td>
-	</tr>
-	<tr>
-		<td>646</td>
-		<td>
-			<a href="https://github.com/arirawr">
-				<img src="https://avatars.githubusercontent.com/u/6777313?s=72&u=2cbae2d48e1864e7dc734cc301edf16e047fdce3&v=4" width="24" alt="Avatar of arirawr"> arirawr
-			</a><br/>
-			Ari V
-		</td>
-		<td>King Games </td>
-		<td><a href="https://twitter.com/AriVanider">AriVanider</a></td>
-		<td>Stockholm</td>
-		<td>52</td>
-		<td>55</td>
 	</tr>
 	<tr>
 		<td>647</td>
