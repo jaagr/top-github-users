@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg" alt="Sweden">
 </a>
 
-The `number of followers` of users in Sweden on `2024/2/27 11:12 PM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
+The `number of followers` of users in Sweden on `2024/2/28 12:35 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
 
 There are `1 countries` and `4 cities` can be found [here](https://github.com/jaagr/top-github-users).
 
@@ -1025,7 +1025,7 @@ There are `949 users`  in Sweden. You need at least `75 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Sweden</td>
-		<td>714</td>
+		<td>716</td>
 	</tr>
 	<tr>
 		<td>72</td>
@@ -1246,7 +1246,7 @@ There are `949 users`  in Sweden. You need at least `75 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/EmmaDawsonDev">EmmaDawsonDev</a></td>
 		<td>Stockholm, Sweden</td>
-		<td>555</td>
+		<td>556</td>
 	</tr>
 	<tr>
 		<td>89</td>
@@ -1324,7 +1324,7 @@ There are `949 users`  in Sweden. You need at least `75 followers` to be on this
 		<td>@spotify </td>
 		<td>No Twitter Username</td>
 		<td>Stockholm, SE</td>
-		<td>511</td>
+		<td>512</td>
 	</tr>
 	<tr>
 		<td>95</td>
@@ -1402,7 +1402,7 @@ There are `949 users`  in Sweden. You need at least `75 followers` to be on this
 		<td>Personal Work </td>
 		<td>No Twitter Username</td>
 		<td>Stockholm, Sweden</td>
-		<td>495</td>
+		<td>494</td>
 	</tr>
 	<tr>
 		<td>101</td>
@@ -1662,7 +1662,7 @@ There are `949 users`  in Sweden. You need at least `75 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Stockholm, Sweden</td>
-		<td>424</td>
+		<td>425</td>
 	</tr>
 	<tr>
 		<td>121</td>
@@ -3804,7 +3804,7 @@ There are `949 users`  in Sweden. You need at least `75 followers` to be on this
 			</a><br/>
 			Samuel Kraft
 		</td>
-		<td>@bitrefill  </td>
+		<td>@raycast </td>
 		<td><a href="https://twitter.com/samuelkraft">samuelkraft</a></td>
 		<td>Stockholm</td>
 		<td>208</td>
