@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg" alt="Sweden">
 </a>
 
-The `public contributions` and `private contributions` by users in Sweden on `2024/4/12 1:49 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
+The `public contributions` and `private contributions` by users in Sweden on `2024/4/12 2:27 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
 
 There are `1 countries` and `4 cities` can be found [here](https://github.com/jaagr/top-github-users).
 
@@ -397,7 +397,7 @@ There are `947 users`  in Sweden. You need at least `76 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Göteborg, Sweden</td>
 		<td>3283</td>
-		<td>3809</td>
+		<td>3810</td>
 	</tr>
 	<tr>
 		<td>22</td>
@@ -466,8 +466,8 @@ There are `947 users`  in Sweden. You need at least `76 followers` to be on this
 		<td>Mend </td>
 		<td><a href="https://twitter.com/rarkins">rarkins</a></td>
 		<td>Stockholm, Sweden</td>
-		<td>3310</td>
-		<td>3558</td>
+		<td>3311</td>
+		<td>3559</td>
 	</tr>
 	<tr>
 		<td>27</td>
@@ -564,8 +564,8 @@ There are `947 users`  in Sweden. You need at least `76 followers` to be on this
 		<td>Emq Technologies </td>
 		<td><a href="https://twitter.com/stonezshi">stonezshi</a></td>
 		<td>Stockholm Sweden</td>
-		<td>2534</td>
-		<td>3083</td>
+		<td>2535</td>
+		<td>3084</td>
 	</tr>
 	<tr>
 		<td>34</td>
@@ -1390,8 +1390,8 @@ There are `947 users`  in Sweden. You need at least `76 followers` to be on this
 		<td>@mimohq </td>
 		<td><a href="https://twitter.com/szanwar22">szanwar22</a></td>
 		<td>Stockholm, Sweden</td>
-		<td>216</td>
-		<td>1926</td>
+		<td>217</td>
+		<td>1927</td>
 	</tr>
 	<tr>
 		<td>93</td>
@@ -1950,8 +1950,8 @@ There are `947 users`  in Sweden. You need at least `76 followers` to be on this
 		<td>@mojang  </td>
 		<td>No Twitter Username</td>
 		<td>Sweden</td>
-		<td>1406</td>
-		<td>1565</td>
+		<td>1408</td>
+		<td>1567</td>
 	</tr>
 	<tr>
 		<td>133</td>
@@ -2538,8 +2538,8 @@ There are `947 users`  in Sweden. You need at least `76 followers` to be on this
 		<td>Tvnu Sweden Ab </td>
 		<td>No Twitter Username</td>
 		<td>Arvika, Sweden</td>
-		<td>1225</td>
-		<td>1225</td>
+		<td>1228</td>
+		<td>1228</td>
 	</tr>
 	<tr>
 		<td>175</td>
@@ -5184,8 +5184,8 @@ There are `947 users`  in Sweden. You need at least `76 followers` to be on this
 		<td>Valo Intranet </td>
 		<td><a href="https://twitter.com/erwinvanhunen">erwinvanhunen</a></td>
 		<td>Sweden</td>
-		<td>499</td>
-		<td>499</td>
+		<td>500</td>
+		<td>500</td>
 	</tr>
 	<tr>
 		<td>364</td>
