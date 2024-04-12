@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg" alt="Sweden">
 </a>
 
-The `public contributions` and `private contributions` by users in Sweden on `2024/4/12 2:27 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
+The `public contributions` and `private contributions` by users in Sweden on `2024/4/12 3:15 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
 
 There are `1 countries` and `4 cities` can be found [here](https://github.com/jaagr/top-github-users).
 
@@ -396,8 +396,8 @@ There are `947 users`  in Sweden. You need at least `76 followers` to be on this
 		<td>@gitbutlerapp </td>
 		<td>No Twitter Username</td>
 		<td>Göteborg, Sweden</td>
-		<td>3283</td>
-		<td>3810</td>
+		<td>3284</td>
+		<td>3811</td>
 	</tr>
 	<tr>
 		<td>22</td>
@@ -710,20 +710,6 @@ There are `947 users`  in Sweden. You need at least `76 followers` to be on this
 	<tr>
 		<td>44</td>
 		<td>
-			<a href="https://github.com/homanp">
-				<img src="https://avatars.githubusercontent.com/u/2464556?s=72&u=4d6150c38daf305b43153112d1f2815d287273ea&v=4" width="24" alt="Avatar of homanp"> homanp
-			</a><br/>
-			Ismail Pelaseyed
-		</td>
-		<td>Superagent </td>
-		<td><a href="https://twitter.com/pelaseyed">pelaseyed</a></td>
-		<td>Sweden</td>
-		<td>2078</td>
-		<td>2821</td>
-	</tr>
-	<tr>
-		<td>45</td>
-		<td>
 			<a href="https://github.com/simonbengtsson">
 				<img src="https://avatars.githubusercontent.com/u/3586691?s=72&u=353d8470f51a7492e750ebf67901878c78a99fb0&v=4" width="24" alt="Avatar of simonbengtsson"> simonbengtsson
 			</a><br/>
@@ -734,6 +720,20 @@ There are `947 users`  in Sweden. You need at least `76 followers` to be on this
 		<td>Gothenburg, Sweden</td>
 		<td>174</td>
 		<td>2805</td>
+	</tr>
+	<tr>
+		<td>45</td>
+		<td>
+			<a href="https://github.com/homanp">
+				<img src="https://avatars.githubusercontent.com/u/2464556?s=72&u=4d6150c38daf305b43153112d1f2815d287273ea&v=4" width="24" alt="Avatar of homanp"> homanp
+			</a><br/>
+			Ismail Pelaseyed
+		</td>
+		<td>Superagent </td>
+		<td><a href="https://twitter.com/pelaseyed">pelaseyed</a></td>
+		<td>Sweden</td>
+		<td>2078</td>
+		<td>2790</td>
 	</tr>
 	<tr>
 		<td>46</td>
@@ -2581,7 +2581,7 @@ There are `947 users`  in Sweden. You need at least `76 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Sweden</td>
 		<td>0</td>
-		<td>1200</td>
+		<td>1201</td>
 	</tr>
 	<tr>
 		<td>178</td>
@@ -3547,7 +3547,7 @@ There are `947 users`  in Sweden. You need at least `76 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Sweden</td>
 		<td>206</td>
-		<td>865</td>
+		<td>867</td>
 	</tr>
 	<tr>
 		<td>247</td>
@@ -5184,8 +5184,8 @@ There are `947 users`  in Sweden. You need at least `76 followers` to be on this
 		<td>Valo Intranet </td>
 		<td><a href="https://twitter.com/erwinvanhunen">erwinvanhunen</a></td>
 		<td>Sweden</td>
-		<td>500</td>
-		<td>500</td>
+		<td>501</td>
+		<td>501</td>
 	</tr>
 	<tr>
 		<td>364</td>
@@ -11070,20 +11070,6 @@ There are `947 users`  in Sweden. You need at least `76 followers` to be on this
 	<tr>
 		<td>784</td>
 		<td>
-			<a href="https://github.com/davidsjoberg">
-				<img src="https://avatars.githubusercontent.com/u/44140737?s=72&u=d68ee9668f54ab1defb365b553b98d5582170043&v=4" width="24" alt="Avatar of davidsjoberg"> davidsjoberg
-			</a><br/>
-			David Sjoberg
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Stockholm, Sweden</td>
-		<td>7</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>785</td>
-		<td>
 			<a href="https://github.com/lefant">
 				<img src="https://avatars.githubusercontent.com/u/64208?s=72&v=4" width="24" alt="Avatar of lefant"> lefant
 			</a><br/>
@@ -11091,6 +11077,20 @@ There are `947 users`  in Sweden. You need at least `76 followers` to be on this
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/lefant">lefant</a></td>
+		<td>Stockholm, Sweden</td>
+		<td>7</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>785</td>
+		<td>
+			<a href="https://github.com/davidsjoberg">
+				<img src="https://avatars.githubusercontent.com/u/44140737?s=72&u=d68ee9668f54ab1defb365b553b98d5582170043&v=4" width="24" alt="Avatar of davidsjoberg"> davidsjoberg
+			</a><br/>
+			David Sjoberg
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
 		<td>Stockholm, Sweden</td>
 		<td>7</td>
 		<td>7</td>
