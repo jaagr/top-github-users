@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg" alt="Sweden">
 </a>
 
-The `public contributions` by users in Sweden on `2024/4/21 7:10 PM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
+The `public contributions` by users in Sweden on `2024/4/21 8:15 PM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
 
 There are `1 countries` and `4 cities` can be found [here](https://github.com/jaagr/top-github-users).
 
@@ -115,7 +115,7 @@ There are `947 users`  in Sweden. You need at least `76 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Sweden</td>
-		<td>4705</td>
+		<td>4707</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -128,7 +128,7 @@ There are `947 users`  in Sweden. You need at least `76 followers` to be on this
 		<td>Sundell Open Source Consulting<br/>Ab<br/></td>
 		<td><a href="https://twitter.com/e_Sundell">e_Sundell</a></td>
 		<td>Sweden</td>
-		<td>4702</td>
+		<td>4703</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -219,7 +219,7 @@ There are `947 users`  in Sweden. You need at least `76 followers` to be on this
 		<td>Mend </td>
 		<td><a href="https://twitter.com/rarkins">rarkins</a></td>
 		<td>Stockholm, Sweden</td>
-		<td>3399</td>
+		<td>3400</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -349,7 +349,7 @@ There are `947 users`  in Sweden. You need at least `76 followers` to be on this
 		<td>Ambient </td>
 		<td><a href="https://twitter.com/philpax_">philpax_</a></td>
 		<td>Stockholm, Sweden</td>
-		<td>2804</td>
+		<td>2805</td>
 	</tr>
 	<tr>
 		<td>20</td>
@@ -804,7 +804,7 @@ There are `947 users`  in Sweden. You need at least `76 followers` to be on this
 		<td>@einride </td>
 		<td>No Twitter Username</td>
 		<td>Sweden</td>
-		<td>1474</td>
+		<td>1475</td>
 	</tr>
 	<tr>
 		<td>55</td>
@@ -1662,7 +1662,7 @@ There are `947 users`  in Sweden. You need at least `76 followers` to be on this
 		<td>@normative-io  </td>
 		<td>No Twitter Username</td>
 		<td>Knivsta, Sweden</td>
-		<td>752</td>
+		<td>754</td>
 	</tr>
 	<tr>
 		<td>121</td>
@@ -5853,6 +5853,19 @@ There are `947 users`  in Sweden. You need at least `76 followers` to be on this
 	<tr>
 		<td>443</td>
 		<td>
+			<a href="https://github.com/okasi">
+				<img src="https://avatars.githubusercontent.com/u/42962282?s=72&u=b39b7076db6592aa50b76b0094e7306cce898b59&v=4" width="24" alt="Avatar of okasi"> okasi
+			</a><br/>
+			No Name
+		</td>
+		<td>@sbabbank </td>
+		<td><a href="https://twitter.com/okasi_me">okasi_me</a></td>
+		<td>Stockholm</td>
+		<td>79</td>
+	</tr>
+	<tr>
+		<td>444</td>
+		<td>
 			<a href="https://github.com/magiconair">
 				<img src="https://avatars.githubusercontent.com/u/229005?s=72&u=7ef886d38b71c418b939cd408a2ae0f0468e1e03&v=4" width="24" alt="Avatar of magiconair"> magiconair
 			</a><br/>
@@ -5864,7 +5877,7 @@ There are `947 users`  in Sweden. You need at least `76 followers` to be on this
 		<td>78</td>
 	</tr>
 	<tr>
-		<td>444</td>
+		<td>445</td>
 		<td>
 			<a href="https://github.com/HadrienG">
 				<img src="https://avatars.githubusercontent.com/u/7337110?s=72&u=33826be6e4bb340f888ede72cd89ac289ceae3fe&v=4" width="24" alt="Avatar of HadrienG"> HadrienG
@@ -5877,7 +5890,7 @@ There are `947 users`  in Sweden. You need at least `76 followers` to be on this
 		<td>78</td>
 	</tr>
 	<tr>
-		<td>445</td>
+		<td>446</td>
 		<td>
 			<a href="https://github.com/arturo182">
 				<img src="https://avatars.githubusercontent.com/u/249082?s=72&u=dc0c9048bb2a41d74c37c22e5fce068f35c21324&v=4" width="24" alt="Avatar of arturo182"> arturo182
@@ -5887,19 +5900,6 @@ There are `947 users`  in Sweden. You need at least `76 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Malmö, Sweden</td>
-		<td>77</td>
-	</tr>
-	<tr>
-		<td>446</td>
-		<td>
-			<a href="https://github.com/okasi">
-				<img src="https://avatars.githubusercontent.com/u/42962282?s=72&u=b39b7076db6592aa50b76b0094e7306cce898b59&v=4" width="24" alt="Avatar of okasi"> okasi
-			</a><br/>
-			No Name
-		</td>
-		<td>@sbabbank </td>
-		<td><a href="https://twitter.com/okasi_me">okasi_me</a></td>
-		<td>Stockholm</td>
 		<td>77</td>
 	</tr>
 	<tr>
