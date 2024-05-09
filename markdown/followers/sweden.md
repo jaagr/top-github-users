@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg" alt="Sweden">
 </a>
 
-The `number of followers` of users in Sweden on `2024/5/9 3:16 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
+The `number of followers` of users in Sweden on `2024/5/9 4:18 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
 
 There are `1 countries` and `4 cities` can be found [here](https://github.com/jaagr/top-github-users).
 
@@ -271,7 +271,7 @@ There are `946 users`  in Sweden. You need at least `77 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/aladdinpersson">aladdinpersson</a></td>
 		<td>Stockholm</td>
-		<td>2751</td>
+		<td>2752</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -362,7 +362,7 @@ There are `946 users`  in Sweden. You need at least `77 followers` to be on this
 		<td>Kth Royal Institute Of<br/>Technology<br/></td>
 		<td>No Twitter Username</td>
 		<td>Stockholm, Sweden</td>
-		<td>2188</td>
+		<td>2189</td>
 	</tr>
 	<tr>
 		<td>21</td>
@@ -1207,7 +1207,7 @@ There are `946 users`  in Sweden. You need at least `77 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/filip_mariani">filip_mariani</a></td>
 		<td>Sweden</td>
-		<td>608</td>
+		<td>610</td>
 	</tr>
 	<tr>
 		<td>86</td>
@@ -2213,19 +2213,6 @@ There are `946 users`  in Sweden. You need at least `77 followers` to be on this
 	<tr>
 		<td>163</td>
 		<td>
-			<a href="https://github.com/heyman">
-				<img src="https://avatars.githubusercontent.com/u/54217?s=72&u=26fff55717cc6243493162f9204b129e12535702&v=4" width="24" alt="Avatar of heyman"> heyman
-			</a><br/>
-			Jonatan Heyman
-		</td>
-		<td>Heylab </td>
-		<td>No Twitter Username</td>
-		<td>Uppsala / Stockholm, Sweden</td>
-		<td>338</td>
-	</tr>
-	<tr>
-		<td>164</td>
-		<td>
 			<a href="https://github.com/nevyn">
 				<img src="https://avatars.githubusercontent.com/u/34791?s=72&u=e90b3603d92ebbeb5ac7a474401cf299debf3737&v=4" width="24" alt="Avatar of nevyn"> nevyn
 			</a><br/>
@@ -2235,6 +2222,19 @@ There are `946 users`  in Sweden. You need at least `77 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Stockholm (formerly San Francisco)</td>
 		<td>338</td>
+	</tr>
+	<tr>
+		<td>164</td>
+		<td>
+			<a href="https://github.com/heyman">
+				<img src="https://avatars.githubusercontent.com/u/54217?s=72&u=26fff55717cc6243493162f9204b129e12535702&v=4" width="24" alt="Avatar of heyman"> heyman
+			</a><br/>
+			Jonatan Heyman
+		</td>
+		<td>Heylab </td>
+		<td>No Twitter Username</td>
+		<td>Uppsala / Stockholm, Sweden</td>
+		<td>337</td>
 	</tr>
 	<tr>
 		<td>165</td>
@@ -4119,7 +4119,7 @@ There are `946 users`  in Sweden. You need at least `77 followers` to be on this
 		<td>Spotify </td>
 		<td>No Twitter Username</td>
 		<td>Stockholm</td>
-		<td>202</td>
+		<td>201</td>
 	</tr>
 	<tr>
 		<td>310</td>
