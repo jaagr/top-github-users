@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg" alt="Sweden">
 </a>
 
-The `public contributions` by users in Sweden on `2024/5/10 12:38 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
+The `public contributions` by users in Sweden on `2024/5/10 1:58 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
 
 There are `1 countries` and `4 cities` can be found [here](https://github.com/jaagr/top-github-users).
 
@@ -492,7 +492,7 @@ There are `946 users`  in Sweden. You need at least `77 followers` to be on this
 		<td>@recordedfuture </td>
 		<td><a href="https://twitter.com/lenguyenthanh">lenguyenthanh</a></td>
 		<td>Gothenburg, Sweden</td>
-		<td>2320</td>
+		<td>2322</td>
 	</tr>
 	<tr>
 		<td>31</td>
@@ -752,7 +752,7 @@ There are `946 users`  in Sweden. You need at least `77 followers` to be on this
 		<td>@evilcorpltd </td>
 		<td>No Twitter Username</td>
 		<td>Sweden</td>
-		<td>1519</td>
+		<td>1520</td>
 	</tr>
 	<tr>
 		<td>51</td>
@@ -986,7 +986,7 @@ There are `946 users`  in Sweden. You need at least `77 followers` to be on this
 		<td>Tvnu Sweden Ab </td>
 		<td>No Twitter Username</td>
 		<td>Arvika, Sweden</td>
-		<td>1257</td>
+		<td>1258</td>
 	</tr>
 	<tr>
 		<td>69</td>
@@ -2000,7 +2000,7 @@ There are `946 users`  in Sweden. You need at least `77 followers` to be on this
 		<td>Ericsson Software Technology </td>
 		<td>No Twitter Username</td>
 		<td>Göteborg, Sweden</td>
-		<td>636</td>
+		<td>637</td>
 	</tr>
 	<tr>
 		<td>147</td>
@@ -2655,19 +2655,6 @@ There are `946 users`  in Sweden. You need at least `77 followers` to be on this
 	<tr>
 		<td>197</td>
 		<td>
-			<a href="https://github.com/filipmariania">
-				<img src="https://avatars.githubusercontent.com/u/166164712?s=72&u=95f468174aee9927c8376c432a17783713f94a8f&v=4" width="24" alt="Avatar of filipmariania"> filipmariania
-			</a><br/>
-			Filip Mariani
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/filip_mariani">filip_mariani</a></td>
-		<td>Sweden</td>
-		<td>418</td>
-	</tr>
-	<tr>
-		<td>198</td>
-		<td>
 			<a href="https://github.com/rohe">
 				<img src="https://avatars.githubusercontent.com/u/99900?s=72&v=4" width="24" alt="Avatar of rohe"> rohe
 			</a><br/>
@@ -2677,6 +2664,19 @@ There are `946 users`  in Sweden. You need at least `77 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Umeå, Sweden</td>
 		<td>416</td>
+	</tr>
+	<tr>
+		<td>198</td>
+		<td>
+			<a href="https://github.com/filipmariania">
+				<img src="https://avatars.githubusercontent.com/u/166164712?s=72&u=95f468174aee9927c8376c432a17783713f94a8f&v=4" width="24" alt="Avatar of filipmariania"> filipmariania
+			</a><br/>
+			Filip Mariani
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/filip_mariani">filip_mariani</a></td>
+		<td>Sweden</td>
+		<td>415</td>
 	</tr>
 	<tr>
 		<td>199</td>
@@ -9649,19 +9649,6 @@ There are `946 users`  in Sweden. You need at least `77 followers` to be on this
 	<tr>
 		<td>735</td>
 		<td>
-			<a href="https://github.com/KristofferEriksson">
-				<img src="https://avatars.githubusercontent.com/u/44787769?s=72&u=7ac5a0b74aed02d68378d7c369395776ca894245&v=4" width="24" alt="Avatar of KristofferEriksson"> KristofferEriksson
-			</a><br/>
-			Kristoffer Eriksson
-		</td>
-		<td>@farmo-technologies  </td>
-		<td>No Twitter Username</td>
-		<td>Sweden</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>736</td>
-		<td>
 			<a href="https://github.com/ZmengXu">
 				<img src="https://avatars.githubusercontent.com/u/47369307?s=72&u=c30f7527e5cd4665bc9d2b389d2f899cc3fd2a0f&v=4" width="24" alt="Avatar of ZmengXu"> ZmengXu
 			</a><br/>
@@ -9670,6 +9657,19 @@ There are `946 users`  in Sweden. You need at least `77 followers` to be on this
 		<td>Lund University </td>
 		<td>No Twitter Username</td>
 		<td>Lund, Sweden</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>736</td>
+		<td>
+			<a href="https://github.com/KristofferEriksson">
+				<img src="https://avatars.githubusercontent.com/u/44787769?s=72&u=7ac5a0b74aed02d68378d7c369395776ca894245&v=4" width="24" alt="Avatar of KristofferEriksson"> KristofferEriksson
+			</a><br/>
+			Kristoffer Eriksson
+		</td>
+		<td>@farmo-technologies  </td>
+		<td>No Twitter Username</td>
+		<td>Sweden</td>
 		<td>5</td>
 	</tr>
 	<tr>
