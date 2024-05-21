@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg" alt="Sweden">
 </a>
 
-The `number of followers` of users in Sweden on `2024/5/21 7:14 PM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
+The `number of followers` of users in Sweden on `2024/5/21 8:16 PM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
 
 There are `1 countries` and `4 cities` can be found [here](https://github.com/jaagr/top-github-users).
 
@@ -232,7 +232,7 @@ There are `943 users`  in Sweden. You need at least `77 followers` to be on this
 		<td>Pixolity Ab </td>
 		<td><a href="https://twitter.com/vandadnp">vandadnp</a></td>
 		<td>Sweden</td>
-		<td>3147</td>
+		<td>3146</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -492,7 +492,7 @@ There are `943 users`  in Sweden. You need at least `77 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/jullerino">jullerino</a></td>
 		<td>Sweden</td>
-		<td>1493</td>
+		<td>1495</td>
 	</tr>
 	<tr>
 		<td>31</td>
@@ -908,7 +908,7 @@ There are `943 users`  in Sweden. You need at least `77 followers` to be on this
 		<td>Replicate </td>
 		<td>No Twitter Username</td>
 		<td>Uddevalla, Sweden</td>
-		<td>784</td>
+		<td>785</td>
 	</tr>
 	<tr>
 		<td>63</td>
@@ -1116,7 +1116,7 @@ There are `943 users`  in Sweden. You need at least `77 followers` to be on this
 		<td>Udemig </td>
 		<td><a href="https://twitter.com/isvec_krali_">isvec_krali_</a></td>
 		<td>Stockholm</td>
-		<td>683</td>
+		<td>682</td>
 	</tr>
 	<tr>
 		<td>79</td>
@@ -2572,7 +2572,7 @@ There are `943 users`  in Sweden. You need at least `77 followers` to be on this
 		<td>Mozilla </td>
 		<td><a href="https://twitter.com/zcorpan">zcorpan</a></td>
 		<td>Sweden</td>
-		<td>298</td>
+		<td>299</td>
 	</tr>
 	<tr>
 		<td>191</td>
