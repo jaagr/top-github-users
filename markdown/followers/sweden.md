@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg" alt="Sweden">
 </a>
 
-The `number of followers` of users in Sweden on `2024/5/21 1:53 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
+The `number of followers` of users in Sweden on `2024/5/21 2:29 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
 
 There are `1 countries` and `4 cities` can be found [here](https://github.com/jaagr/top-github-users).
 
@@ -1004,6 +1004,19 @@ There are `943 users`  in Sweden. You need at least `77 followers` to be on this
 	<tr>
 		<td>70</td>
 		<td>
+			<a href="https://github.com/filipmariania">
+				<img src="https://avatars.githubusercontent.com/u/166164712?s=72&u=95f468174aee9927c8376c432a17783713f94a8f&v=4" width="24" alt="Avatar of filipmariania"> filipmariania
+			</a><br/>
+			Filip Mariani
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/filip_mariani">filip_mariani</a></td>
+		<td>Sweden</td>
+		<td>734</td>
+	</tr>
+	<tr>
+		<td>71</td>
+		<td>
 			<a href="https://github.com/alexemanuelol">
 				<img src="https://avatars.githubusercontent.com/u/18254752?s=72&u=076851b2e460f496b23ae1726f397ce5648596a5&v=4" width="24" alt="Avatar of alexemanuelol"> alexemanuelol
 			</a><br/>
@@ -1015,7 +1028,7 @@ There are `943 users`  in Sweden. You need at least `77 followers` to be on this
 		<td>734</td>
 	</tr>
 	<tr>
-		<td>71</td>
+		<td>72</td>
 		<td>
 			<a href="https://github.com/tulios">
 				<img src="https://avatars.githubusercontent.com/u/33231?s=72&u=d37ed5316e38f552866d7598addb4f36049e2ec9&v=4" width="24" alt="Avatar of tulios"> tulios
@@ -1026,19 +1039,6 @@ There are `943 users`  in Sweden. You need at least `77 followers` to be on this
 		<td><a href="https://twitter.com/tulios">tulios</a></td>
 		<td>Stockholm, Sweden</td>
 		<td>734</td>
-	</tr>
-	<tr>
-		<td>72</td>
-		<td>
-			<a href="https://github.com/filipmariania">
-				<img src="https://avatars.githubusercontent.com/u/166164712?s=72&u=95f468174aee9927c8376c432a17783713f94a8f&v=4" width="24" alt="Avatar of filipmariania"> filipmariania
-			</a><br/>
-			Filip Mariani
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/filip_mariani">filip_mariani</a></td>
-		<td>Sweden</td>
-		<td>733</td>
 	</tr>
 	<tr>
 		<td>73</td>
