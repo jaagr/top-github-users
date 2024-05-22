@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg" alt="Sweden">
 </a>
 
-The `number of followers` of users in Sweden on `2024/5/22 1:55 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
+The `number of followers` of users in Sweden on `2024/5/22 2:30 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
 
 There are `1 countries` and `4 cities` can be found [here](https://github.com/jaagr/top-github-users).
 
@@ -271,7 +271,7 @@ There are `943 users`  in Sweden. You need at least `77 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/aladdinpersson">aladdinpersson</a></td>
 		<td>Stockholm</td>
-		<td>2763</td>
+		<td>2764</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -10208,6 +10208,19 @@ There are `943 users`  in Sweden. You need at least `77 followers` to be on this
 	<tr>
 		<td>778</td>
 		<td>
+			<a href="https://github.com/vladimircicovic">
+				<img src="https://avatars.githubusercontent.com/u/10092723?s=72&u=c8a26df3da4f6ed09aed78359eaf15c6f8094e00&v=4" width="24" alt="Avatar of vladimircicovic"> vladimircicovic
+			</a><br/>
+			Vladimir Cicovic
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>@Sweden</td>
+		<td>94</td>
+	</tr>
+	<tr>
+		<td>779</td>
+		<td>
 			<a href="https://github.com/qerub">
 				<img src="https://avatars.githubusercontent.com/u/636?s=72&v=4" width="24" alt="Avatar of qerub"> qerub
 			</a><br/>
@@ -10219,7 +10232,7 @@ There are `943 users`  in Sweden. You need at least `77 followers` to be on this
 		<td>94</td>
 	</tr>
 	<tr>
-		<td>779</td>
+		<td>780</td>
 		<td>
 			<a href="https://github.com/tornqvist">
 				<img src="https://avatars.githubusercontent.com/u/985518?s=72&v=4" width="24" alt="Avatar of tornqvist"> tornqvist
@@ -10229,19 +10242,6 @@ There are `943 users`  in Sweden. You need at least `77 followers` to be on this
 		<td>@codeandconspire, @allaboard-dev </td>
 		<td>No Twitter Username</td>
 		<td>Stockholm</td>
-		<td>93</td>
-	</tr>
-	<tr>
-		<td>780</td>
-		<td>
-			<a href="https://github.com/vladimircicovic">
-				<img src="https://avatars.githubusercontent.com/u/10092723?s=72&u=c8a26df3da4f6ed09aed78359eaf15c6f8094e00&v=4" width="24" alt="Avatar of vladimircicovic"> vladimircicovic
-			</a><br/>
-			Vladimir Cicovic
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>@Sweden</td>
 		<td>93</td>
 	</tr>
 	<tr>
