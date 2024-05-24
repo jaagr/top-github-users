@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg" alt="Sweden">
 </a>
 
-The `number of followers` of users in Sweden on `2024/5/24 4:16 PM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
+The `number of followers` of users in Sweden on `2024/5/24 5:12 PM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
 
 There are `1 countries` and `4 cities` can be found [here](https://github.com/jaagr/top-github-users).
 
@@ -206,7 +206,7 @@ There are `943 users`  in Sweden. You need at least `77 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/awesomekling">awesomekling</a></td>
 		<td>Sweden</td>
-		<td>3860</td>
+		<td>3861</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -375,7 +375,7 @@ There are `943 users`  in Sweden. You need at least `77 followers` to be on this
 		<td>@mojang </td>
 		<td><a href="https://twitter.com/Dinnerbone">Dinnerbone</a></td>
 		<td>Stockholm, Sweden</td>
-		<td>2115</td>
+		<td>2116</td>
 	</tr>
 	<tr>
 		<td>22</td>
@@ -947,7 +947,7 @@ There are `943 users`  in Sweden. You need at least `77 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/filip_mariani">filip_mariani</a></td>
 		<td>Sweden</td>
-		<td>764</td>
+		<td>763</td>
 	</tr>
 	<tr>
 		<td>66</td>
@@ -1155,7 +1155,7 @@ There are `943 users`  in Sweden. You need at least `77 followers` to be on this
 		<td>Primer.io </td>
 		<td><a href="https://twitter.com/Guibz16">Guibz16</a></td>
 		<td>Stockholm</td>
-		<td>638</td>
+		<td>637</td>
 	</tr>
 	<tr>
 		<td>82</td>
@@ -4254,6 +4254,19 @@ There are `943 users`  in Sweden. You need at least `77 followers` to be on this
 	<tr>
 		<td>320</td>
 		<td>
+			<a href="https://github.com/platisd">
+				<img src="https://avatars.githubusercontent.com/u/7327776?s=72&u=3d159083aa71a2daa7997dafe0d3cfebbdceae10&v=4" width="24" alt="Avatar of platisd"> platisd
+			</a><br/>
+			Dimitris Platis
+		</td>
+		<td>@dit113-v22 </td>
+		<td><a href="https://twitter.com/PlatisSolutions">PlatisSolutions</a></td>
+		<td>Gothenburg, Sweden</td>
+		<td>193</td>
+	</tr>
+	<tr>
+		<td>321</td>
+		<td>
 			<a href="https://github.com/rociomer">
 				<img src="https://avatars.githubusercontent.com/u/21346048?s=72&u=32db1541a06c58fdd48079f5cbacae4dcbcfa8c1&v=4" width="24" alt="Avatar of rociomer"> rociomer
 			</a><br/>
@@ -4265,7 +4278,7 @@ There are `943 users`  in Sweden. You need at least `77 followers` to be on this
 		<td>193</td>
 	</tr>
 	<tr>
-		<td>321</td>
+		<td>322</td>
 		<td>
 			<a href="https://github.com/valderman">
 				<img src="https://avatars.githubusercontent.com/u/81643?s=72&v=4" width="24" alt="Avatar of valderman"> valderman
@@ -4276,19 +4289,6 @@ There are `943 users`  in Sweden. You need at least `77 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Gothenburg, Sweden</td>
 		<td>193</td>
-	</tr>
-	<tr>
-		<td>322</td>
-		<td>
-			<a href="https://github.com/platisd">
-				<img src="https://avatars.githubusercontent.com/u/7327776?s=72&u=3d159083aa71a2daa7997dafe0d3cfebbdceae10&v=4" width="24" alt="Avatar of platisd"> platisd
-			</a><br/>
-			Dimitris Platis
-		</td>
-		<td>@dit113-v22 </td>
-		<td><a href="https://twitter.com/PlatisSolutions">PlatisSolutions</a></td>
-		<td>Gothenburg, Sweden</td>
-		<td>192</td>
 	</tr>
 	<tr>
 		<td>323</td>
