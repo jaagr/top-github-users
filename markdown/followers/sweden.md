@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg" alt="Sweden">
 </a>
 
-The `number of followers` of users in Sweden on `2024/6/2 4:16 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
+The `number of followers` of users in Sweden on `2024/6/2 5:15 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
 
 There are `1 countries` and `4 cities` can be found [here](https://github.com/jaagr/top-github-users).
 
@@ -1350,7 +1350,7 @@ There are `944 users`  in Sweden. You need at least `78 followers` to be on this
 		<td>@spotify </td>
 		<td>No Twitter Username</td>
 		<td>Stockholm, SE</td>
-		<td>535</td>
+		<td>534</td>
 	</tr>
 	<tr>
 		<td>97</td>
@@ -9389,6 +9389,19 @@ There are `944 users`  in Sweden. You need at least `78 followers` to be on this
 	<tr>
 		<td>715</td>
 		<td>
+			<a href="https://github.com/mengstr">
+				<img src="https://avatars.githubusercontent.com/u/325326?s=72&v=4" width="24" alt="Avatar of mengstr"> mengstr
+			</a><br/>
+			Mats Engstrom
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/matseng">matseng</a></td>
+		<td>Stockholm, Sweden</td>
+		<td>102</td>
+	</tr>
+	<tr>
+		<td>716</td>
+		<td>
 			<a href="https://github.com/forslund">
 				<img src="https://avatars.githubusercontent.com/u/804543?s=72&v=4" width="24" alt="Avatar of forslund"> forslund
 			</a><br/>
@@ -9400,7 +9413,7 @@ There are `944 users`  in Sweden. You need at least `78 followers` to be on this
 		<td>102</td>
 	</tr>
 	<tr>
-		<td>716</td>
+		<td>717</td>
 		<td>
 			<a href="https://github.com/jra89">
 				<img src="https://avatars.githubusercontent.com/u/2511696?s=72&u=7fc4cefeaad5ba320a5800f8bb3b80bdc9865ad4&v=4" width="24" alt="Avatar of jra89"> jra89
@@ -9413,7 +9426,7 @@ There are `944 users`  in Sweden. You need at least `78 followers` to be on this
 		<td>102</td>
 	</tr>
 	<tr>
-		<td>717</td>
+		<td>718</td>
 		<td>
 			<a href="https://github.com/dogmatic69">
 				<img src="https://avatars.githubusercontent.com/u/94674?s=72&u=ca7647de53145c6283b6373ade5dc94ba99347db&v=4" width="24" alt="Avatar of dogmatic69"> dogmatic69
@@ -9426,7 +9439,7 @@ There are `944 users`  in Sweden. You need at least `78 followers` to be on this
 		<td>101</td>
 	</tr>
 	<tr>
-		<td>718</td>
+		<td>719</td>
 		<td>
 			<a href="https://github.com/amadeu01">
 				<img src="https://avatars.githubusercontent.com/u/11631092?s=72&u=b0476362d5d5ca9dbdcbd63eeaaa8407303dccda&v=4" width="24" alt="Avatar of amadeu01"> amadeu01
@@ -9436,19 +9449,6 @@ There are `944 users`  in Sweden. You need at least `78 followers` to be on this
 		<td>Epidemicsound </td>
 		<td><a href="https://twitter.com/amadeucavalcant">amadeucavalcant</a></td>
 		<td>Stockholm - Sweden</td>
-		<td>101</td>
-	</tr>
-	<tr>
-		<td>719</td>
-		<td>
-			<a href="https://github.com/mengstr">
-				<img src="https://avatars.githubusercontent.com/u/325326?s=72&v=4" width="24" alt="Avatar of mengstr"> mengstr
-			</a><br/>
-			Mats Engstrom
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/matseng">matseng</a></td>
-		<td>Stockholm, Sweden</td>
 		<td>101</td>
 	</tr>
 	<tr>
