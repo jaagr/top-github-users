@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg" alt="Sweden">
 </a>
 
-The `public contributions` by users in Sweden on `2024/6/9 5:14 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
+The `public contributions` by users in Sweden on `2024/6/9 6:16 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
 
 There are `1 countries` and `4 cities` can be found [here](https://github.com/jaagr/top-github-users).
 
@@ -193,7 +193,7 @@ There are `944 users`  in Sweden. You need at least `78 followers` to be on this
 		<td>Google </td>
 		<td>No Twitter Username</td>
 		<td>Stockholm</td>
-		<td>3817</td>
+		<td>3818</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -380,6 +380,19 @@ There are `944 users`  in Sweden. You need at least `78 followers` to be on this
 	<tr>
 		<td>22</td>
 		<td>
+			<a href="https://github.com/troglobit">
+				<img src="https://avatars.githubusercontent.com/u/183517?s=72&u=7464e6288098929fe55ec333781ed838e07e9223&v=4" width="24" alt="Avatar of troglobit"> troglobit
+			</a><br/>
+			Joachim Wiberg
+		</td>
+		<td>Addiva Elektronik Ab </td>
+		<td><a href="https://twitter.com/troglobit">troglobit</a></td>
+		<td>Surahammar, Västmanland, Sweden</td>
+		<td>2521</td>
+	</tr>
+	<tr>
+		<td>23</td>
+		<td>
 			<a href="https://github.com/ewels">
 				<img src="https://avatars.githubusercontent.com/u/465550?s=72&u=c73b4d925637f236dfb26628f97f2b88191255eb&v=4" width="24" alt="Avatar of ewels"> ewels
 			</a><br/>
@@ -389,19 +402,6 @@ There are `944 users`  in Sweden. You need at least `78 followers` to be on this
 		<td><a href="https://twitter.com/tallphil">tallphil</a></td>
 		<td>Stockholm, Sweden</td>
 		<td>2518</td>
-	</tr>
-	<tr>
-		<td>23</td>
-		<td>
-			<a href="https://github.com/troglobit">
-				<img src="https://avatars.githubusercontent.com/u/183517?s=72&u=7464e6288098929fe55ec333781ed838e07e9223&v=4" width="24" alt="Avatar of troglobit"> troglobit
-			</a><br/>
-			Joachim Wiberg
-		</td>
-		<td>Addiva Elektronik Ab </td>
-		<td><a href="https://twitter.com/troglobit">troglobit</a></td>
-		<td>Surahammar, Västmanland, Sweden</td>
-		<td>2517</td>
 	</tr>
 	<tr>
 		<td>24</td>
@@ -2070,6 +2070,19 @@ There are `944 users`  in Sweden. You need at least `78 followers` to be on this
 	<tr>
 		<td>152</td>
 		<td>
+			<a href="https://github.com/ivargrimstad">
+				<img src="https://avatars.githubusercontent.com/u/149188?s=72&u=019baebed4fdb2951bd8d46ce64999cff810e027&v=4" width="24" alt="Avatar of ivargrimstad"> ivargrimstad
+			</a><br/>
+			Ivar Grimstad
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/ivar_grimstad">ivar_grimstad</a></td>
+		<td>Malmö, Sweden</td>
+		<td>637</td>
+	</tr>
+	<tr>
+		<td>153</td>
+		<td>
 			<a href="https://github.com/devlead">
 				<img src="https://avatars.githubusercontent.com/u/1647294?s=72&u=aa1987685d817802829596761fcca3996238b7b4&v=4" width="24" alt="Avatar of devlead"> devlead
 			</a><br/>
@@ -2079,19 +2092,6 @@ There are `944 users`  in Sweden. You need at least `78 followers` to be on this
 		<td><a href="https://twitter.com/devlead">devlead</a></td>
 		<td>Gothenburg, Sweden</td>
 		<td>637</td>
-	</tr>
-	<tr>
-		<td>153</td>
-		<td>
-			<a href="https://github.com/ivargrimstad">
-				<img src="https://avatars.githubusercontent.com/u/149188?s=72&u=019baebed4fdb2951bd8d46ce64999cff810e027&v=4" width="24" alt="Avatar of ivargrimstad"> ivargrimstad
-			</a><br/>
-			Ivar Grimstad
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/ivar_grimstad">ivar_grimstad</a></td>
-		<td>Malmö, Sweden</td>
-		<td>635</td>
 	</tr>
 	<tr>
 		<td>154</td>
@@ -3526,6 +3526,19 @@ There are `944 users`  in Sweden. You need at least `78 followers` to be on this
 	<tr>
 		<td>264</td>
 		<td>
+			<a href="https://github.com/nick8325">
+				<img src="https://avatars.githubusercontent.com/u/104447?s=72&v=4" width="24" alt="Avatar of nick8325"> nick8325
+			</a><br/>
+			Nick Smallbone
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Göteborg, Sweden</td>
+		<td>296</td>
+	</tr>
+	<tr>
+		<td>265</td>
+		<td>
 			<a href="https://github.com/veggiemonk">
 				<img src="https://avatars.githubusercontent.com/u/5487021?s=72&u=b585317a55eee3d3c59eaad4ebf8e79c5998005f&v=4" width="24" alt="Avatar of veggiemonk"> veggiemonk
 			</a><br/>
@@ -3537,7 +3550,7 @@ There are `944 users`  in Sweden. You need at least `78 followers` to be on this
 		<td>295</td>
 	</tr>
 	<tr>
-		<td>265</td>
+		<td>266</td>
 		<td>
 			<a href="https://github.com/dalen">
 				<img src="https://avatars.githubusercontent.com/u/7400?s=72&u=0f6263dcf2cf8ea4e4ced3805c276474e21b52cf&v=4" width="24" alt="Avatar of dalen"> dalen
@@ -3550,7 +3563,7 @@ There are `944 users`  in Sweden. You need at least `78 followers` to be on this
 		<td>295</td>
 	</tr>
 	<tr>
-		<td>266</td>
+		<td>267</td>
 		<td>
 			<a href="https://github.com/BeeeQueue">
 				<img src="https://avatars.githubusercontent.com/u/472500?s=72&u=92c3ac61c61343471654dec067a229aa58e4f941&v=4" width="24" alt="Avatar of BeeeQueue"> BeeeQueue
@@ -3561,19 +3574,6 @@ There are `944 users`  in Sweden. You need at least `78 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Stockholm, Sweden</td>
 		<td>295</td>
-	</tr>
-	<tr>
-		<td>267</td>
-		<td>
-			<a href="https://github.com/nick8325">
-				<img src="https://avatars.githubusercontent.com/u/104447?s=72&v=4" width="24" alt="Avatar of nick8325"> nick8325
-			</a><br/>
-			Nick Smallbone
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Göteborg, Sweden</td>
-		<td>294</td>
 	</tr>
 	<tr>
 		<td>268</td>

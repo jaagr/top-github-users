@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg" alt="Sweden">
 </a>
 
-The `number of followers` of users in Sweden on `2024/6/9 5:14 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
+The `number of followers` of users in Sweden on `2024/6/9 6:16 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
 
 There are `1 countries` and `4 cities` can be found [here](https://github.com/jaagr/top-github-users).
 
@@ -6282,6 +6282,19 @@ There are `944 users`  in Sweden. You need at least `78 followers` to be on this
 	<tr>
 		<td>476</td>
 		<td>
+			<a href="https://github.com/lindell">
+				<img src="https://avatars.githubusercontent.com/u/284868?s=72&u=0deab4bc0b7aa79bf1abbcbd58516f5a95f6ada1&v=4" width="24" alt="Avatar of lindell"> lindell
+			</a><br/>
+			Johan Lindell
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Stockholm</td>
+		<td>144</td>
+	</tr>
+	<tr>
+		<td>477</td>
+		<td>
 			<a href="https://github.com/massemanet">
 				<img src="https://avatars.githubusercontent.com/u/12678?s=72&v=4" width="24" alt="Avatar of massemanet"> massemanet
 			</a><br/>
@@ -6293,7 +6306,7 @@ There are `944 users`  in Sweden. You need at least `78 followers` to be on this
 		<td>144</td>
 	</tr>
 	<tr>
-		<td>477</td>
+		<td>478</td>
 		<td>
 			<a href="https://github.com/cbrueffer">
 				<img src="https://avatars.githubusercontent.com/u/2705287?s=72&u=2750da50c97376a0783919924a6e7542d3b3e6fc&v=4" width="24" alt="Avatar of cbrueffer"> cbrueffer
@@ -6303,19 +6316,6 @@ There are `944 users`  in Sweden. You need at least `78 followers` to be on this
 		<td>@insilicoconsulting </td>
 		<td><a href="https://twitter.com/cbrueffer">cbrueffer</a></td>
 		<td>Lund, Sweden</td>
-		<td>143</td>
-	</tr>
-	<tr>
-		<td>478</td>
-		<td>
-			<a href="https://github.com/lindell">
-				<img src="https://avatars.githubusercontent.com/u/284868?s=72&u=0deab4bc0b7aa79bf1abbcbd58516f5a95f6ada1&v=4" width="24" alt="Avatar of lindell"> lindell
-			</a><br/>
-			Johan Lindell
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Stockholm</td>
 		<td>143</td>
 	</tr>
 	<tr>
