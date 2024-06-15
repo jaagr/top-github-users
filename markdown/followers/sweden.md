@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg" alt="Sweden">
 </a>
 
-The `number of followers` of users in Sweden on `2024/6/15 8:17 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
+The `number of followers` of users in Sweden on `2024/6/15 9:15 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
 
 There are `1 countries` and `4 cities` can be found [here](https://github.com/jaagr/top-github-users).
 
@@ -687,7 +687,7 @@ There are `944 users`  in Sweden. You need at least `78 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Stockholm, Sweden</td>
-		<td>1068</td>
+		<td>1069</td>
 	</tr>
 	<tr>
 		<td>46</td>
@@ -1602,6 +1602,19 @@ There are `944 users`  in Sweden. You need at least `78 followers` to be on this
 	<tr>
 		<td>116</td>
 		<td>
+			<a href="https://github.com/kaishin">
+				<img src="https://avatars.githubusercontent.com/u/519433?s=72&u=f0e55edf42080d72e1245ea04e322c575789406f&v=4" width="24" alt="Avatar of kaishin"> kaishin
+			</a><br/>
+			Reda Lemeden
+		</td>
+		<td>@4rays  </td>
+		<td><a href="https://twitter.com/kaishin">kaishin</a></td>
+		<td>Stockholm</td>
+		<td>449</td>
+	</tr>
+	<tr>
+		<td>117</td>
+		<td>
 			<a href="https://github.com/letoram">
 				<img src="https://avatars.githubusercontent.com/u/5888792?s=72&u=1303f5234a3bbdd068ec76ecfdb8fb6734aa5b9c&v=4" width="24" alt="Avatar of letoram"> letoram
 			</a><br/>
@@ -1611,19 +1624,6 @@ There are `944 users`  in Sweden. You need at least `78 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Sweden</td>
 		<td>449</td>
-	</tr>
-	<tr>
-		<td>117</td>
-		<td>
-			<a href="https://github.com/kaishin">
-				<img src="https://avatars.githubusercontent.com/u/519433?s=72&u=f0e55edf42080d72e1245ea04e322c575789406f&v=4" width="24" alt="Avatar of kaishin"> kaishin
-			</a><br/>
-			Reda Lemeden
-		</td>
-		<td>@4rays  </td>
-		<td><a href="https://twitter.com/kaishin">kaishin</a></td>
-		<td>Stockholm</td>
-		<td>448</td>
 	</tr>
 	<tr>
 		<td>118</td>
