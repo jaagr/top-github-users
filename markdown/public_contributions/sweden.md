@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg" alt="Sweden">
 </a>
 
-The `public contributions` by users in Sweden on `2024/6/19 3:16 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
+The `public contributions` by users in Sweden on `2024/6/19 4:17 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
 
 There are `1 countries` and `4 cities` can be found [here](https://github.com/jaagr/top-github-users).
 
@@ -336,7 +336,7 @@ There are `943 users`  in Sweden. You need at least `78 followers` to be on this
 		<td>Science For Life Laboratory<br/></td>
 		<td>No Twitter Username</td>
 		<td>Stockholm</td>
-		<td>2945</td>
+		<td>2946</td>
 	</tr>
 	<tr>
 		<td>19</td>
@@ -440,7 +440,7 @@ There are `943 users`  in Sweden. You need at least `78 followers` to be on this
 		<td>Lichess.org / Recordedfuture </td>
 		<td><a href="https://twitter.com/lenguyenthanh">lenguyenthanh</a></td>
 		<td>Gothenburg, Sweden</td>
-		<td>2486</td>
+		<td>2488</td>
 	</tr>
 	<tr>
 		<td>27</td>
@@ -856,7 +856,7 @@ There are `943 users`  in Sweden. You need at least `78 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Stockholm, Sweden</td>
-		<td>1406</td>
+		<td>1407</td>
 	</tr>
 	<tr>
 		<td>59</td>
@@ -2590,6 +2590,19 @@ There are `943 users`  in Sweden. You need at least `78 followers` to be on this
 	<tr>
 		<td>192</td>
 		<td>
+			<a href="https://github.com/Jegp">
+				<img src="https://avatars.githubusercontent.com/u/1064317?s=72&u=4d86a3cfb899f636b6cc0edc20615673e79add28&v=4" width="24" alt="Avatar of Jegp"> Jegp
+			</a><br/>
+			Jens Egholm Pedersen
+		</td>
+		<td>Kth Royal Institute Of<br/>Technology<br/></td>
+		<td><a href="https://twitter.com/jensegholm">jensegholm</a></td>
+		<td>Sweden</td>
+		<td>443</td>
+	</tr>
+	<tr>
+		<td>193</td>
+		<td>
 			<a href="https://github.com/fChristenson">
 				<img src="https://avatars.githubusercontent.com/u/7021760?s=72&u=9c858f62898f64a25e8ceaa1b2ca69f894e70d90&v=4" width="24" alt="Avatar of fChristenson"> fChristenson
 			</a><br/>
@@ -2601,7 +2614,7 @@ There are `943 users`  in Sweden. You need at least `78 followers` to be on this
 		<td>442</td>
 	</tr>
 	<tr>
-		<td>193</td>
+		<td>194</td>
 		<td>
 			<a href="https://github.com/bjornharrtell">
 				<img src="https://avatars.githubusercontent.com/u/141030?s=72&u=9b6f0795c7eeed4e76f38008e21ebc1c36c73233&v=4" width="24" alt="Avatar of bjornharrtell"> bjornharrtell
@@ -2614,7 +2627,7 @@ There are `943 users`  in Sweden. You need at least `78 followers` to be on this
 		<td>442</td>
 	</tr>
 	<tr>
-		<td>194</td>
+		<td>195</td>
 		<td>
 			<a href="https://github.com/lawik">
 				<img src="https://avatars.githubusercontent.com/u/1971237?s=72&u=671495fb9f1a273698d28143739868e993be816e&v=4" width="24" alt="Avatar of lawik"> lawik
@@ -2624,19 +2637,6 @@ There are `943 users`  in Sweden. You need at least `78 followers` to be on this
 		<td>Underjord </td>
 		<td>No Twitter Username</td>
 		<td>West coast, Sweden</td>
-		<td>442</td>
-	</tr>
-	<tr>
-		<td>195</td>
-		<td>
-			<a href="https://github.com/Jegp">
-				<img src="https://avatars.githubusercontent.com/u/1064317?s=72&u=4d86a3cfb899f636b6cc0edc20615673e79add28&v=4" width="24" alt="Avatar of Jegp"> Jegp
-			</a><br/>
-			Jens Egholm Pedersen
-		</td>
-		<td>Kth Royal Institute Of<br/>Technology<br/></td>
-		<td><a href="https://twitter.com/jensegholm">jensegholm</a></td>
-		<td>Sweden</td>
 		<td>442</td>
 	</tr>
 	<tr>
