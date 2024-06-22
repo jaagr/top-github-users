@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg" alt="Sweden">
 </a>
 
-The `public contributions` and `private contributions` by users in Sweden on `2024/6/22 1:58 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
+The `public contributions` and `private contributions` by users in Sweden on `2024/6/22 2:30 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
 
 There are `1 countries` and `4 cities` can be found [here](https://github.com/jaagr/top-github-users).
 
@@ -523,7 +523,7 @@ There are `944 users`  in Sweden. You need at least `78 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Göteborg, Sweden</td>
 		<td>2855</td>
-		<td>3292</td>
+		<td>3293</td>
 	</tr>
 	<tr>
 		<td>31</td>
@@ -1306,8 +1306,8 @@ There are `944 users`  in Sweden. You need at least `78 followers` to be on this
 		<td>@mimohq </td>
 		<td><a href="https://twitter.com/szanwar22">szanwar22</a></td>
 		<td>Stockholm, Sweden</td>
-		<td>241</td>
-		<td>2027</td>
+		<td>242</td>
+		<td>2028</td>
 	</tr>
 	<tr>
 		<td>87</td>
@@ -5750,6 +5750,20 @@ There are `944 users`  in Sweden. You need at least `78 followers` to be on this
 	<tr>
 		<td>404</td>
 		<td>
+			<a href="https://github.com/maciekish">
+				<img src="https://avatars.githubusercontent.com/u/442007?s=72&v=4" width="24" alt="Avatar of maciekish"> maciekish
+			</a><br/>
+			Maciej Swic
+		</td>
+		<td>Appulize </td>
+		<td>No Twitter Username</td>
+		<td>Stockholm, Sweden</td>
+		<td>118</td>
+		<td>410</td>
+	</tr>
+	<tr>
+		<td>405</td>
+		<td>
 			<a href="https://github.com/wallymathieu">
 				<img src="https://avatars.githubusercontent.com/u/88096?s=72&v=4" width="24" alt="Avatar of wallymathieu"> wallymathieu
 			</a><br/>
@@ -5760,20 +5774,6 @@ There are `944 users`  in Sweden. You need at least `78 followers` to be on this
 		<td>Sweden</td>
 		<td>336</td>
 		<td>410</td>
-	</tr>
-	<tr>
-		<td>405</td>
-		<td>
-			<a href="https://github.com/maciekish">
-				<img src="https://avatars.githubusercontent.com/u/442007?s=72&v=4" width="24" alt="Avatar of maciekish"> maciekish
-			</a><br/>
-			Maciej Swic
-		</td>
-		<td>Appulize </td>
-		<td>No Twitter Username</td>
-		<td>Stockholm, Sweden</td>
-		<td>117</td>
-		<td>409</td>
 	</tr>
 	<tr>
 		<td>406</td>
