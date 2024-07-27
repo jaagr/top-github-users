@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg" alt="Sweden">
 </a>
 
-The `number of followers` of users in Sweden on `2024/7/27 3:18 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
+The `number of followers` of users in Sweden on `2024/7/27 4:16 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
 
 There are `1 countries` and `4 cities` can be found [here](https://github.com/jaagr/top-github-users).
 
@@ -323,7 +323,7 @@ There are `942 users`  in Sweden. You need at least `79 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/tobiasahlin">tobiasahlin</a></td>
 		<td>Sweden</td>
-		<td>2511</td>
+		<td>2510</td>
 	</tr>
 	<tr>
 		<td>18</td>
@@ -1623,7 +1623,7 @@ There are `942 users`  in Sweden. You need at least `79 followers` to be on this
 		<td>Indie </td>
 		<td><a href="https://twitter.com/eriknordeus">eriknordeus</a></td>
 		<td>Stockholm, Sweden</td>
-		<td>442</td>
+		<td>443</td>
 	</tr>
 	<tr>
 		<td>118</td>
@@ -7530,6 +7530,19 @@ There are `942 users`  in Sweden. You need at least `79 followers` to be on this
 	<tr>
 		<td>572</td>
 		<td>
+			<a href="https://github.com/linus">
+				<img src="https://avatars.githubusercontent.com/u/105278?s=72&u=638b02776df75fd326eb051b8091c0434d66feaf&v=4" width="24" alt="Avatar of linus"> linus
+			</a><br/>
+			Linus G Thiel
+		</td>
+		<td>@bonniernews </td>
+		<td>No Twitter Username</td>
+		<td>Stockholm, Sweden</td>
+		<td>125</td>
+	</tr>
+	<tr>
+		<td>573</td>
+		<td>
 			<a href="https://github.com/vlarsson">
 				<img src="https://avatars.githubusercontent.com/u/48490995?s=72&v=4" width="24" alt="Avatar of vlarsson"> vlarsson
 			</a><br/>
@@ -7541,7 +7554,7 @@ There are `942 users`  in Sweden. You need at least `79 followers` to be on this
 		<td>125</td>
 	</tr>
 	<tr>
-		<td>573</td>
+		<td>574</td>
 		<td>
 			<a href="https://github.com/phaller">
 				<img src="https://avatars.githubusercontent.com/u/289943?s=72&v=4" width="24" alt="Avatar of phaller"> phaller
@@ -7554,7 +7567,7 @@ There are `942 users`  in Sweden. You need at least `79 followers` to be on this
 		<td>125</td>
 	</tr>
 	<tr>
-		<td>574</td>
+		<td>575</td>
 		<td>
 			<a href="https://github.com/fesplugas">
 				<img src="https://avatars.githubusercontent.com/u/2720?s=72&u=e2b6191d1ba34be63d6b54a68dab24486ddf4071&v=4" width="24" alt="Avatar of fesplugas"> fesplugas
@@ -7564,19 +7577,6 @@ There are `942 users`  in Sweden. You need at least `79 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/fesplugas">fesplugas</a></td>
 		<td>Barcelona / Stockholm</td>
-		<td>124</td>
-	</tr>
-	<tr>
-		<td>575</td>
-		<td>
-			<a href="https://github.com/linus">
-				<img src="https://avatars.githubusercontent.com/u/105278?s=72&u=638b02776df75fd326eb051b8091c0434d66feaf&v=4" width="24" alt="Avatar of linus"> linus
-			</a><br/>
-			Linus G Thiel
-		</td>
-		<td>@bonniernews </td>
-		<td>No Twitter Username</td>
-		<td>Stockholm, Sweden</td>
 		<td>124</td>
 	</tr>
 	<tr>
