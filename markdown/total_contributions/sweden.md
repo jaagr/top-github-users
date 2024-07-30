@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg" alt="Sweden">
 </a>
 
-The `public contributions` and `private contributions` by users in Sweden on `2024/7/30 12:42 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
+The `public contributions` and `private contributions` by users in Sweden on `2024/7/30 2:06 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
 
 There are `1 countries` and `4 cities` can be found [here](https://github.com/jaagr/top-github-users).
 
@@ -257,7 +257,7 @@ There are `942 users`  in Sweden. You need at least `80 followers` to be on this
 		<td><a href="https://twitter.com/zerio_official">zerio_official</a></td>
 		<td>Sweden</td>
 		<td>871</td>
-		<td>4617</td>
+		<td>4623</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -410,8 +410,8 @@ There are `942 users`  in Sweden. You need at least `80 followers` to be on this
 		<td>Science For Life Laboratory<br/></td>
 		<td>No Twitter Username</td>
 		<td>Stockholm</td>
-		<td>2871</td>
-		<td>3941</td>
+		<td>2872</td>
+		<td>3942</td>
 	</tr>
 	<tr>
 		<td>23</td>
@@ -901,7 +901,7 @@ There are `942 users`  in Sweden. You need at least `80 followers` to be on this
 		<td><a href="https://twitter.com/kbjarkefur">kbjarkefur</a></td>
 		<td>Årsta, Sweden</td>
 		<td>993</td>
-		<td>2619</td>
+		<td>2620</td>
 	</tr>
 	<tr>
 		<td>58</td>
@@ -1097,7 +1097,7 @@ There are `942 users`  in Sweden. You need at least `80 followers` to be on this
 		<td><a href="https://twitter.com/astritmalsija">astritmalsija</a></td>
 		<td>Stockholm, Sweden</td>
 		<td>932</td>
-		<td>2244</td>
+		<td>2249</td>
 	</tr>
 	<tr>
 		<td>72</td>
@@ -1326,6 +1326,20 @@ There are `942 users`  in Sweden. You need at least `80 followers` to be on this
 	<tr>
 		<td>88</td>
 		<td>
+			<a href="https://github.com/khromov">
+				<img src="https://avatars.githubusercontent.com/u/1207507?s=72&u=737bb556c50cee8f1ec0d6f1f8a19adfed118a20&v=4" width="24" alt="Avatar of khromov"> khromov
+			</a><br/>
+			Stanislav Khromov
+		</td>
+		<td>Schibsted Media Group </td>
+		<td><a href="https://twitter.com/khromov">khromov</a></td>
+		<td>Stockholm, Sweden</td>
+		<td>509</td>
+		<td>1968</td>
+	</tr>
+	<tr>
+		<td>89</td>
+		<td>
 			<a href="https://github.com/dbarrosop">
 				<img src="https://avatars.githubusercontent.com/u/6246622?s=72&u=f0c3baf08f7776c31e4fd15f090da93ff669ec14&v=4" width="24" alt="Avatar of dbarrosop"> dbarrosop
 			</a><br/>
@@ -1336,20 +1350,6 @@ There are `942 users`  in Sweden. You need at least `80 followers` to be on this
 		<td>Stockholm, Sweden</td>
 		<td>931</td>
 		<td>1962</td>
-	</tr>
-	<tr>
-		<td>89</td>
-		<td>
-			<a href="https://github.com/khromov">
-				<img src="https://avatars.githubusercontent.com/u/1207507?s=72&u=737bb556c50cee8f1ec0d6f1f8a19adfed118a20&v=4" width="24" alt="Avatar of khromov"> khromov
-			</a><br/>
-			Stanislav Khromov
-		</td>
-		<td>Schibsted Media Group </td>
-		<td><a href="https://twitter.com/khromov">khromov</a></td>
-		<td>Stockholm, Sweden</td>
-		<td>509</td>
-		<td>1959</td>
 	</tr>
 	<tr>
 		<td>90</td>
@@ -4420,20 +4420,6 @@ There are `942 users`  in Sweden. You need at least `80 followers` to be on this
 	<tr>
 		<td>309</td>
 		<td>
-			<a href="https://github.com/ennru">
-				<img src="https://avatars.githubusercontent.com/u/458526?s=72&u=12333aa993111b73923facdb731931b768605920&v=4" width="24" alt="Avatar of ennru"> ennru
-			</a><br/>
-			Enno Runne
-		</td>
-		<td>@lightbend  </td>
-		<td>No Twitter Username</td>
-		<td>Stockholm, Sweden</td>
-		<td>648</td>
-		<td>648</td>
-	</tr>
-	<tr>
-		<td>310</td>
-		<td>
 			<a href="https://github.com/elupus">
 				<img src="https://avatars.githubusercontent.com/u/482976?s=72&v=4" width="24" alt="Avatar of elupus"> elupus
 			</a><br/>
@@ -4442,6 +4428,20 @@ There are `942 users`  in Sweden. You need at least `80 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Sweden</td>
+		<td>649</td>
+		<td>649</td>
+	</tr>
+	<tr>
+		<td>310</td>
+		<td>
+			<a href="https://github.com/ennru">
+				<img src="https://avatars.githubusercontent.com/u/458526?s=72&u=12333aa993111b73923facdb731931b768605920&v=4" width="24" alt="Avatar of ennru"> ennru
+			</a><br/>
+			Enno Runne
+		</td>
+		<td>@lightbend  </td>
+		<td>No Twitter Username</td>
+		<td>Stockholm, Sweden</td>
 		<td>648</td>
 		<td>648</td>
 	</tr>
@@ -5185,7 +5185,7 @@ There are `942 users`  in Sweden. You need at least `80 followers` to be on this
 		<td><a href="https://twitter.com/joakimbeng">joakimbeng</a></td>
 		<td>Stockholm</td>
 		<td>338</td>
-		<td>493</td>
+		<td>494</td>
 	</tr>
 	<tr>
 		<td>364</td>
