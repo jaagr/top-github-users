@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg" alt="Sweden">
 </a>
 
-The `number of followers` of users in Sweden on `2024/8/4 2:12 PM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
+The `number of followers` of users in Sweden on `2024/8/4 3:15 PM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
 
 There are `1 countries` and `4 cities` can be found [here](https://github.com/jaagr/top-github-users).
 
@@ -206,7 +206,7 @@ There are `943 users`  in Sweden. You need at least `80 followers` to be on this
 		<td>@ladybirdbrowser </td>
 		<td><a href="https://twitter.com/awesomekling">awesomekling</a></td>
 		<td>Sweden</td>
-		<td>4164</td>
+		<td>4165</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -1272,7 +1272,7 @@ There are `943 users`  in Sweden. You need at least `80 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/larsbrinkhoff">larsbrinkhoff</a></td>
 		<td>Gothenburg, Sweden</td>
-		<td>580</td>
+		<td>581</td>
 	</tr>
 	<tr>
 		<td>91</td>
@@ -1480,7 +1480,7 @@ There are `943 users`  in Sweden. You need at least `80 followers` to be on this
 		<td>In Love With Code<br/></td>
 		<td><a href="https://twitter.com/irisclasson">irisclasson</a></td>
 		<td>Sweden</td>
-		<td>492</td>
+		<td>493</td>
 	</tr>
 	<tr>
 		<td>107</td>
@@ -12340,14 +12340,14 @@ There are `943 users`  in Sweden. You need at least `80 followers` to be on this
 	<tr>
 		<td>942</td>
 		<td>
-			<a href="https://github.com/1two3code">
-				<img src="https://avatars.githubusercontent.com/u/329943?s=72&u=2d842643fdce9fe1e4ec7b15b450685456509352&v=4" width="24" alt="Avatar of 1two3code"> 1two3code
+			<a href="https://github.com/antonagestam">
+				<img src="https://avatars.githubusercontent.com/u/218551?s=72&u=25c448fce1f84fe74bb463e306e2a7ecf9c08194&v=4" width="24" alt="Avatar of antonagestam"> antonagestam
 			</a><br/>
-			Hans Löfgren
+			Anton Agestam
 		</td>
-		<td>K8 Smart Contracts Ab<br/></td>
-		<td><a href="https://twitter.com/1two3code">1two3code</a></td>
-		<td>Sweden</td>
+		<td>Aiven </td>
+		<td>No Twitter Username</td>
+		<td>Göteborg, Sweden</td>
 		<td>80</td>
 	</tr>
 	<tr>
