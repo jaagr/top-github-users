@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg" alt="Sweden">
 </a>
 
-The `public contributions` and `private contributions` by users in Sweden on `2024/8/9 2:09 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
+The `public contributions` and `private contributions` by users in Sweden on `2024/8/9 2:44 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
 
 There are `1 countries` and `4 cities` can be found [here](https://github.com/jaagr/top-github-users).
 
@@ -551,7 +551,7 @@ There are `942 users`  in Sweden. You need at least `81 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Göteborg, Sweden</td>
 		<td>2395</td>
-		<td>3354</td>
+		<td>3355</td>
 	</tr>
 	<tr>
 		<td>33</td>
@@ -649,7 +649,7 @@ There are `942 users`  in Sweden. You need at least `81 followers` to be on this
 		<td><a href="https://twitter.com/tomsoderlund">tomsoderlund</a></td>
 		<td>Stockholm, Sweden</td>
 		<td>662</td>
-		<td>3120</td>
+		<td>3121</td>
 	</tr>
 	<tr>
 		<td>40</td>
@@ -1460,8 +1460,8 @@ There are `942 users`  in Sweden. You need at least `81 followers` to be on this
 		<td>Tvnu Sweden Ab </td>
 		<td>No Twitter Username</td>
 		<td>Arvika, Sweden</td>
-		<td>1906</td>
-		<td>1906</td>
+		<td>1908</td>
+		<td>1908</td>
 	</tr>
 	<tr>
 		<td>98</td>
@@ -1586,8 +1586,8 @@ There are `942 users`  in Sweden. You need at least `81 followers` to be on this
 		<td>Alexander Cyon Consulting Ab<br/></td>
 		<td>No Twitter Username</td>
 		<td>Stockholm, Sweden</td>
-		<td>1743</td>
-		<td>1784</td>
+		<td>1745</td>
+		<td>1786</td>
 	</tr>
 	<tr>
 		<td>107</td>
@@ -5974,6 +5974,20 @@ There are `942 users`  in Sweden. You need at least `81 followers` to be on this
 	<tr>
 		<td>420</td>
 		<td>
+			<a href="https://github.com/samuell">
+				<img src="https://avatars.githubusercontent.com/u/125003?s=72&u=d8e9d922b1b720af2b70f9284f9135c57e5c5642&v=4" width="24" alt="Avatar of samuell"> samuell
+			</a><br/>
+			Samuel Lampa
+		</td>
+		<td>Karolinska University Hospital </td>
+		<td><a href="https://twitter.com/smllmp">smllmp</a></td>
+		<td>Stockholm</td>
+		<td>367</td>
+		<td>367</td>
+	</tr>
+	<tr>
+		<td>421</td>
+		<td>
 			<a href="https://github.com/teoljungberg">
 				<img src="https://avatars.githubusercontent.com/u/810650?s=72&u=db6fe61c8a95c1e1c460c3faf2bdf67aace20550&v=4" width="24" alt="Avatar of teoljungberg"> teoljungberg
 			</a><br/>
@@ -5984,20 +5998,6 @@ There are `942 users`  in Sweden. You need at least `81 followers` to be on this
 		<td>Stockholm, Sweden</td>
 		<td>366</td>
 		<td>366</td>
-	</tr>
-	<tr>
-		<td>421</td>
-		<td>
-			<a href="https://github.com/samuell">
-				<img src="https://avatars.githubusercontent.com/u/125003?s=72&u=d8e9d922b1b720af2b70f9284f9135c57e5c5642&v=4" width="24" alt="Avatar of samuell"> samuell
-			</a><br/>
-			Samuel Lampa
-		</td>
-		<td>Karolinska University Hospital </td>
-		<td><a href="https://twitter.com/smllmp">smllmp</a></td>
-		<td>Stockholm</td>
-		<td>365</td>
-		<td>365</td>
 	</tr>
 	<tr>
 		<td>422</td>
