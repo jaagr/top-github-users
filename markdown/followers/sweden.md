@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg" alt="Sweden">
 </a>
 
-The `number of followers` of users in Sweden on `2024/8/20 2:07 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
+The `number of followers` of users in Sweden on `2024/8/20 2:41 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
 
 There are `1 countries` and `4 cities` can be found [here](https://github.com/jaagr/top-github-users).
 
@@ -466,7 +466,7 @@ There are `940 users`  in Sweden. You need at least `81 followers` to be on this
 		<td>Superagent </td>
 		<td><a href="https://twitter.com/pelaseyed">pelaseyed</a></td>
 		<td>Sweden</td>
-		<td>1703</td>
+		<td>1704</td>
 	</tr>
 	<tr>
 		<td>29</td>
@@ -2850,6 +2850,19 @@ There are `940 users`  in Sweden. You need at least `81 followers` to be on this
 	<tr>
 		<td>212</td>
 		<td>
+			<a href="https://github.com/pontusab">
+				<img src="https://avatars.githubusercontent.com/u/655158?s=72&u=4ed2dd3339c694c58bb65211a26e048a222ca710&v=4" width="24" alt="Avatar of pontusab"> pontusab
+			</a><br/>
+			Pontus Abrahamsson
+		</td>
+		<td>@midday-ai </td>
+		<td>No Twitter Username</td>
+		<td>Stockholm</td>
+		<td>278</td>
+	</tr>
+	<tr>
+		<td>213</td>
+		<td>
 			<a href="https://github.com/kvakvs">
 				<img src="https://avatars.githubusercontent.com/u/288724?s=72&u=6710cb23bd77eac197a7b927fe66af5aa551c04a&v=4" width="24" alt="Avatar of kvakvs"> kvakvs
 			</a><br/>
@@ -2861,7 +2874,7 @@ There are `940 users`  in Sweden. You need at least `81 followers` to be on this
 		<td>278</td>
 	</tr>
 	<tr>
-		<td>213</td>
+		<td>214</td>
 		<td>
 			<a href="https://github.com/jebox">
 				<img src="https://avatars.githubusercontent.com/u/1586790?s=72&v=4" width="24" alt="Avatar of jebox"> jebox
@@ -2874,7 +2887,7 @@ There are `940 users`  in Sweden. You need at least `81 followers` to be on this
 		<td>278</td>
 	</tr>
 	<tr>
-		<td>214</td>
+		<td>215</td>
 		<td>
 			<a href="https://github.com/gbrindisi">
 				<img src="https://avatars.githubusercontent.com/u/287126?s=72&u=e0a55b978e1bddf3b3e403179ae68d5530922266&v=4" width="24" alt="Avatar of gbrindisi"> gbrindisi
@@ -2885,19 +2898,6 @@ There are `940 users`  in Sweden. You need at least `81 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Italy / Sweden</td>
 		<td>277</td>
-	</tr>
-	<tr>
-		<td>215</td>
-		<td>
-			<a href="https://github.com/pontusab">
-				<img src="https://avatars.githubusercontent.com/u/655158?s=72&u=4ed2dd3339c694c58bb65211a26e048a222ca710&v=4" width="24" alt="Avatar of pontusab"> pontusab
-			</a><br/>
-			Pontus Abrahamsson
-		</td>
-		<td>@midday-ai </td>
-		<td>No Twitter Username</td>
-		<td>Stockholm</td>
-		<td>276</td>
 	</tr>
 	<tr>
 		<td>216</td>
@@ -8232,6 +8232,19 @@ There are `940 users`  in Sweden. You need at least `81 followers` to be on this
 	<tr>
 		<td>626</td>
 		<td>
+			<a href="https://github.com/bombsimon">
+				<img src="https://avatars.githubusercontent.com/u/3248948?s=72&u=168a0256091039230b67689a2e41202edfc481a2&v=4" width="24" alt="Avatar of bombsimon"> bombsimon
+			</a><br/>
+			Simon Sawert
+		</td>
+		<td>@validio-io </td>
+		<td>No Twitter Username</td>
+		<td>Stockholm, Sweden</td>
+		<td>116</td>
+	</tr>
+	<tr>
+		<td>627</td>
+		<td>
 			<a href="https://github.com/ugurcanlacin">
 				<img src="https://avatars.githubusercontent.com/u/6627185?s=72&u=623d191fb5f159a6b024f9ba1d5e44d35675f9e7&v=4" width="24" alt="Avatar of ugurcanlacin"> ugurcanlacin
 			</a><br/>
@@ -8243,7 +8256,7 @@ There are `940 users`  in Sweden. You need at least `81 followers` to be on this
 		<td>116</td>
 	</tr>
 	<tr>
-		<td>627</td>
+		<td>628</td>
 		<td>
 			<a href="https://github.com/cheerfulstoic">
 				<img src="https://avatars.githubusercontent.com/u/301415?s=72&u=f98c2f9e3d306508d86b3d2c9cf35c32c39a2a96&v=4" width="24" alt="Avatar of cheerfulstoic"> cheerfulstoic
@@ -8256,7 +8269,7 @@ There are `940 users`  in Sweden. You need at least `81 followers` to be on this
 		<td>116</td>
 	</tr>
 	<tr>
-		<td>628</td>
+		<td>629</td>
 		<td>
 			<a href="https://github.com/amir-rahnama">
 				<img src="https://avatars.githubusercontent.com/u/6009583?s=72&u=9b45c7255c65a4cebeddc870dc3268730e7a1a7d&v=4" width="24" alt="Avatar of amir-rahnama"> amir-rahnama
@@ -8269,7 +8282,7 @@ There are `940 users`  in Sweden. You need at least `81 followers` to be on this
 		<td>116</td>
 	</tr>
 	<tr>
-		<td>629</td>
+		<td>630</td>
 		<td>
 			<a href="https://github.com/mekwall">
 				<img src="https://avatars.githubusercontent.com/u/37091?s=72&v=4" width="24" alt="Avatar of mekwall"> mekwall
@@ -8282,7 +8295,7 @@ There are `940 users`  in Sweden. You need at least `81 followers` to be on this
 		<td>116</td>
 	</tr>
 	<tr>
-		<td>630</td>
+		<td>631</td>
 		<td>
 			<a href="https://github.com/embark-studios">
 				<img src="https://avatars.githubusercontent.com/u/52158206?s=72&u=3edd1cf5b9b7eea20fd7e80a0d358590d96bf045&v=4" width="24" alt="Avatar of embark-studios"> embark-studios
@@ -8295,7 +8308,7 @@ There are `940 users`  in Sweden. You need at least `81 followers` to be on this
 		<td>116</td>
 	</tr>
 	<tr>
-		<td>631</td>
+		<td>632</td>
 		<td>
 			<a href="https://github.com/kalasjocke">
 				<img src="https://avatars.githubusercontent.com/u/7636?s=72&v=4" width="24" alt="Avatar of kalasjocke"> kalasjocke
@@ -8308,7 +8321,7 @@ There are `940 users`  in Sweden. You need at least `81 followers` to be on this
 		<td>116</td>
 	</tr>
 	<tr>
-		<td>632</td>
+		<td>633</td>
 		<td>
 			<a href="https://github.com/lassekongo83">
 				<img src="https://avatars.githubusercontent.com/u/7415624?s=72&v=4" width="24" alt="Avatar of lassekongo83"> lassekongo83
@@ -8318,19 +8331,6 @@ There are `940 users`  in Sweden. You need at least `81 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Sweden</td>
-		<td>115</td>
-	</tr>
-	<tr>
-		<td>633</td>
-		<td>
-			<a href="https://github.com/bombsimon">
-				<img src="https://avatars.githubusercontent.com/u/3248948?s=72&u=168a0256091039230b67689a2e41202edfc481a2&v=4" width="24" alt="Avatar of bombsimon"> bombsimon
-			</a><br/>
-			Simon Sawert
-		</td>
-		<td>@validio-io </td>
-		<td>No Twitter Username</td>
-		<td>Stockholm, Sweden</td>
 		<td>115</td>
 	</tr>
 	<tr>
