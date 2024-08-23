@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg" alt="Sweden">
 </a>
 
-The `public contributions` and `private contributions` by users in Sweden on `2024/8/23 2:44 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
+The `public contributions` and `private contributions` by users in Sweden on `2024/8/23 3:16 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
 
 There are `1 countries` and `4 cities` can be found [here](https://github.com/jaagr/top-github-users).
 
@@ -550,8 +550,8 @@ There are `940 users`  in Sweden. You need at least `81 followers` to be on this
 		<td>@einride </td>
 		<td>No Twitter Username</td>
 		<td>Göteborg, Sweden</td>
-		<td>2252</td>
-		<td>3329</td>
+		<td>2253</td>
+		<td>3330</td>
 	</tr>
 	<tr>
 		<td>33</td>
@@ -1600,8 +1600,8 @@ There are `940 users`  in Sweden. You need at least `81 followers` to be on this
 		<td>@lmstudio-ai </td>
 		<td>No Twitter Username</td>
 		<td>Sweden</td>
-		<td>1690</td>
-		<td>1763</td>
+		<td>1693</td>
+		<td>1766</td>
 	</tr>
 	<tr>
 		<td>108</td>
@@ -3546,8 +3546,8 @@ There are `940 users`  in Sweden. You need at least `81 followers` to be on this
 		<td>Karolinska Institutet </td>
 		<td><a href="https://twitter.com/fregu856">fregu856</a></td>
 		<td>Stockholm, Sweden.</td>
-		<td>216</td>
-		<td>877</td>
+		<td>217</td>
+		<td>878</td>
 	</tr>
 	<tr>
 		<td>247</td>
@@ -5338,8 +5338,8 @@ There are `940 users`  in Sweden. You need at least `81 followers` to be on this
 		<td>Valo Intranet </td>
 		<td><a href="https://twitter.com/erwinvanhunen">erwinvanhunen</a></td>
 		<td>Sweden</td>
-		<td>477</td>
-		<td>477</td>
+		<td>478</td>
+		<td>478</td>
 	</tr>
 	<tr>
 		<td>375</td>
