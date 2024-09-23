@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg" alt="Sweden">
 </a>
 
-The `public contributions` by users in Sweden on `2024/9/23 2:18 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
+The `public contributions` by users in Sweden on `2024/9/23 3:23 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
 
 There are `1 countries` and `4 cities` can be found [here](https://github.com/jaagr/top-github-users).
 
@@ -271,7 +271,7 @@ There are `937 users`  in Sweden. You need at least `83 followers` to be on this
 		<td>Science For Life Laboratory<br/></td>
 		<td>No Twitter Username</td>
 		<td>Stockholm</td>
-		<td>3175</td>
+		<td>3177</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -362,7 +362,7 @@ There are `937 users`  in Sweden. You need at least `83 followers` to be on this
 		<td>Chalmers And Gothenburg University<br/></td>
 		<td>No Twitter Username</td>
 		<td>Gothenburg, Sweden</td>
-		<td>2941</td>
+		<td>2943</td>
 	</tr>
 	<tr>
 		<td>21</td>
@@ -544,7 +544,7 @@ There are `937 users`  in Sweden. You need at least `83 followers` to be on this
 		<td>Tvnu Sweden Ab </td>
 		<td>No Twitter Username</td>
 		<td>Arvika, Sweden</td>
-		<td>2203</td>
+		<td>2207</td>
 	</tr>
 	<tr>
 		<td>35</td>
@@ -1012,7 +1012,7 @@ There are `937 users`  in Sweden. You need at least `83 followers` to be on this
 		<td>Yoast </td>
 		<td><a href="https://twitter.com/carolinapoena">carolinapoena</a></td>
 		<td>Stockholm</td>
-		<td>1228</td>
+		<td>1229</td>
 	</tr>
 	<tr>
 		<td>71</td>
@@ -2351,7 +2351,7 @@ There are `937 users`  in Sweden. You need at least `83 followers` to be on this
 		<td>Valo Intranet </td>
 		<td><a href="https://twitter.com/erwinvanhunen">erwinvanhunen</a></td>
 		<td>Sweden</td>
-		<td>520</td>
+		<td>521</td>
 	</tr>
 	<tr>
 		<td>174</td>
@@ -3027,7 +3027,7 @@ There are `937 users`  in Sweden. You need at least `83 followers` to be on this
 		<td>@datadog </td>
 		<td>No Twitter Username</td>
 		<td>Stockholm</td>
-		<td>358</td>
+		<td>359</td>
 	</tr>
 	<tr>
 		<td>226</td>
@@ -3534,7 +3534,7 @@ There are `937 users`  in Sweden. You need at least `83 followers` to be on this
 		<td>@locoapp @ctrl-alt-deseat  </td>
 		<td><a href="https://twitter.com/LinusU">LinusU</a></td>
 		<td>Stockholm, Sweden</td>
-		<td>290</td>
+		<td>292</td>
 	</tr>
 	<tr>
 		<td>265</td>
