@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg" alt="Sweden">
 </a>
 
-The `number of followers` of users in Sweden on `2024/10/1 8:18 PM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
+The `number of followers` of users in Sweden on `2024/10/1 9:17 PM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
 
 There are `1 countries` and `4 cities` can be found [here](https://github.com/jaagr/top-github-users).
 
@@ -141,7 +141,7 @@ There are `937 users`  in Sweden. You need at least `83 followers` to be on this
 		<td>@wolfssl  </td>
 		<td>No Twitter Username</td>
 		<td>the curl factory, Sweden - close to Nebraska</td>
-		<td>6299</td>
+		<td>6301</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -297,7 +297,7 @@ There are `937 users`  in Sweden. You need at least `83 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/alexdotjs">alexdotjs</a></td>
 		<td>Malmö, Sweden</td>
-		<td>2775</td>
+		<td>2776</td>
 	</tr>
 	<tr>
 		<td>16</td>
@@ -609,7 +609,7 @@ There are `937 users`  in Sweden. You need at least `83 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/filip_mariani">filip_mariani</a></td>
 		<td>Sweden</td>
-		<td>1277</td>
+		<td>1278</td>
 	</tr>
 	<tr>
 		<td>40</td>
@@ -2161,19 +2161,6 @@ There are `937 users`  in Sweden. You need at least `83 followers` to be on this
 	<tr>
 		<td>159</td>
 		<td>
-			<a href="https://github.com/anma-dev">
-				<img src="https://avatars.githubusercontent.com/u/176968452?s=72&u=b2290dde8719ef119c90d2a9a898a7b5d564f933&v=4" width="24" alt="Avatar of anma-dev"> anma-dev
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Sweden</td>
-		<td>364</td>
-	</tr>
-	<tr>
-		<td>160</td>
-		<td>
 			<a href="https://github.com/olleolleolle">
 				<img src="https://avatars.githubusercontent.com/u/211?s=72&u=9bf7571066c8e4de984f14c35791cb852c66aab9&v=4" width="24" alt="Avatar of olleolleolle"> olleolleolle
 			</a><br/>
@@ -2183,6 +2170,19 @@ There are `937 users`  in Sweden. You need at least `83 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>sunny Malmö in Sweden</td>
 		<td>363</td>
+	</tr>
+	<tr>
+		<td>160</td>
+		<td>
+			<a href="https://github.com/anma-dev">
+				<img src="https://avatars.githubusercontent.com/u/176968452?s=72&u=b2290dde8719ef119c90d2a9a898a7b5d564f933&v=4" width="24" alt="Avatar of anma-dev"> anma-dev
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sweden</td>
+		<td>362</td>
 	</tr>
 	<tr>
 		<td>161</td>
@@ -3292,6 +3292,19 @@ There are `937 users`  in Sweden. You need at least `83 followers` to be on this
 	<tr>
 		<td>246</td>
 		<td>
+			<a href="https://github.com/iabdalkader">
+				<img src="https://avatars.githubusercontent.com/u/4498013?s=72&u=6d1716bad820a1a0579fe5c266045df3f4b87f25&v=4" width="24" alt="Avatar of iabdalkader"> iabdalkader
+			</a><br/>
+			Ibrahim Abdelkader
+		</td>
+		<td>Openmv </td>
+		<td>No Twitter Username</td>
+		<td>Sweden</td>
+		<td>257</td>
+	</tr>
+	<tr>
+		<td>247</td>
+		<td>
 			<a href="https://github.com/Speedi13">
 				<img src="https://avatars.githubusercontent.com/u/17367538?s=72&u=63a1becb9c450d1217c6ae900487dd48fca991f4&v=4" width="24" alt="Avatar of Speedi13"> Speedi13
 			</a><br/>
@@ -3301,19 +3314,6 @@ There are `937 users`  in Sweden. You need at least `83 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Stockholm</td>
 		<td>257</td>
-	</tr>
-	<tr>
-		<td>247</td>
-		<td>
-			<a href="https://github.com/iabdalkader">
-				<img src="https://avatars.githubusercontent.com/u/4498013?s=72&u=6d1716bad820a1a0579fe5c266045df3f4b87f25&v=4" width="24" alt="Avatar of iabdalkader"> iabdalkader
-			</a><br/>
-			Ibrahim Abdelkader
-		</td>
-		<td>Openmv </td>
-		<td>No Twitter Username</td>
-		<td>Sweden</td>
-		<td>256</td>
 	</tr>
 	<tr>
 		<td>248</td>
@@ -7023,6 +7023,19 @@ There are `937 users`  in Sweden. You need at least `83 followers` to be on this
 	<tr>
 		<td>533</td>
 		<td>
+			<a href="https://github.com/tinaponting">
+				<img src="https://avatars.githubusercontent.com/u/3619162?s=72&u=b6b3fedfede27402924b41ffa7a5bb606876afcc&v=4" width="24" alt="Avatar of tinaponting"> tinaponting
+			</a><br/>
+			Kristina Ponting  sweden
+		</td>
+		<td>Racewalker- Runner </td>
+		<td>No Twitter Username</td>
+		<td>Sweden</td>
+		<td>137</td>
+	</tr>
+	<tr>
+		<td>534</td>
+		<td>
 			<a href="https://github.com/nikez">
 				<img src="https://avatars.githubusercontent.com/u/1504588?s=72&u=ee57d35ab803ba4faa7d40b4667d762a6945a7f8&v=4" width="24" alt="Avatar of nikez"> nikez
 			</a><br/>
@@ -7034,7 +7047,7 @@ There are `937 users`  in Sweden. You need at least `83 followers` to be on this
 		<td>137</td>
 	</tr>
 	<tr>
-		<td>534</td>
+		<td>535</td>
 		<td>
 			<a href="https://github.com/danielstocks">
 				<img src="https://avatars.githubusercontent.com/u/52788?s=72&u=cf0df40ccca54c9c50e4dd8620fd062835a4de0b&v=4" width="24" alt="Avatar of danielstocks"> danielstocks
@@ -7047,7 +7060,7 @@ There are `937 users`  in Sweden. You need at least `83 followers` to be on this
 		<td>137</td>
 	</tr>
 	<tr>
-		<td>535</td>
+		<td>536</td>
 		<td>
 			<a href="https://github.com/oravirt">
 				<img src="https://avatars.githubusercontent.com/u/7466937?s=72&u=ce5fa3e6964bb8e3f9b5105a187f4da267a77b46&v=4" width="24" alt="Avatar of oravirt"> oravirt
@@ -7058,19 +7071,6 @@ There are `937 users`  in Sweden. You need at least `83 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Sweden</td>
 		<td>137</td>
-	</tr>
-	<tr>
-		<td>536</td>
-		<td>
-			<a href="https://github.com/tinaponting">
-				<img src="https://avatars.githubusercontent.com/u/3619162?s=72&u=b6b3fedfede27402924b41ffa7a5bb606876afcc&v=4" width="24" alt="Avatar of tinaponting"> tinaponting
-			</a><br/>
-			Kristina Ponting  sweden
-		</td>
-		<td>Racewalker- Runner </td>
-		<td>No Twitter Username</td>
-		<td>Sweden</td>
-		<td>136</td>
 	</tr>
 	<tr>
 		<td>537</td>
