@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg" alt="Sweden">
 </a>
 
-The `number of followers` of users in Sweden on `2024/10/3 2:18 PM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
+The `number of followers` of users in Sweden on `2024/10/3 3:18 PM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
 
 There are `1 countries` and `4 cities` can be found [here](https://github.com/jaagr/top-github-users).
 
@@ -271,7 +271,7 @@ There are `937 users`  in Sweden. You need at least `83 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/aladdinpersson">aladdinpersson</a></td>
 		<td>Stockholm</td>
-		<td>2967</td>
+		<td>2968</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -492,7 +492,7 @@ There are `937 users`  in Sweden. You need at least `83 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/kevvayo">kevvayo</a></td>
 		<td>Sweden</td>
-		<td>1641</td>
+		<td>1642</td>
 	</tr>
 	<tr>
 		<td>31</td>
@@ -661,7 +661,7 @@ There are `937 users`  in Sweden. You need at least `83 followers` to be on this
 		<td>@lunarway </td>
 		<td><a href="https://twitter.com/ivanpaulovich">ivanpaulovich</a></td>
 		<td>Stockholm, Sweden</td>
-		<td>1165</td>
+		<td>1166</td>
 	</tr>
 	<tr>
 		<td>44</td>
@@ -1142,7 +1142,7 @@ There are `937 users`  in Sweden. You need at least `83 followers` to be on this
 		<td>@kastelo </td>
 		<td>No Twitter Username</td>
 		<td>Sweden</td>
-		<td>652</td>
+		<td>653</td>
 	</tr>
 	<tr>
 		<td>81</td>
@@ -1454,7 +1454,7 @@ There are `937 users`  in Sweden. You need at least `83 followers` to be on this
 		<td>@midday-ai </td>
 		<td>No Twitter Username</td>
 		<td>Stockholm</td>
-		<td>511</td>
+		<td>512</td>
 	</tr>
 	<tr>
 		<td>105</td>
@@ -2746,19 +2746,6 @@ There are `937 users`  in Sweden. You need at least `83 followers` to be on this
 	<tr>
 		<td>204</td>
 		<td>
-			<a href="https://github.com/garazdawi">
-				<img src="https://avatars.githubusercontent.com/u/111762?s=72&v=4" width="24" alt="Avatar of garazdawi"> garazdawi
-			</a><br/>
-			Lukas Backström (FKA Larsson)
-		</td>
-		<td>Erlang Solutions </td>
-		<td><a href="https://twitter.com/garazdawi">garazdawi</a></td>
-		<td>Stockholm</td>
-		<td>295</td>
-	</tr>
-	<tr>
-		<td>205</td>
-		<td>
 			<a href="https://github.com/boredabdel">
 				<img src="https://avatars.githubusercontent.com/u/1208914?s=72&u=1ab2ce500965cba0d5779724b6320444efd8612c&v=4" width="24" alt="Avatar of boredabdel"> boredabdel
 			</a><br/>
@@ -2767,6 +2754,19 @@ There are `937 users`  in Sweden. You need at least `83 followers` to be on this
 		<td>Google </td>
 		<td>No Twitter Username</td>
 		<td>Stockholm, sweden</td>
+		<td>296</td>
+	</tr>
+	<tr>
+		<td>205</td>
+		<td>
+			<a href="https://github.com/garazdawi">
+				<img src="https://avatars.githubusercontent.com/u/111762?s=72&v=4" width="24" alt="Avatar of garazdawi"> garazdawi
+			</a><br/>
+			Lukas Backström (FKA Larsson)
+		</td>
+		<td>Erlang Solutions </td>
+		<td><a href="https://twitter.com/garazdawi">garazdawi</a></td>
+		<td>Stockholm</td>
 		<td>295</td>
 	</tr>
 	<tr>
@@ -3630,6 +3630,19 @@ There are `937 users`  in Sweden. You need at least `83 followers` to be on this
 	<tr>
 		<td>272</td>
 		<td>
+			<a href="https://github.com/frozzare">
+				<img src="https://avatars.githubusercontent.com/u/14610?s=72&u=013c8f27d48b8ec55505e45d738978b9004985e1&v=4" width="24" alt="Avatar of frozzare"> frozzare
+			</a><br/>
+			Fredrik Forsmo
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/frozzare">frozzare</a></td>
+		<td>Stockholm, Sweden</td>
+		<td>232</td>
+	</tr>
+	<tr>
+		<td>273</td>
+		<td>
 			<a href="https://github.com/ChocoChipset">
 				<img src="https://avatars.githubusercontent.com/u/612990?s=72&u=d281f025ca2f5995f5a5bfe58e37e8ff360f9a45&v=4" width="24" alt="Avatar of ChocoChipset"> ChocoChipset
 			</a><br/>
@@ -3639,19 +3652,6 @@ There are `937 users`  in Sweden. You need at least `83 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Stockholm, Sweden</td>
 		<td>232</td>
-	</tr>
-	<tr>
-		<td>273</td>
-		<td>
-			<a href="https://github.com/frozzare">
-				<img src="https://avatars.githubusercontent.com/u/14610?s=72&u=013c8f27d48b8ec55505e45d738978b9004985e1&v=4" width="24" alt="Avatar of frozzare"> frozzare
-			</a><br/>
-			Fredrik Forsmo
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/frozzare">frozzare</a></td>
-		<td>Stockholm, Sweden</td>
-		<td>231</td>
 	</tr>
 	<tr>
 		<td>274</td>
@@ -3890,19 +3890,6 @@ There are `937 users`  in Sweden. You need at least `83 followers` to be on this
 	<tr>
 		<td>292</td>
 		<td>
-			<a href="https://github.com/mape">
-				<img src="https://avatars.githubusercontent.com/u/25655?s=72&u=bbc7f0ada4e3ddec80e8fb2b36301bc744954969&v=4" width="24" alt="Avatar of mape"> mape
-			</a><br/>
-			Mathias Pettersson
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/mape">mape</a></td>
-		<td>Sweden</td>
-		<td>219</td>
-	</tr>
-	<tr>
-		<td>293</td>
-		<td>
 			<a href="https://github.com/ChrisKlug">
 				<img src="https://avatars.githubusercontent.com/u/2353256?s=72&u=bc70f431aa2b88c402c314eecca1779c6d914e4b&v=4" width="24" alt="Avatar of ChrisKlug"> ChrisKlug
 			</a><br/>
@@ -3910,6 +3897,19 @@ There are `937 users`  in Sweden. You need at least `83 followers` to be on this
 		</td>
 		<td>@activesolution </td>
 		<td>No Twitter Username</td>
+		<td>Sweden</td>
+		<td>219</td>
+	</tr>
+	<tr>
+		<td>293</td>
+		<td>
+			<a href="https://github.com/mape">
+				<img src="https://avatars.githubusercontent.com/u/25655?s=72&u=bbc7f0ada4e3ddec80e8fb2b36301bc744954969&v=4" width="24" alt="Avatar of mape"> mape
+			</a><br/>
+			Mathias Pettersson
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/mape">mape</a></td>
 		<td>Sweden</td>
 		<td>219</td>
 	</tr>
@@ -3942,19 +3942,6 @@ There are `937 users`  in Sweden. You need at least `83 followers` to be on this
 	<tr>
 		<td>296</td>
 		<td>
-			<a href="https://github.com/marcusoftnet">
-				<img src="https://avatars.githubusercontent.com/u/184660?s=72&u=4ea74c95439154571a8293cd8e1fd2745a37205e&v=4" width="24" alt="Avatar of marcusoftnet"> marcusoftnet
-			</a><br/>
-			Marcus Hammarberg
-		</td>
-		<td>School Of Applied Technology<br/>-<br/></salt><br/></td>
-		<td><a href="https://twitter.com/marcusoftnet">marcusoftnet</a></td>
-		<td>Stockholm Sweden</td>
-		<td>216</td>
-	</tr>
-	<tr>
-		<td>297</td>
-		<td>
 			<a href="https://github.com/KaarinGaming">
 				<img src="https://avatars.githubusercontent.com/u/96723354?s=72&u=49449900fa40045d68efcecf368eac6e4227c95a&v=4" width="24" alt="Avatar of KaarinGaming"> KaarinGaming
 			</a><br/>
@@ -3963,6 +3950,19 @@ There are `937 users`  in Sweden. You need at least `83 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/kaaringaming">kaaringaming</a></td>
 		<td>Sweden</td>
+		<td>217</td>
+	</tr>
+	<tr>
+		<td>297</td>
+		<td>
+			<a href="https://github.com/marcusoftnet">
+				<img src="https://avatars.githubusercontent.com/u/184660?s=72&u=4ea74c95439154571a8293cd8e1fd2745a37205e&v=4" width="24" alt="Avatar of marcusoftnet"> marcusoftnet
+			</a><br/>
+			Marcus Hammarberg
+		</td>
+		<td>School Of Applied Technology<br/>-<br/></salt><br/></td>
+		<td><a href="https://twitter.com/marcusoftnet">marcusoftnet</a></td>
+		<td>Stockholm Sweden</td>
 		<td>216</td>
 	</tr>
 	<tr>
@@ -4280,6 +4280,19 @@ There are `937 users`  in Sweden. You need at least `83 followers` to be on this
 	<tr>
 		<td>322</td>
 		<td>
+			<a href="https://github.com/kesla">
+				<img src="https://avatars.githubusercontent.com/u/74128?s=72&u=a623208d2152b9f83c8f243f02e4be8dc560384b&v=4" width="24" alt="Avatar of kesla"> kesla
+			</a><br/>
+			David Björklund
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Stockholm, Sweden</td>
+		<td>201</td>
+	</tr>
+	<tr>
+		<td>323</td>
+		<td>
 			<a href="https://github.com/erming">
 				<img src="https://avatars.githubusercontent.com/u/2502500?s=72&u=9ee3b82ea61eec2d847a60865a2c1e91ca04592b&v=4" width="24" alt="Avatar of erming"> erming
 			</a><br/>
@@ -4289,19 +4302,6 @@ There are `937 users`  in Sweden. You need at least `83 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Sweden</td>
 		<td>201</td>
-	</tr>
-	<tr>
-		<td>323</td>
-		<td>
-			<a href="https://github.com/kesla">
-				<img src="https://avatars.githubusercontent.com/u/74128?s=72&u=a623208d2152b9f83c8f243f02e4be8dc560384b&v=4" width="24" alt="Avatar of kesla"> kesla
-			</a><br/>
-			David Björklund
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Stockholm, Sweden</td>
-		<td>200</td>
 	</tr>
 	<tr>
 		<td>324</td>
@@ -5957,6 +5957,19 @@ There are `937 users`  in Sweden. You need at least `83 followers` to be on this
 	<tr>
 		<td>451</td>
 		<td>
+			<a href="https://github.com/EngstromJimmy">
+				<img src="https://avatars.githubusercontent.com/u/2390244?s=72&u=caee39c7f26a309e5261c75a35b982aefc9d1b24&v=4" width="24" alt="Avatar of EngstromJimmy"> EngstromJimmy
+			</a><br/>
+			Jimmy Engstrom
+		</td>
+		<td>Azm Dev </td>
+		<td><a href="https://twitter.com/EngstromJimmy">EngstromJimmy</a></td>
+		<td>Sweden</td>
+		<td>155</td>
+	</tr>
+	<tr>
+		<td>452</td>
+		<td>
 			<a href="https://github.com/GeneKao">
 				<img src="https://avatars.githubusercontent.com/u/1162842?s=72&u=6e83538984f3d94c804b489b15b26b9012c4b69d&v=4" width="24" alt="Avatar of GeneKao"> GeneKao
 			</a><br/>
@@ -5968,7 +5981,7 @@ There are `937 users`  in Sweden. You need at least `83 followers` to be on this
 		<td>155</td>
 	</tr>
 	<tr>
-		<td>452</td>
+		<td>453</td>
 		<td>
 			<a href="https://github.com/no13bus">
 				<img src="https://avatars.githubusercontent.com/u/3690806?s=72&u=f06f13ddbce0dcbe2eebb7b0380896df822e6dd2&v=4" width="24" alt="Avatar of no13bus"> no13bus
@@ -5981,7 +5994,7 @@ There are `937 users`  in Sweden. You need at least `83 followers` to be on this
 		<td>155</td>
 	</tr>
 	<tr>
-		<td>453</td>
+		<td>454</td>
 		<td>
 			<a href="https://github.com/algomaster99">
 				<img src="https://avatars.githubusercontent.com/u/35191225?s=72&u=44db73e3db685b5983965dd57c2ff6c02ad6407b&v=4" width="24" alt="Avatar of algomaster99"> algomaster99
@@ -5994,7 +6007,7 @@ There are `937 users`  in Sweden. You need at least `83 followers` to be on this
 		<td>154</td>
 	</tr>
 	<tr>
-		<td>454</td>
+		<td>455</td>
 		<td>
 			<a href="https://github.com/zimme">
 				<img src="https://avatars.githubusercontent.com/u/1215414?s=72&v=4" width="24" alt="Avatar of zimme"> zimme
@@ -6007,7 +6020,7 @@ There are `937 users`  in Sweden. You need at least `83 followers` to be on this
 		<td>154</td>
 	</tr>
 	<tr>
-		<td>455</td>
+		<td>456</td>
 		<td>
 			<a href="https://github.com/maciekish">
 				<img src="https://avatars.githubusercontent.com/u/442007?s=72&v=4" width="24" alt="Avatar of maciekish"> maciekish
@@ -6020,7 +6033,7 @@ There are `937 users`  in Sweden. You need at least `83 followers` to be on this
 		<td>154</td>
 	</tr>
 	<tr>
-		<td>456</td>
+		<td>457</td>
 		<td>
 			<a href="https://github.com/hussius">
 				<img src="https://avatars.githubusercontent.com/u/373445?s=72&v=4" width="24" alt="Avatar of hussius"> hussius
@@ -6033,7 +6046,7 @@ There are `937 users`  in Sweden. You need at least `83 followers` to be on this
 		<td>154</td>
 	</tr>
 	<tr>
-		<td>457</td>
+		<td>458</td>
 		<td>
 			<a href="https://github.com/sim0n">
 				<img src="https://avatars.githubusercontent.com/u/47766407?s=72&u=fa894c4a0528537a6801d4781fa2d32e7dd82b25&v=4" width="24" alt="Avatar of sim0n"> sim0n
@@ -6046,7 +6059,7 @@ There are `937 users`  in Sweden. You need at least `83 followers` to be on this
 		<td>154</td>
 	</tr>
 	<tr>
-		<td>458</td>
+		<td>459</td>
 		<td>
 			<a href="https://github.com/possan">
 				<img src="https://avatars.githubusercontent.com/u/33173?s=72&v=4" width="24" alt="Avatar of possan"> possan
@@ -6059,7 +6072,7 @@ There are `937 users`  in Sweden. You need at least `83 followers` to be on this
 		<td>153</td>
 	</tr>
 	<tr>
-		<td>459</td>
+		<td>460</td>
 		<td>
 			<a href="https://github.com/cbrueffer">
 				<img src="https://avatars.githubusercontent.com/u/2705287?s=72&u=2750da50c97376a0783919924a6e7542d3b3e6fc&v=4" width="24" alt="Avatar of cbrueffer"> cbrueffer
@@ -6072,7 +6085,7 @@ There are `937 users`  in Sweden. You need at least `83 followers` to be on this
 		<td>153</td>
 	</tr>
 	<tr>
-		<td>460</td>
+		<td>461</td>
 		<td>
 			<a href="https://github.com/pbos">
 				<img src="https://avatars.githubusercontent.com/u/95335?s=72&u=2d8851ae9b8dadccb042f1d1999cca650d283590&v=4" width="24" alt="Avatar of pbos"> pbos
@@ -6082,19 +6095,6 @@ There are `937 users`  in Sweden. You need at least `83 followers` to be on this
 		<td>@google </td>
 		<td>No Twitter Username</td>
 		<td>Stockholm, Sweden</td>
-		<td>153</td>
-	</tr>
-	<tr>
-		<td>461</td>
-		<td>
-			<a href="https://github.com/EngstromJimmy">
-				<img src="https://avatars.githubusercontent.com/u/2390244?s=72&u=caee39c7f26a309e5261c75a35b982aefc9d1b24&v=4" width="24" alt="Avatar of EngstromJimmy"> EngstromJimmy
-			</a><br/>
-			Jimmy Engstrom
-		</td>
-		<td>Azm Dev </td>
-		<td><a href="https://twitter.com/EngstromJimmy">EngstromJimmy</a></td>
-		<td>Sweden</td>
 		<td>153</td>
 	</tr>
 	<tr>
@@ -6347,6 +6347,19 @@ There are `937 users`  in Sweden. You need at least `83 followers` to be on this
 	<tr>
 		<td>481</td>
 		<td>
+			<a href="https://github.com/gummesson">
+				<img src="https://avatars.githubusercontent.com/u/2131428?s=72&u=808731e5911c5bafc955227578c8d326b4f4a2ec&v=4" width="24" alt="Avatar of gummesson"> gummesson
+			</a><br/>
+			Ellen Gummesson
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sweden</td>
+		<td>148</td>
+	</tr>
+	<tr>
+		<td>482</td>
+		<td>
 			<a href="https://github.com/peterix">
 				<img src="https://avatars.githubusercontent.com/u/203326?s=72&u=3088f492f29bd29965956ae72b6ffb306a4d7651&v=4" width="24" alt="Avatar of peterix"> peterix
 			</a><br/>
@@ -6358,7 +6371,7 @@ There are `937 users`  in Sweden. You need at least `83 followers` to be on this
 		<td>147</td>
 	</tr>
 	<tr>
-		<td>482</td>
+		<td>483</td>
 		<td>
 			<a href="https://github.com/jiwidi">
 				<img src="https://avatars.githubusercontent.com/u/10882086?s=72&u=481aeb402835fec6bf4340624c67b0191cb90580&v=4" width="24" alt="Avatar of jiwidi"> jiwidi
@@ -6371,7 +6384,7 @@ There are `937 users`  in Sweden. You need at least `83 followers` to be on this
 		<td>147</td>
 	</tr>
 	<tr>
-		<td>483</td>
+		<td>484</td>
 		<td>
 			<a href="https://github.com/vdeminstitute">
 				<img src="https://avatars.githubusercontent.com/u/11321268?s=72&u=614454b189d86b16c5e97a59b635ebe60197fbf0&v=4" width="24" alt="Avatar of vdeminstitute"> vdeminstitute
@@ -6384,7 +6397,7 @@ There are `937 users`  in Sweden. You need at least `83 followers` to be on this
 		<td>147</td>
 	</tr>
 	<tr>
-		<td>484</td>
+		<td>485</td>
 		<td>
 			<a href="https://github.com/mahmudalhakim">
 				<img src="https://avatars.githubusercontent.com/u/16646383?s=72&v=4" width="24" alt="Avatar of mahmudalhakim"> mahmudalhakim
@@ -6394,19 +6407,6 @@ There are `937 users`  in Sweden. You need at least `83 followers` to be on this
 		<td>Swedish Web Academy Ab<br/></td>
 		<td>No Twitter Username</td>
 		<td>Stockholm Sweden</td>
-		<td>147</td>
-	</tr>
-	<tr>
-		<td>485</td>
-		<td>
-			<a href="https://github.com/gummesson">
-				<img src="https://avatars.githubusercontent.com/u/2131428?s=72&u=808731e5911c5bafc955227578c8d326b4f4a2ec&v=4" width="24" alt="Avatar of gummesson"> gummesson
-			</a><br/>
-			Ellen Gummesson
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Sweden</td>
 		<td>147</td>
 	</tr>
 	<tr>
@@ -12210,6 +12210,19 @@ There are `937 users`  in Sweden. You need at least `83 followers` to be on this
 	<tr>
 		<td>932</td>
 		<td>
+			<a href="https://github.com/xZero707">
+				<img src="https://avatars.githubusercontent.com/u/3281104?s=72&u=6a099b6f76ca77abe8bd061f24704ab51b3c0ec1&v=4" width="24" alt="Avatar of xZero707"> xZero707
+			</a><br/>
+			Aleksandar Puharic
+		</td>
+		<td>@metry-io </td>
+		<td>No Twitter Username</td>
+		<td>Gothenburg, Sweden</td>
+		<td>83</td>
+	</tr>
+	<tr>
+		<td>933</td>
+		<td>
 			<a href="https://github.com/ajthinking">
 				<img src="https://avatars.githubusercontent.com/u/3457668?s=72&u=6ee4e4ccf2fa8b1eead825f2525a7d860af600a7&v=4" width="24" alt="Avatar of ajthinking"> ajthinking
 			</a><br/>
@@ -12218,19 +12231,6 @@ There are `937 users`  in Sweden. You need at least `83 followers` to be on this
 		<td>Ajthinking Ab </td>
 		<td><a href="https://twitter.com/ajthinking">ajthinking</a></td>
 		<td>Bagarmossen, Stockholm, Sweden</td>
-		<td>83</td>
-	</tr>
-	<tr>
-		<td>933</td>
-		<td>
-			<a href="https://github.com/minborg">
-				<img src="https://avatars.githubusercontent.com/u/7457876?s=72&u=0611372868b726b5a11f630253197086252073f3&v=4" width="24" alt="Avatar of minborg"> minborg
-			</a><br/>
-			Per-Ake Minborg
-		</td>
-		<td>Oracle, Inc </td>
-		<td><a href="https://twitter.com/pminborg">pminborg</a></td>
-		<td>Sweden</td>
 		<td>83</td>
 	</tr>
 	<tr>
