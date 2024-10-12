@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg" alt="Sweden">
 </a>
 
-The `public contributions` by users in Sweden on `2024/10/12 10:16 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
+The `public contributions` by users in Sweden on `2024/10/12 11:13 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
 
 There are `1 countries` and `4 cities` can be found [here](https://github.com/jaagr/top-github-users).
 
@@ -115,7 +115,7 @@ There are `937 users`  in Sweden. You need at least `83 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Sweden</td>
-		<td>5390</td>
+		<td>5391</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -271,7 +271,7 @@ There are `937 users`  in Sweden. You need at least `83 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Linköping, Sweden</td>
-		<td>3224</td>
+		<td>3229</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -336,7 +336,7 @@ There are `937 users`  in Sweden. You need at least `83 followers` to be on this
 		<td>@midday-ai </td>
 		<td>No Twitter Username</td>
 		<td>Stockholm</td>
-		<td>3024</td>
+		<td>3028</td>
 	</tr>
 	<tr>
 		<td>19</td>
@@ -661,7 +661,7 @@ There are `937 users`  in Sweden. You need at least `83 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/fornwall">fornwall</a></td>
 		<td>Stockholm, Sweden</td>
-		<td>1792</td>
+		<td>1793</td>
 	</tr>
 	<tr>
 		<td>44</td>
@@ -765,7 +765,7 @@ There are `937 users`  in Sweden. You need at least `83 followers` to be on this
 		<td>Deutsche Telekom / Terastream,<br/>@spritelink<br/></td>
 		<td>No Twitter Username</td>
 		<td>Stockholm, Sweden</td>
-		<td>1591</td>
+		<td>1593</td>
 	</tr>
 	<tr>
 		<td>52</td>
@@ -1142,7 +1142,7 @@ There are `937 users`  in Sweden. You need at least `83 followers` to be on this
 		<td>@insilicoconsulting </td>
 		<td><a href="https://twitter.com/cbrueffer">cbrueffer</a></td>
 		<td>Lund, Sweden</td>
-		<td>1132</td>
+		<td>1135</td>
 	</tr>
 	<tr>
 		<td>81</td>
@@ -1168,7 +1168,7 @@ There are `937 users`  in Sweden. You need at least `83 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Sweden</td>
-		<td>1116</td>
+		<td>1117</td>
 	</tr>
 	<tr>
 		<td>83</td>
@@ -1207,7 +1207,7 @@ There are `937 users`  in Sweden. You need at least `83 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/marna_li">marna_li</a></td>
 		<td>Malmö, Sweden</td>
-		<td>1055</td>
+		<td>1056</td>
 	</tr>
 	<tr>
 		<td>86</td>
@@ -1961,7 +1961,7 @@ There are `937 users`  in Sweden. You need at least `83 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Lund, Sweden</td>
-		<td>679</td>
+		<td>680</td>
 	</tr>
 	<tr>
 		<td>144</td>
@@ -2156,7 +2156,7 @@ There are `937 users`  in Sweden. You need at least `83 followers` to be on this
 		<td>Castmill / Taskforce.sh </td>
 		<td><a href="https://twitter.com/manast">manast</a></td>
 		<td>Sweden</td>
-		<td>606</td>
+		<td>607</td>
 	</tr>
 	<tr>
 		<td>159</td>
@@ -2473,6 +2473,19 @@ There are `937 users`  in Sweden. You need at least `83 followers` to be on this
 	<tr>
 		<td>183</td>
 		<td>
+			<a href="https://github.com/DavidVujic">
+				<img src="https://avatars.githubusercontent.com/u/301286?s=72&u=38e6d4b20488018cd0ab904b13c9f1355f3b3d6f&v=4" width="24" alt="Avatar of DavidVujic"> DavidVujic
+			</a><br/>
+			David Vujic
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/davidvujic">davidvujic</a></td>
+		<td>Stockholm</td>
+		<td>488</td>
+	</tr>
+	<tr>
+		<td>184</td>
+		<td>
 			<a href="https://github.com/MHSanaei">
 				<img src="https://avatars.githubusercontent.com/u/33454419?s=72&v=4" width="24" alt="Avatar of MHSanaei"> MHSanaei
 			</a><br/>
@@ -2484,7 +2497,7 @@ There are `937 users`  in Sweden. You need at least `83 followers` to be on this
 		<td>487</td>
 	</tr>
 	<tr>
-		<td>184</td>
+		<td>185</td>
 		<td>
 			<a href="https://github.com/GabeRundlett">
 				<img src="https://avatars.githubusercontent.com/u/28205981?s=72&u=24fd4d20dba3a27bf7d766b91948598965258954&v=4" width="24" alt="Avatar of GabeRundlett"> GabeRundlett
@@ -2494,19 +2507,6 @@ There are `937 users`  in Sweden. You need at least `83 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Malmö, Sweden</td>
-		<td>486</td>
-	</tr>
-	<tr>
-		<td>185</td>
-		<td>
-			<a href="https://github.com/DavidVujic">
-				<img src="https://avatars.githubusercontent.com/u/301286?s=72&u=38e6d4b20488018cd0ab904b13c9f1355f3b3d6f&v=4" width="24" alt="Avatar of DavidVujic"> DavidVujic
-			</a><br/>
-			David Vujic
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/davidvujic">davidvujic</a></td>
-		<td>Stockholm</td>
 		<td>486</td>
 	</tr>
 	<tr>
@@ -3014,7 +3014,7 @@ There are `937 users`  in Sweden. You need at least `83 followers` to be on this
 		<td>@odevo-dev </td>
 		<td><a href="https://twitter.com/EmilStenstrom">EmilStenstrom</a></td>
 		<td>Stockholm, Sweden</td>
-		<td>369</td>
+		<td>370</td>
 	</tr>
 	<tr>
 		<td>225</td>
@@ -4748,19 +4748,6 @@ There are `937 users`  in Sweden. You need at least `83 followers` to be on this
 	<tr>
 		<td>358</td>
 		<td>
-			<a href="https://github.com/Tritlo">
-				<img src="https://avatars.githubusercontent.com/u/1667287?s=72&u=a0bb58a53c3446d567621501f9819814e1fc4c0b&v=4" width="24" alt="Avatar of Tritlo"> Tritlo
-			</a><br/>
-			Matthías Páll Gissurarson
-		</td>
-		<td>Dpella Ab </td>
-		<td><a href="https://twitter.com/Tritlo">Tritlo</a></td>
-		<td>Gothenburg, Sweden</td>
-		<td>135</td>
-	</tr>
-	<tr>
-		<td>359</td>
-		<td>
 			<a href="https://github.com/kmatheussen">
 				<img src="https://avatars.githubusercontent.com/u/1146279?s=72&v=4" width="24" alt="Avatar of kmatheussen"> kmatheussen
 			</a><br/>
@@ -4769,6 +4756,19 @@ There are `937 users`  in Sweden. You need at least `83 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Stockholm, Sweden</td>
+		<td>136</td>
+	</tr>
+	<tr>
+		<td>359</td>
+		<td>
+			<a href="https://github.com/Tritlo">
+				<img src="https://avatars.githubusercontent.com/u/1667287?s=72&u=a0bb58a53c3446d567621501f9819814e1fc4c0b&v=4" width="24" alt="Avatar of Tritlo"> Tritlo
+			</a><br/>
+			Matthías Páll Gissurarson
+		</td>
+		<td>Dpella Ab </td>
+		<td><a href="https://twitter.com/Tritlo">Tritlo</a></td>
+		<td>Gothenburg, Sweden</td>
 		<td>135</td>
 	</tr>
 	<tr>
