@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg" alt="Sweden">
 </a>
 
-The `number of followers` of users in Sweden on `2024/10/14 5:17 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
+The `number of followers` of users in Sweden on `2024/10/14 6:21 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
 
 There are `1 countries` and `4 cities` can be found [here](https://github.com/jaagr/top-github-users).
 
@@ -128,7 +128,7 @@ There are `937 users`  in Sweden. You need at least `83 followers` to be on this
 		<td>Spotify </td>
 		<td><a href="https://twitter.com/emmabostian">emmabostian</a></td>
 		<td>Stockholm, Sweden</td>
-		<td>6466</td>
+		<td>6465</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -726,7 +726,7 @@ There are `937 users`  in Sweden. You need at least `83 followers` to be on this
 		<td>@github </td>
 		<td><a href="https://twitter.com/niik">niik</a></td>
 		<td>Sweden</td>
-		<td>1093</td>
+		<td>1092</td>
 	</tr>
 	<tr>
 		<td>49</td>
@@ -3461,6 +3461,19 @@ There are `937 users`  in Sweden. You need at least `83 followers` to be on this
 	<tr>
 		<td>259</td>
 		<td>
+			<a href="https://github.com/davidjerleke">
+				<img src="https://avatars.githubusercontent.com/u/11529148?s=72&u=94446866c576d620cbd33e62834c480091fedcf0&v=4" width="24" alt="Avatar of davidjerleke"> davidjerleke
+			</a><br/>
+			David Jerleke
+		</td>
+		<td>@avensia </td>
+		<td>No Twitter Username</td>
+		<td>Sweden</td>
+		<td>248</td>
+	</tr>
+	<tr>
+		<td>260</td>
+		<td>
 			<a href="https://github.com/mschauer">
 				<img src="https://avatars.githubusercontent.com/u/1923437?s=72&u=045b71b0a171ea27a4877afe19ae906b0cbe2f38&v=4" width="24" alt="Avatar of mschauer"> mschauer
 			</a><br/>
@@ -3470,19 +3483,6 @@ There are `937 users`  in Sweden. You need at least `83 followers` to be on this
 		<td><a href="https://twitter.com/moritzschauer">moritzschauer</a></td>
 		<td>Gothenburg</td>
 		<td>248</td>
-	</tr>
-	<tr>
-		<td>260</td>
-		<td>
-			<a href="https://github.com/davidjerleke">
-				<img src="https://avatars.githubusercontent.com/u/11529148?s=72&u=94446866c576d620cbd33e62834c480091fedcf0&v=4" width="24" alt="Avatar of davidjerleke"> davidjerleke
-			</a><br/>
-			David Jerleke
-		</td>
-		<td>@avensia </td>
-		<td>No Twitter Username</td>
-		<td>Sweden</td>
-		<td>247</td>
 	</tr>
 	<tr>
 		<td>261</td>
@@ -5510,7 +5510,7 @@ There are `937 users`  in Sweden. You need at least `83 followers` to be on this
 		<td>@bitcraze </td>
 		<td><a href="https://twitter.com/k_n_mcguire">k_n_mcguire</a></td>
 		<td>Sweden</td>
-		<td>167</td>
+		<td>168</td>
 	</tr>
 	<tr>
 		<td>417</td>
