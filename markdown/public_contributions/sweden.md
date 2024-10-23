@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg" alt="Sweden">
 </a>
 
-The `public contributions` by users in Sweden on `2024/10/22 11:18 PM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
+The `public contributions` by users in Sweden on `2024/10/23 12:47 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
 
 There are `1 countries` and `4 cities` can be found [here](https://github.com/jaagr/top-github-users).
 
@@ -154,7 +154,7 @@ There are `938 users`  in Sweden. You need at least `84 followers` to be on this
 		<td>@spotify </td>
 		<td>No Twitter Username</td>
 		<td>Stockholm</td>
-		<td>4534</td>
+		<td>4535</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -362,7 +362,7 @@ There are `938 users`  in Sweden. You need at least `84 followers` to be on this
 		<td>Chalmers And Gothenburg University<br/></td>
 		<td>No Twitter Username</td>
 		<td>Gothenburg, Sweden</td>
-		<td>2756</td>
+		<td>2757</td>
 	</tr>
 	<tr>
 		<td>21</td>
@@ -375,7 +375,7 @@ There are `938 users`  in Sweden. You need at least `84 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/henrikrydgard">henrikrydgard</a></td>
 		<td>Stockholm, Sweden</td>
-		<td>2704</td>
+		<td>2706</td>
 	</tr>
 	<tr>
 		<td>22</td>
@@ -843,7 +843,7 @@ There are `938 users`  in Sweden. You need at least `84 followers` to be on this
 		<td>@mojang </td>
 		<td><a href="https://twitter.com/Dinnerbone">Dinnerbone</a></td>
 		<td>Stockholm, Sweden</td>
-		<td>1467</td>
+		<td>1468</td>
 	</tr>
 	<tr>
 		<td>58</td>
@@ -882,7 +882,7 @@ There are `938 users`  in Sweden. You need at least `84 followers` to be on this
 		<td>@evilcorpltd </td>
 		<td>No Twitter Username</td>
 		<td>Sweden</td>
-		<td>1422</td>
+		<td>1423</td>
 	</tr>
 	<tr>
 		<td>61</td>
@@ -1090,7 +1090,7 @@ There are `938 users`  in Sweden. You need at least `84 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/carlthome">carlthome</a></td>
 		<td>Stockholm, Sweden</td>
-		<td>1118</td>
+		<td>1119</td>
 	</tr>
 	<tr>
 		<td>77</td>
