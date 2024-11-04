@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg" alt="Sweden">
 </a>
 
-The `public contributions` and `private contributions` by users in Sweden on `2024/11/4 12:49 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
+The `public contributions` and `private contributions` by users in Sweden on `2024/11/4 2:22 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
 
 There are `1 countries` and `4 cities` can be found [here](https://github.com/jaagr/top-github-users).
 
@@ -578,8 +578,8 @@ There are `936 users`  in Sweden. You need at least `84 followers` to be on this
 		<td>Ambient </td>
 		<td>No Twitter Username</td>
 		<td>Stockholm, Sweden</td>
-		<td>1558</td>
-		<td>3379</td>
+		<td>1562</td>
+		<td>3383</td>
 	</tr>
 	<tr>
 		<td>35</td>
@@ -1222,8 +1222,8 @@ There are `936 users`  in Sweden. You need at least `84 followers` to be on this
 		<td>Tvnu Sweden Ab </td>
 		<td>No Twitter Username</td>
 		<td>Arvika, Sweden</td>
-		<td>2330</td>
-		<td>2330</td>
+		<td>2331</td>
+		<td>2331</td>
 	</tr>
 	<tr>
 		<td>81</td>
@@ -1404,8 +1404,8 @@ There are `936 users`  in Sweden. You need at least `84 followers` to be on this
 		<td>@mimohq </td>
 		<td><a href="https://twitter.com/szanwar22">szanwar22</a></td>
 		<td>Stockholm, Sweden</td>
-		<td>212</td>
-		<td>2078</td>
+		<td>213</td>
+		<td>2079</td>
 	</tr>
 	<tr>
 		<td>94</td>
@@ -2706,8 +2706,8 @@ There are `936 users`  in Sweden. You need at least `84 followers` to be on this
 		<td>Chalmers University Of Technology<br/></td>
 		<td>No Twitter Username</td>
 		<td>Gothenburg, Sweden</td>
-		<td>1242</td>
-		<td>1242</td>
+		<td>1243</td>
+		<td>1243</td>
 	</tr>
 	<tr>
 		<td>187</td>
@@ -3510,6 +3510,20 @@ There are `936 users`  in Sweden. You need at least `84 followers` to be on this
 	<tr>
 		<td>244</td>
 		<td>
+			<a href="https://github.com/lerno">
+				<img src="https://avatars.githubusercontent.com/u/27989?s=72&v=4" width="24" alt="Avatar of lerno"> lerno
+			</a><br/>
+			Christoffer Lerno
+		</td>
+		<td>Aegik Ab </td>
+		<td><a href="https://twitter.com/nuoji">nuoji</a></td>
+		<td>Uppsala, Sweden</td>
+		<td>912</td>
+		<td>912</td>
+	</tr>
+	<tr>
+		<td>245</td>
+		<td>
 			<a href="https://github.com/fhqvst">
 				<img src="https://avatars.githubusercontent.com/u/7013571?s=72&u=9c167357b42888181b774722196bda546121fbe8&v=4" width="24" alt="Avatar of fhqvst"> fhqvst
 			</a><br/>
@@ -3520,20 +3534,6 @@ There are `936 users`  in Sweden. You need at least `84 followers` to be on this
 		<td>Stockholm</td>
 		<td>3</td>
 		<td>912</td>
-	</tr>
-	<tr>
-		<td>245</td>
-		<td>
-			<a href="https://github.com/lerno">
-				<img src="https://avatars.githubusercontent.com/u/27989?s=72&v=4" width="24" alt="Avatar of lerno"> lerno
-			</a><br/>
-			Christoffer Lerno
-		</td>
-		<td>Aegik Ab </td>
-		<td><a href="https://twitter.com/nuoji">nuoji</a></td>
-		<td>Uppsala, Sweden</td>
-		<td>911</td>
-		<td>911</td>
 	</tr>
 	<tr>
 		<td>246</td>
@@ -4574,6 +4574,20 @@ There are `936 users`  in Sweden. You need at least `84 followers` to be on this
 	<tr>
 		<td>320</td>
 		<td>
+			<a href="https://github.com/rasmusab">
+				<img src="https://avatars.githubusercontent.com/u/1006144?s=72&u=9319499b56f833b19c6f36298230f704541a333e&v=4" width="24" alt="Avatar of rasmusab"> rasmusab
+			</a><br/>
+			Rasmus Bååth
+		</td>
+		<td>Normative.io; Lund University </td>
+		<td><a href="https://twitter.com/rabaath">rabaath</a></td>
+		<td>Lund, Sweden</td>
+		<td>121</td>
+		<td>647</td>
+	</tr>
+	<tr>
+		<td>321</td>
+		<td>
 			<a href="https://github.com/ecampidoglio">
 				<img src="https://avatars.githubusercontent.com/u/877348?s=72&u=3b20e390133d4c75e11f32927c784902f42340d5&v=4" width="24" alt="Avatar of ecampidoglio"> ecampidoglio
 			</a><br/>
@@ -4584,20 +4598,6 @@ There are `936 users`  in Sweden. You need at least `84 followers` to be on this
 		<td>Lund, Sweden</td>
 		<td>35</td>
 		<td>646</td>
-	</tr>
-	<tr>
-		<td>321</td>
-		<td>
-			<a href="https://github.com/rasmusab">
-				<img src="https://avatars.githubusercontent.com/u/1006144?s=72&u=9319499b56f833b19c6f36298230f704541a333e&v=4" width="24" alt="Avatar of rasmusab"> rasmusab
-			</a><br/>
-			Rasmus Bååth
-		</td>
-		<td>Normative.io; Lund University </td>
-		<td><a href="https://twitter.com/rabaath">rabaath</a></td>
-		<td>Lund, Sweden</td>
-		<td>119</td>
-		<td>645</td>
 	</tr>
 	<tr>
 		<td>322</td>
@@ -5506,8 +5506,8 @@ There are `936 users`  in Sweden. You need at least `84 followers` to be on this
 		<td>Retards .ink </td>
 		<td>No Twitter Username</td>
 		<td>Sweden</td>
-		<td>216</td>
-		<td>447</td>
+		<td>217</td>
+		<td>448</td>
 	</tr>
 	<tr>
 		<td>387</td>
