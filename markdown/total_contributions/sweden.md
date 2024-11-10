@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg" alt="Sweden">
 </a>
 
-The `public contributions` and `private contributions` by users in Sweden on `2024/11/10 12:49 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
+The `public contributions` and `private contributions` by users in Sweden on `2024/11/10 2:22 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
 
 There are `1 countries` and `4 cities` can be found [here](https://github.com/jaagr/top-github-users).
 
@@ -1404,8 +1404,8 @@ There are `936 users`  in Sweden. You need at least `84 followers` to be on this
 		<td>@mimohq </td>
 		<td><a href="https://twitter.com/szanwar22">szanwar22</a></td>
 		<td>Stockholm, Sweden</td>
-		<td>218</td>
-		<td>2071</td>
+		<td>219</td>
+		<td>2072</td>
 	</tr>
 	<tr>
 		<td>94</td>
@@ -2930,8 +2930,8 @@ There are `936 users`  in Sweden. You need at least `84 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/marna_li">marna_li</a></td>
 		<td>Malmö, Sweden</td>
-		<td>1048</td>
-		<td>1141</td>
+		<td>1050</td>
+		<td>1143</td>
 	</tr>
 	<tr>
 		<td>203</td>
@@ -3112,8 +3112,8 @@ There are `936 users`  in Sweden. You need at least `84 followers` to be on this
 		<td>@volvo-cars </td>
 		<td>No Twitter Username</td>
 		<td>Stockholm, Sweden</td>
-		<td>347</td>
-		<td>1062</td>
+		<td>348</td>
+		<td>1063</td>
 	</tr>
 	<tr>
 		<td>216</td>
@@ -10000,8 +10000,8 @@ There are `936 users`  in Sweden. You need at least `84 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Sweden/Stockholm</td>
-		<td>25</td>
-		<td>25</td>
+		<td>26</td>
+		<td>26</td>
 	</tr>
 	<tr>
 		<td>708</td>
