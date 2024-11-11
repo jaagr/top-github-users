@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg" alt="Sweden">
 </a>
 
-The `public contributions` and `private contributions` by users in Sweden on `2024/11/11 2:20 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
+The `public contributions` and `private contributions` by users in Sweden on `2024/11/11 3:23 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
 
 There are `1 countries` and `4 cities` can be found [here](https://github.com/jaagr/top-github-users).
 
@@ -662,8 +662,8 @@ There are `936 users`  in Sweden. You need at least `84 followers` to be on this
 		<td>@einride </td>
 		<td>No Twitter Username</td>
 		<td>Göteborg, Sweden</td>
-		<td>1627</td>
-		<td>3273</td>
+		<td>1628</td>
+		<td>3275</td>
 	</tr>
 	<tr>
 		<td>41</td>
@@ -1040,8 +1040,8 @@ There are `936 users`  in Sweden. You need at least `84 followers` to be on this
 		<td>@ladybirdbrowser </td>
 		<td><a href="https://twitter.com/awesomekling">awesomekling</a></td>
 		<td>Sweden</td>
-		<td>2385</td>
-		<td>2552</td>
+		<td>2387</td>
+		<td>2554</td>
 	</tr>
 	<tr>
 		<td>68</td>
@@ -1208,8 +1208,8 @@ There are `936 users`  in Sweden. You need at least `84 followers` to be on this
 		<td>Tvnu Sweden Ab </td>
 		<td>No Twitter Username</td>
 		<td>Arvika, Sweden</td>
-		<td>2374</td>
-		<td>2374</td>
+		<td>2376</td>
+		<td>2376</td>
 	</tr>
 	<tr>
 		<td>80</td>
@@ -4638,8 +4638,8 @@ There are `936 users`  in Sweden. You need at least `84 followers` to be on this
 		<td>Sagatowski Gmbh </td>
 		<td>No Twitter Username</td>
 		<td>Stockholm | Munich</td>
-		<td>78</td>
-		<td>629</td>
+		<td>79</td>
+		<td>630</td>
 	</tr>
 	<tr>
 		<td>325</td>
@@ -5100,8 +5100,8 @@ There are `936 users`  in Sweden. You need at least `84 followers` to be on this
 		<td>Valo Intranet </td>
 		<td>No Twitter Username</td>
 		<td>Sweden</td>
-		<td>526</td>
-		<td>526</td>
+		<td>528</td>
+		<td>528</td>
 	</tr>
 	<tr>
 		<td>358</td>
