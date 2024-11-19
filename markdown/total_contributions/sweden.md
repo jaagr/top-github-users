@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg" alt="Sweden">
 </a>
 
-The `public contributions` and `private contributions` by users in Sweden on `2024/11/19 5:18 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
+The `public contributions` and `private contributions` by users in Sweden on `2024/11/19 6:21 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
 
 There are `1 countries` and `4 cities` can be found [here](https://github.com/jaagr/top-github-users).
 
@@ -200,8 +200,8 @@ There are `936 users`  in Sweden. You need at least `85 followers` to be on this
 		<td>Nbis </td>
 		<td><a href="https://twitter.com/rjcbilderbeek">rjcbilderbeek</a></td>
 		<td>Uppsala, Sweden</td>
-		<td>5871</td>
-		<td>5871</td>
+		<td>5874</td>
+		<td>5874</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -410,8 +410,8 @@ There are `936 users`  in Sweden. You need at least `85 followers` to be on this
 		<td>Google </td>
 		<td>No Twitter Username</td>
 		<td>Stockholm</td>
-		<td>3934</td>
-		<td>3934</td>
+		<td>3935</td>
+		<td>3935</td>
 	</tr>
 	<tr>
 		<td>23</td>
@@ -746,8 +746,8 @@ There are `936 users`  in Sweden. You need at least `85 followers` to be on this
 		<td>Mend </td>
 		<td><a href="https://twitter.com/rarkins">rarkins</a></td>
 		<td>Stockholm, Sweden</td>
-		<td>2947</td>
-		<td>3025</td>
+		<td>2948</td>
+		<td>3026</td>
 	</tr>
 	<tr>
 		<td>47</td>
@@ -1782,8 +1782,8 @@ There are `936 users`  in Sweden. You need at least `85 followers` to be on this
 		<td>Openmv </td>
 		<td>No Twitter Username</td>
 		<td>Sweden</td>
-		<td>1500</td>
-		<td>1711</td>
+		<td>1501</td>
+		<td>1713</td>
 	</tr>
 	<tr>
 		<td>121</td>
@@ -4014,6 +4014,20 @@ There are `936 users`  in Sweden. You need at least `85 followers` to be on this
 	<tr>
 		<td>280</td>
 		<td>
+			<a href="https://github.com/afbjorklund">
+				<img src="https://avatars.githubusercontent.com/u/10364051?s=72&u=330266a69a98d11b00fb93a72eab014a2823a936&v=4" width="24" alt="Avatar of afbjorklund"> afbjorklund
+			</a><br/>
+			Anders Björklund
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Göteborg, Sweden</td>
+		<td>732</td>
+		<td>732</td>
+	</tr>
+	<tr>
+		<td>281</td>
+		<td>
 			<a href="https://github.com/AhsanAyaz">
 				<img src="https://avatars.githubusercontent.com/u/9844254?s=72&u=86cc938f580841709a23d0f73c7fb01eeb3738e2&v=4" width="24" alt="Avatar of AhsanAyaz"> AhsanAyaz
 			</a><br/>
@@ -4023,20 +4037,6 @@ There are `936 users`  in Sweden. You need at least `85 followers` to be on this
 		<td><a href="https://twitter.com/codewith_ahsan">codewith_ahsan</a></td>
 		<td>Stockholm, Sweden</td>
 		<td>481</td>
-		<td>731</td>
-	</tr>
-	<tr>
-		<td>281</td>
-		<td>
-			<a href="https://github.com/afbjorklund">
-				<img src="https://avatars.githubusercontent.com/u/10364051?s=72&u=330266a69a98d11b00fb93a72eab014a2823a936&v=4" width="24" alt="Avatar of afbjorklund"> afbjorklund
-			</a><br/>
-			Anders Björklund
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Göteborg, Sweden</td>
-		<td>731</td>
 		<td>731</td>
 	</tr>
 	<tr>
