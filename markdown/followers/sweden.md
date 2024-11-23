@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg" alt="Sweden">
 </a>
 
-The `number of followers` of users in Sweden on `2024/11/23 8:17 PM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
+The `number of followers` of users in Sweden on `2024/11/23 9:17 PM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
 
 There are `1 countries` and `4 cities` can be found [here](https://github.com/jaagr/top-github-users).
 
@@ -414,7 +414,7 @@ There are `936 users`  in Sweden. You need at least `85 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/raphamorims">raphamorims</a></td>
 		<td>Stockholm, Sweden</td>
-		<td>1875</td>
+		<td>1876</td>
 	</tr>
 	<tr>
 		<td>25</td>
@@ -479,7 +479,7 @@ There are `936 users`  in Sweden. You need at least `85 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/jullerino">jullerino</a></td>
 		<td>Sweden</td>
-		<td>1704</td>
+		<td>1703</td>
 	</tr>
 	<tr>
 		<td>30</td>
@@ -692,6 +692,19 @@ There are `936 users`  in Sweden. You need at least `85 followers` to be on this
 	<tr>
 		<td>46</td>
 		<td>
+			<a href="https://github.com/torkelo">
+				<img src="https://avatars.githubusercontent.com/u/10999?s=72&u=00ee9b9643b8eafd5df664bad66f196ff32bd9ed&v=4" width="24" alt="Avatar of torkelo"> torkelo
+			</a><br/>
+			Torkel Ödegaard
+		</td>
+		<td>Grafana Labs </td>
+		<td><a href="https://twitter.com/torkelo">torkelo</a></td>
+		<td>Stockholm</td>
+		<td>1149</td>
+	</tr>
+	<tr>
+		<td>47</td>
+		<td>
 			<a href="https://github.com/ericmj">
 				<img src="https://avatars.githubusercontent.com/u/316890?s=72&u=e50caf97a4a97f9ee547e58b90b4670bd5352379&v=4" width="24" alt="Avatar of ericmj"> ericmj
 			</a><br/>
@@ -701,19 +714,6 @@ There are `936 users`  in Sweden. You need at least `85 followers` to be on this
 		<td><a href="https://twitter.com/emjii">emjii</a></td>
 		<td>Gothenburg, Sweden</td>
 		<td>1149</td>
-	</tr>
-	<tr>
-		<td>47</td>
-		<td>
-			<a href="https://github.com/torkelo">
-				<img src="https://avatars.githubusercontent.com/u/10999?s=72&u=00ee9b9643b8eafd5df664bad66f196ff32bd9ed&v=4" width="24" alt="Avatar of torkelo"> torkelo
-			</a><br/>
-			Torkel Ödegaard
-		</td>
-		<td>Grafana Labs </td>
-		<td><a href="https://twitter.com/torkelo">torkelo</a></td>
-		<td>Stockholm</td>
-		<td>1148</td>
 	</tr>
 	<tr>
 		<td>48</td>
