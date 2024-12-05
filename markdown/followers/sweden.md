@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg" alt="Sweden">
 </a>
 
-The `number of followers` of users in Sweden on `2024/12/5 3:38 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
+The `number of followers` of users in Sweden on `2024/12/5 4:21 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
 
 There are `1 countries` and `4 cities` can be found [here](https://github.com/jaagr/top-github-users).
 
@@ -1415,7 +1415,7 @@ There are `936 users`  in Sweden. You need at least `86 followers` to be on this
 		<td>Addiva Elektronik Ab </td>
 		<td><a href="https://twitter.com/troglobit">troglobit</a></td>
 		<td>Surahammar, Västmanland, Sweden</td>
-		<td>551</td>
+		<td>550</td>
 	</tr>
 	<tr>
 		<td>102</td>
@@ -2993,6 +2993,19 @@ There are `936 users`  in Sweden. You need at least `86 followers` to be on this
 	<tr>
 		<td>223</td>
 		<td>
+			<a href="https://github.com/samuelkraft">
+				<img src="https://avatars.githubusercontent.com/u/2223418?s=72&u=32815a878be90b0a2da01ba20f876cda53e0f1e1&v=4" width="24" alt="Avatar of samuelkraft"> samuelkraft
+			</a><br/>
+			Samuel Kraft
+		</td>
+		<td>@raycast </td>
+		<td><a href="https://twitter.com/samuelkraft">samuelkraft</a></td>
+		<td>Stockholm</td>
+		<td>282</td>
+	</tr>
+	<tr>
+		<td>224</td>
+		<td>
 			<a href="https://github.com/gbrindisi">
 				<img src="https://avatars.githubusercontent.com/u/287126?s=72&u=e0a55b978e1bddf3b3e403179ae68d5530922266&v=4" width="24" alt="Avatar of gbrindisi"> gbrindisi
 			</a><br/>
@@ -3004,7 +3017,7 @@ There are `936 users`  in Sweden. You need at least `86 followers` to be on this
 		<td>282</td>
 	</tr>
 	<tr>
-		<td>224</td>
+		<td>225</td>
 		<td>
 			<a href="https://github.com/spacecowboy">
 				<img src="https://avatars.githubusercontent.com/u/223655?s=72&v=4" width="24" alt="Avatar of spacecowboy"> spacecowboy
@@ -3017,7 +3030,7 @@ There are `936 users`  in Sweden. You need at least `86 followers` to be on this
 		<td>282</td>
 	</tr>
 	<tr>
-		<td>225</td>
+		<td>226</td>
 		<td>
 			<a href="https://github.com/philpax">
 				<img src="https://avatars.githubusercontent.com/u/707827?s=72&u=099bc9db5cc0304b118a081ac6e05246fbf612df&v=4" width="24" alt="Avatar of philpax"> philpax
@@ -3030,7 +3043,7 @@ There are `936 users`  in Sweden. You need at least `86 followers` to be on this
 		<td>281</td>
 	</tr>
 	<tr>
-		<td>226</td>
+		<td>227</td>
 		<td>
 			<a href="https://github.com/udoprog">
 				<img src="https://avatars.githubusercontent.com/u/111092?s=72&u=a1186d21097c01508f5fdf287c4b3bdc5a3f0e7a&v=4" width="24" alt="Avatar of udoprog"> udoprog
@@ -3043,7 +3056,7 @@ There are `936 users`  in Sweden. You need at least `86 followers` to be on this
 		<td>281</td>
 	</tr>
 	<tr>
-		<td>227</td>
+		<td>228</td>
 		<td>
 			<a href="https://github.com/mostafa">
 				<img src="https://avatars.githubusercontent.com/u/54546?s=72&u=a6de7cb6258f15701ede0977ade995c7135e39b9&v=4" width="24" alt="Avatar of mostafa"> mostafa
@@ -3053,19 +3066,6 @@ There are `936 users`  in Sweden. You need at least `86 followers` to be on this
 		<td>@gatewayd-io, @grafana </td>
 		<td><a href="https://twitter.com/MosiMoradian">MosiMoradian</a></td>
 		<td>Stockholm, Sweden</td>
-		<td>281</td>
-	</tr>
-	<tr>
-		<td>228</td>
-		<td>
-			<a href="https://github.com/samuelkraft">
-				<img src="https://avatars.githubusercontent.com/u/2223418?s=72&u=32815a878be90b0a2da01ba20f876cda53e0f1e1&v=4" width="24" alt="Avatar of samuelkraft"> samuelkraft
-			</a><br/>
-			Samuel Kraft
-		</td>
-		<td>@raycast </td>
-		<td><a href="https://twitter.com/samuelkraft">samuelkraft</a></td>
-		<td>Stockholm</td>
 		<td>281</td>
 	</tr>
 	<tr>
@@ -3898,7 +3898,7 @@ There are `936 users`  in Sweden. You need at least `86 followers` to be on this
 		<td>Github </td>
 		<td>No Twitter Username</td>
 		<td>Uppsala</td>
-		<td>226</td>
+		<td>227</td>
 	</tr>
 	<tr>
 		<td>293</td>
@@ -4046,6 +4046,19 @@ There are `936 users`  in Sweden. You need at least `86 followers` to be on this
 	<tr>
 		<td>304</td>
 		<td>
+			<a href="https://github.com/Torxed">
+				<img src="https://avatars.githubusercontent.com/u/861439?s=72&u=6d9b8dd2998107cdb8f2e4989bba6a26d82c346c&v=4" width="24" alt="Avatar of Torxed"> Torxed
+			</a><br/>
+			Anton Hvornum
+		</td>
+		<td>Evil Scientist (ond Vetenskapsman)<br/></td>
+		<td><a href="https://twitter.com/luke_binwalker">luke_binwalker</a></td>
+		<td>Sweden</td>
+		<td>217</td>
+	</tr>
+	<tr>
+		<td>305</td>
+		<td>
 			<a href="https://github.com/tidyui">
 				<img src="https://avatars.githubusercontent.com/u/781266?s=72&u=9553fdfaa4579445b4fc72279ceb4f417deb9e56&v=4" width="24" alt="Avatar of tidyui"> tidyui
 			</a><br/>
@@ -4057,7 +4070,7 @@ There are `936 users`  in Sweden. You need at least `86 followers` to be on this
 		<td>217</td>
 	</tr>
 	<tr>
-		<td>305</td>
+		<td>306</td>
 		<td>
 			<a href="https://github.com/rejeep">
 				<img src="https://avatars.githubusercontent.com/u/20277?s=72&u=92ef50623dfcda42aeaa00a8a0f7d46c7ed90cd4&v=4" width="24" alt="Avatar of rejeep"> rejeep
@@ -4070,7 +4083,7 @@ There are `936 users`  in Sweden. You need at least `86 followers` to be on this
 		<td>217</td>
 	</tr>
 	<tr>
-		<td>306</td>
+		<td>307</td>
 		<td>
 			<a href="https://github.com/Kimtaro">
 				<img src="https://avatars.githubusercontent.com/u/15438?s=72&v=4" width="24" alt="Avatar of Kimtaro"> Kimtaro
@@ -4081,19 +4094,6 @@ There are `936 users`  in Sweden. You need at least `86 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>London, Tokyo, San Francisco, Stockholm</td>
 		<td>217</td>
-	</tr>
-	<tr>
-		<td>307</td>
-		<td>
-			<a href="https://github.com/Torxed">
-				<img src="https://avatars.githubusercontent.com/u/861439?s=72&u=6d9b8dd2998107cdb8f2e4989bba6a26d82c346c&v=4" width="24" alt="Avatar of Torxed"> Torxed
-			</a><br/>
-			Anton Hvornum
-		</td>
-		<td>Evil Scientist (ond Vetenskapsman)<br/></td>
-		<td><a href="https://twitter.com/luke_binwalker">luke_binwalker</a></td>
-		<td>Sweden</td>
-		<td>216</td>
 	</tr>
 	<tr>
 		<td>308</td>
