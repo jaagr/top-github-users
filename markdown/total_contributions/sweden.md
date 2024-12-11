@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg" alt="Sweden">
 </a>
 
-The `public contributions` and `private contributions` by users in Sweden on `2024/12/11 2:32 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
+The `public contributions` and `private contributions` by users in Sweden on `2024/12/11 3:37 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
 
 There are `1 countries` and `4 cities` can be found [here](https://github.com/jaagr/top-github-users).
 
@@ -410,8 +410,8 @@ There are `936 users`  in Sweden. You need at least `86 followers` to be on this
 		<td>Google </td>
 		<td>No Twitter Username</td>
 		<td>Stockholm</td>
-		<td>3842</td>
-		<td>3842</td>
+		<td>3843</td>
+		<td>3843</td>
 	</tr>
 	<tr>
 		<td>23</td>
@@ -886,8 +886,8 @@ There are `936 users`  in Sweden. You need at least `86 followers` to be on this
 		<td>@einride </td>
 		<td>No Twitter Username</td>
 		<td>Göteborg, Sweden</td>
-		<td>1207</td>
-		<td>2923</td>
+		<td>1208</td>
+		<td>2924</td>
 	</tr>
 	<tr>
 		<td>57</td>
@@ -1250,8 +1250,8 @@ There are `936 users`  in Sweden. You need at least `86 followers` to be on this
 		<td>@superuserlabs </td>
 		<td><a href="https://twitter.com/ErikBjare">ErikBjare</a></td>
 		<td>Lund, Sweden</td>
-		<td>1488</td>
-		<td>2271</td>
+		<td>1490</td>
+		<td>2273</td>
 	</tr>
 	<tr>
 		<td>83</td>
@@ -1670,8 +1670,8 @@ There are `936 users`  in Sweden. You need at least `86 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/baggepinnen">baggepinnen</a></td>
 		<td>Lund, Sweden</td>
-		<td>1263</td>
-		<td>1813</td>
+		<td>1266</td>
+		<td>1816</td>
 	</tr>
 	<tr>
 		<td>113</td>
@@ -4246,8 +4246,8 @@ There are `936 users`  in Sweden. You need at least `86 followers` to be on this
 		<td>Valo Intranet </td>
 		<td>No Twitter Username</td>
 		<td>Sweden</td>
-		<td>671</td>
-		<td>671</td>
+		<td>673</td>
+		<td>673</td>
 	</tr>
 	<tr>
 		<td>297</td>
