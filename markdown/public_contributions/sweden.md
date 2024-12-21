@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg" alt="Sweden">
 </a>
 
-The `public contributions` by users in Sweden on `2024/12/20 11:17 PM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
+The `public contributions` by users in Sweden on `2024/12/21 12:48 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
 
 There are `1 countries` and `4 cities` can be found [here](https://github.com/jaagr/top-github-users).
 
@@ -739,10 +739,23 @@ There are `935 users`  in Sweden. You need at least `86 followers` to be on this
 		<td>@multimc  </td>
 		<td>No Twitter Username</td>
 		<td>Sweden</td>
-		<td>1646</td>
+		<td>1647</td>
 	</tr>
 	<tr>
 		<td>50</td>
+		<td>
+			<a href="https://github.com/fornwall">
+				<img src="https://avatars.githubusercontent.com/u/277251?s=72&v=4" width="24" alt="Avatar of fornwall"> fornwall
+			</a><br/>
+			Fredrik Fornwall
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/fornwall">fornwall</a></td>
+		<td>Stockholm, Sweden</td>
+		<td>1637</td>
+	</tr>
+	<tr>
+		<td>51</td>
 		<td>
 			<a href="https://github.com/leostera">
 				<img src="https://avatars.githubusercontent.com/u/854222?s=72&u=54efbe6d872eefca0cb1d64a9e9db6085f113729&v=4" width="24" alt="Avatar of leostera"> leostera
@@ -753,19 +766,6 @@ There are `935 users`  in Sweden. You need at least `86 followers` to be on this
 		<td><a href="https://twitter.com/leostera">leostera</a></td>
 		<td>Stockholm</td>
 		<td>1637</td>
-	</tr>
-	<tr>
-		<td>51</td>
-		<td>
-			<a href="https://github.com/fornwall">
-				<img src="https://avatars.githubusercontent.com/u/277251?s=72&v=4" width="24" alt="Avatar of fornwall"> fornwall
-			</a><br/>
-			Fredrik Fornwall
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/fornwall">fornwall</a></td>
-		<td>Stockholm, Sweden</td>
-		<td>1634</td>
 	</tr>
 	<tr>
 		<td>52</td>
@@ -843,7 +843,7 @@ There are `935 users`  in Sweden. You need at least `86 followers` to be on this
 		<td>Ambient </td>
 		<td>No Twitter Username</td>
 		<td>Stockholm, Sweden</td>
-		<td>1542</td>
+		<td>1543</td>
 	</tr>
 	<tr>
 		<td>58</td>
@@ -947,7 +947,7 @@ There are `935 users`  in Sweden. You need at least `86 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/marna_li">marna_li</a></td>
 		<td>Malmö, Sweden</td>
-		<td>1342</td>
+		<td>1344</td>
 	</tr>
 	<tr>
 		<td>66</td>
@@ -1428,7 +1428,7 @@ There are `935 users`  in Sweden. You need at least `86 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/carlthome">carlthome</a></td>
 		<td>Stockholm, Sweden</td>
-		<td>923</td>
+		<td>924</td>
 	</tr>
 	<tr>
 		<td>103</td>
@@ -2169,7 +2169,7 @@ There are `935 users`  in Sweden. You need at least `86 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Stockholm, Sweden</td>
-		<td>559</td>
+		<td>562</td>
 	</tr>
 	<tr>
 		<td>160</td>
@@ -3352,7 +3352,7 @@ There are `935 users`  in Sweden. You need at least `86 followers` to be on this
 		<td>@4rays  </td>
 		<td><a href="https://twitter.com/kaishin">kaishin</a></td>
 		<td>Stockholm</td>
-		<td>299</td>
+		<td>300</td>
 	</tr>
 	<tr>
 		<td>251</td>
