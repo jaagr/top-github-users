@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg" alt="Sweden">
 </a>
 
-The `public contributions` and `private contributions` by users in Sweden on `2024/12/27 5:18 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
+The `public contributions` and `private contributions` by users in Sweden on `2024/12/27 6:21 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
 
 There are `1 countries` and `4 cities` can be found [here](https://github.com/jaagr/top-github-users).
 
@@ -410,8 +410,8 @@ There are `935 users`  in Sweden. You need at least `86 followers` to be on this
 		<td>Google </td>
 		<td>No Twitter Username</td>
 		<td>Stockholm</td>
-		<td>3805</td>
-		<td>3805</td>
+		<td>3806</td>
+		<td>3806</td>
 	</tr>
 	<tr>
 		<td>23</td>
@@ -1446,8 +1446,8 @@ There are `935 users`  in Sweden. You need at least `86 followers` to be on this
 		<td>@wikimedia </td>
 		<td>No Twitter Username</td>
 		<td>Stockholm, Sweden</td>
-		<td>1883</td>
-		<td>1985</td>
+		<td>1890</td>
+		<td>1992</td>
 	</tr>
 	<tr>
 		<td>97</td>
@@ -1670,8 +1670,8 @@ There are `935 users`  in Sweden. You need at least `86 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Stockholm, Sweden</td>
-		<td>1815</td>
-		<td>1815</td>
+		<td>1819</td>
+		<td>1819</td>
 	</tr>
 	<tr>
 		<td>113</td>
@@ -2166,6 +2166,20 @@ There are `935 users`  in Sweden. You need at least `86 followers` to be on this
 	<tr>
 		<td>148</td>
 		<td>
+			<a href="https://github.com/vadi2">
+				<img src="https://avatars.githubusercontent.com/u/110988?s=72&u=781739a4ca3d6930c1af54320ef2a058981ac7ca&v=4" width="24" alt="Avatar of vadi2"> vadi2
+			</a><br/>
+			Vadim Peretokin
+		</td>
+		<td>Carasent / Peretokin Consulting<br/></td>
+		<td>No Twitter Username</td>
+		<td>Gothenburg, Sweden</td>
+		<td>986</td>
+		<td>1465</td>
+	</tr>
+	<tr>
+		<td>149</td>
+		<td>
 			<a href="https://github.com/xZero707">
 				<img src="https://avatars.githubusercontent.com/u/3281104?s=72&u=6a099b6f76ca77abe8bd061f24704ab51b3c0ec1&v=4" width="24" alt="Avatar of xZero707"> xZero707
 			</a><br/>
@@ -2176,20 +2190,6 @@ There are `935 users`  in Sweden. You need at least `86 followers` to be on this
 		<td>Gothenburg, Sweden</td>
 		<td>231</td>
 		<td>1465</td>
-	</tr>
-	<tr>
-		<td>149</td>
-		<td>
-			<a href="https://github.com/vadi2">
-				<img src="https://avatars.githubusercontent.com/u/110988?s=72&u=781739a4ca3d6930c1af54320ef2a058981ac7ca&v=4" width="24" alt="Avatar of vadi2"> vadi2
-			</a><br/>
-			Vadim Peretokin
-		</td>
-		<td>Carasent / Peretokin Consulting<br/></td>
-		<td>No Twitter Username</td>
-		<td>Gothenburg, Sweden</td>
-		<td>985</td>
-		<td>1464</td>
 	</tr>
 	<tr>
 		<td>150</td>
@@ -2678,8 +2678,8 @@ There are `935 users`  in Sweden. You need at least `86 followers` to be on this
 		<td>Strid Tech Ab </td>
 		<td><a href="https://twitter.com/ulrikstrid">ulrikstrid</a></td>
 		<td>Gothenburg, Sweden</td>
-		<td>904</td>
-		<td>1227</td>
+		<td>905</td>
+		<td>1228</td>
 	</tr>
 	<tr>
 		<td>185</td>
@@ -4037,7 +4037,7 @@ There are `935 users`  in Sweden. You need at least `86 followers` to be on this
 		<td><a href="https://twitter.com/Mans_JS">Mans_JS</a></td>
 		<td>Stockholm</td>
 		<td>93</td>
-		<td>725</td>
+		<td>727</td>
 	</tr>
 	<tr>
 		<td>282</td>
