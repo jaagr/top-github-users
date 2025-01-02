@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg" alt="Sweden">
 </a>
 
-The `public contributions` and `private contributions` by users in Sweden on `2025/1/2 3:22 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
+The `public contributions` and `private contributions` by users in Sweden on `2025/1/2 4:21 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
 
 There are `1 countries` and `4 cities` can be found [here](https://github.com/jaagr/top-github-users).
 
@@ -607,7 +607,7 @@ There are `935 users`  in Sweden. You need at least `87 followers` to be on this
 		<td><a href="https://twitter.com/pmmmwh">pmmmwh</a></td>
 		<td>Stockholm</td>
 		<td>774</td>
-		<td>3455</td>
+		<td>3461</td>
 	</tr>
 	<tr>
 		<td>37</td>
@@ -1628,8 +1628,8 @@ There are `935 users`  in Sweden. You need at least `87 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Stockholm, Sweden</td>
-		<td>1827</td>
-		<td>1827</td>
+		<td>1828</td>
+		<td>1828</td>
 	</tr>
 	<tr>
 		<td>110</td>
@@ -3225,7 +3225,7 @@ There are `935 users`  in Sweden. You need at least `87 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Västerås, Sweden</td>
 		<td>104</td>
-		<td>979</td>
+		<td>980</td>
 	</tr>
 	<tr>
 		<td>224</td>
@@ -5890,6 +5890,20 @@ There are `935 users`  in Sweden. You need at least `87 followers` to be on this
 	<tr>
 		<td>414</td>
 		<td>
+			<a href="https://github.com/sebbekarlsson">
+				<img src="https://avatars.githubusercontent.com/u/6907725?s=72&u=27fb94a02b0ddb060ea2cbf9a76a4a17e47b466e&v=4" width="24" alt="Avatar of sebbekarlsson"> sebbekarlsson
+			</a><br/>
+			Sebastian Karlsson (ianertson)
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sweden, Stockholm</td>
+		<td>90</td>
+		<td>377</td>
+	</tr>
+	<tr>
+		<td>415</td>
+		<td>
 			<a href="https://github.com/danielgustafsson">
 				<img src="https://avatars.githubusercontent.com/u/321790?s=72&u=1d0e60e82bbcc1231f75eca4c63398962001be93&v=4" width="24" alt="Avatar of danielgustafsson"> danielgustafsson
 			</a><br/>
@@ -5900,20 +5914,6 @@ There are `935 users`  in Sweden. You need at least `87 followers` to be on this
 		<td>Stockholm, Sweden</td>
 		<td>322</td>
 		<td>377</td>
-	</tr>
-	<tr>
-		<td>415</td>
-		<td>
-			<a href="https://github.com/sebbekarlsson">
-				<img src="https://avatars.githubusercontent.com/u/6907725?s=72&u=27fb94a02b0ddb060ea2cbf9a76a4a17e47b466e&v=4" width="24" alt="Avatar of sebbekarlsson"> sebbekarlsson
-			</a><br/>
-			Sebastian Karlsson (ianertson)
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Sweden, Stockholm</td>
-		<td>90</td>
-		<td>375</td>
 	</tr>
 	<tr>
 		<td>416</td>
@@ -8844,6 +8844,20 @@ There are `935 users`  in Sweden. You need at least `87 followers` to be on this
 	<tr>
 		<td>625</td>
 		<td>
+			<a href="https://github.com/henrikruscon">
+				<img src="https://avatars.githubusercontent.com/u/1430576?s=72&u=1c62c6f665a146523a00ff77d36aef1a0161f03d&v=4" width="24" alt="Avatar of henrikruscon"> henrikruscon
+			</a><br/>
+			Henrik
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/henrikruscon">henrikruscon</a></td>
+		<td>Sweden</td>
+		<td>60</td>
+		<td>60</td>
+	</tr>
+	<tr>
+		<td>626</td>
+		<td>
 			<a href="https://github.com/phaller">
 				<img src="https://avatars.githubusercontent.com/u/289943?s=72&v=4" width="24" alt="Avatar of phaller"> phaller
 			</a><br/>
@@ -8856,7 +8870,7 @@ There are `935 users`  in Sweden. You need at least `87 followers` to be on this
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>626</td>
+		<td>627</td>
 		<td>
 			<a href="https://github.com/mekwall">
 				<img src="https://avatars.githubusercontent.com/u/37091?s=72&v=4" width="24" alt="Avatar of mekwall"> mekwall
@@ -8868,20 +8882,6 @@ There are `935 users`  in Sweden. You need at least `87 followers` to be on this
 		<td>Uppsala, Sweden</td>
 		<td>57</td>
 		<td>60</td>
-	</tr>
-	<tr>
-		<td>627</td>
-		<td>
-			<a href="https://github.com/henrikruscon">
-				<img src="https://avatars.githubusercontent.com/u/1430576?s=72&u=1c62c6f665a146523a00ff77d36aef1a0161f03d&v=4" width="24" alt="Avatar of henrikruscon"> henrikruscon
-			</a><br/>
-			Henrik
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/henrikruscon">henrikruscon</a></td>
-		<td>Sweden</td>
-		<td>59</td>
-		<td>59</td>
 	</tr>
 	<tr>
 		<td>628</td>
