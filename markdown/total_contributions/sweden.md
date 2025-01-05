@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg" alt="Sweden">
 </a>
 
-The `public contributions` and `private contributions` by users in Sweden on `2025/1/5 8:18 PM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
+The `public contributions` and `private contributions` by users in Sweden on `2025/1/5 9:15 PM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
 
 There are `1 countries` and `4 cities` can be found [here](https://github.com/jaagr/top-github-users).
 
@@ -130,8 +130,8 @@ There are `935 users`  in Sweden. You need at least `86 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/IvanUkhov">IvanUkhov</a></td>
 		<td>Stockholm, Sweden</td>
-		<td>908</td>
-		<td>9414</td>
+		<td>912</td>
+		<td>9418</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -326,8 +326,8 @@ There are `935 users`  in Sweden. You need at least `86 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/henrikrydgard">henrikrydgard</a></td>
 		<td>Stockholm, Sweden</td>
-		<td>3010</td>
-		<td>4308</td>
+		<td>3011</td>
+		<td>4309</td>
 	</tr>
 	<tr>
 		<td>17</td>
@@ -396,8 +396,8 @@ There are `935 users`  in Sweden. You need at least `86 followers` to be on this
 		<td>@einride </td>
 		<td>No Twitter Username</td>
 		<td>Sweden</td>
-		<td>2257</td>
-		<td>3850</td>
+		<td>2262</td>
+		<td>3855</td>
 	</tr>
 	<tr>
 		<td>22</td>
@@ -425,7 +425,7 @@ There are `935 users`  in Sweden. You need at least `86 followers` to be on this
 		<td><a href="https://twitter.com/zerio_official">zerio_official</a></td>
 		<td>Sweden</td>
 		<td>733</td>
-		<td>3790</td>
+		<td>3791</td>
 	</tr>
 	<tr>
 		<td>24</td>
@@ -830,8 +830,8 @@ There are `935 users`  in Sweden. You need at least `86 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Linköping, Sweden</td>
-		<td>2956</td>
-		<td>2956</td>
+		<td>2957</td>
+		<td>2957</td>
 	</tr>
 	<tr>
 		<td>53</td>
@@ -1180,8 +1180,8 @@ There are `935 users`  in Sweden. You need at least `86 followers` to be on this
 		<td>5monkeys </td>
 		<td><a href="https://twitter.com/denosaurs">denosaurs</a></td>
 		<td>Stockholm</td>
-		<td>372</td>
-		<td>2403</td>
+		<td>375</td>
+		<td>2406</td>
 	</tr>
 	<tr>
 		<td>78</td>
@@ -1600,8 +1600,8 @@ There are `935 users`  in Sweden. You need at least `86 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/raphamorims">raphamorims</a></td>
 		<td>Stockholm, Sweden</td>
-		<td>1800</td>
-		<td>1879</td>
+		<td>1802</td>
+		<td>1881</td>
 	</tr>
 	<tr>
 		<td>108</td>
@@ -2720,8 +2720,8 @@ There are `935 users`  in Sweden. You need at least `86 followers` to be on this
 		<td>All Ears </td>
 		<td>No Twitter Username</td>
 		<td>Västerås, Sweden</td>
-		<td>195</td>
-		<td>1212</td>
+		<td>196</td>
+		<td>1213</td>
 	</tr>
 	<tr>
 		<td>188</td>
@@ -8088,6 +8088,20 @@ There are `935 users`  in Sweden. You need at least `86 followers` to be on this
 	<tr>
 		<td>571</td>
 		<td>
+			<a href="https://github.com/alexemanuelol">
+				<img src="https://avatars.githubusercontent.com/u/18254752?s=72&u=076851b2e460f496b23ae1726f397ce5648596a5&v=4" width="24" alt="Avatar of alexemanuelol"> alexemanuelol
+			</a><br/>
+			Alle
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sweden</td>
+		<td>96</td>
+		<td>113</td>
+	</tr>
+	<tr>
+		<td>572</td>
+		<td>
 			<a href="https://github.com/mikaelkaron">
 				<img src="https://avatars.githubusercontent.com/u/478468?s=72&u=9f26a1519b2abfde87bb7277d016326b54993781&v=4" width="24" alt="Avatar of mikaelkaron"> mikaelkaron
 			</a><br/>
@@ -8098,20 +8112,6 @@ There are `935 users`  in Sweden. You need at least `86 followers` to be on this
 		<td>Stockholm</td>
 		<td>112</td>
 		<td>112</td>
-	</tr>
-	<tr>
-		<td>572</td>
-		<td>
-			<a href="https://github.com/alexemanuelol">
-				<img src="https://avatars.githubusercontent.com/u/18254752?s=72&u=076851b2e460f496b23ae1726f397ce5648596a5&v=4" width="24" alt="Avatar of alexemanuelol"> alexemanuelol
-			</a><br/>
-			Alle
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Sweden</td>
-		<td>96</td>
-		<td>111</td>
 	</tr>
 	<tr>
 		<td>573</td>

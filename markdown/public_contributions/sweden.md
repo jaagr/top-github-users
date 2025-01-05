@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg" alt="Sweden">
 </a>
 
-The `public contributions` by users in Sweden on `2025/1/5 8:18 PM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
+The `public contributions` by users in Sweden on `2025/1/5 9:15 PM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
 
 There are `1 countries` and `4 cities` can be found [here](https://github.com/jaagr/top-github-users).
 
@@ -297,7 +297,7 @@ There are `935 users`  in Sweden. You need at least `86 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/henrikrydgard">henrikrydgard</a></td>
 		<td>Stockholm, Sweden</td>
-		<td>3010</td>
+		<td>3011</td>
 	</tr>
 	<tr>
 		<td>16</td>
@@ -310,7 +310,7 @@ There are `935 users`  in Sweden. You need at least `86 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Linköping, Sweden</td>
-		<td>2956</td>
+		<td>2957</td>
 	</tr>
 	<tr>
 		<td>17</td>
@@ -492,7 +492,7 @@ There are `935 users`  in Sweden. You need at least `86 followers` to be on this
 		<td>@einride </td>
 		<td>No Twitter Username</td>
 		<td>Sweden</td>
-		<td>2257</td>
+		<td>2262</td>
 	</tr>
 	<tr>
 		<td>31</td>
@@ -596,7 +596,7 @@ There are `935 users`  in Sweden. You need at least `86 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/raphamorims">raphamorims</a></td>
 		<td>Stockholm, Sweden</td>
-		<td>1800</td>
+		<td>1802</td>
 	</tr>
 	<tr>
 		<td>39</td>
@@ -1467,7 +1467,7 @@ There are `935 users`  in Sweden. You need at least `86 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/IvanUkhov">IvanUkhov</a></td>
 		<td>Stockholm, Sweden</td>
-		<td>908</td>
+		<td>912</td>
 	</tr>
 	<tr>
 		<td>106</td>
@@ -2793,7 +2793,7 @@ There are `935 users`  in Sweden. You need at least `86 followers` to be on this
 		<td>5monkeys </td>
 		<td><a href="https://twitter.com/denosaurs">denosaurs</a></td>
 		<td>Stockholm</td>
-		<td>372</td>
+		<td>375</td>
 	</tr>
 	<tr>
 		<td>208</td>
@@ -4093,7 +4093,7 @@ There are `935 users`  in Sweden. You need at least `86 followers` to be on this
 		<td>All Ears </td>
 		<td>No Twitter Username</td>
 		<td>Västerås, Sweden</td>
-		<td>195</td>
+		<td>196</td>
 	</tr>
 	<tr>
 		<td>308</td>

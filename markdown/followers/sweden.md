@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg" alt="Sweden">
 </a>
 
-The `number of followers` of users in Sweden on `2025/1/5 8:18 PM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
+The `number of followers` of users in Sweden on `2025/1/5 9:15 PM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
 
 There are `1 countries` and `4 cities` can be found [here](https://github.com/jaagr/top-github-users).
 
@@ -141,7 +141,7 @@ There are `935 users`  in Sweden. You need at least `86 followers` to be on this
 		<td>Rerun.io, Egui </td>
 		<td><a href="https://twitter.com/ernerfeldt">ernerfeldt</a></td>
 		<td>Stockholm, Sweden</td>
-		<td>6458</td>
+		<td>6459</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -245,7 +245,7 @@ There are `935 users`  in Sweden. You need at least `86 followers` to be on this
 		<td>@acegikmo  </td>
 		<td><a href="https://twitter.com/FreyaHolmer">FreyaHolmer</a></td>
 		<td>Sweden</td>
-		<td>3072</td>
+		<td>3073</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -1896,7 +1896,7 @@ There are `935 users`  in Sweden. You need at least `86 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Sweden</td>
-		<td>417</td>
+		<td>416</td>
 	</tr>
 	<tr>
 		<td>139</td>
@@ -9922,6 +9922,19 @@ There are `935 users`  in Sweden. You need at least `86 followers` to be on this
 	<tr>
 		<td>756</td>
 		<td>
+			<a href="https://github.com/forslund">
+				<img src="https://avatars.githubusercontent.com/u/804543?s=72&v=4" width="24" alt="Avatar of forslund"> forslund
+			</a><br/>
+			Åke
+		</td>
+		<td>Leine Linde </td>
+		<td><a href="https://twitter.com/forslund">forslund</a></td>
+		<td>Eskilstuna, Sweden</td>
+		<td>107</td>
+	</tr>
+	<tr>
+		<td>757</td>
+		<td>
 			<a href="https://github.com/dimitrij">
 				<img src="https://avatars.githubusercontent.com/u/425682?s=72&u=5cdeb6f0486f21c1447224288d52191fc9a2c19f&v=4" width="24" alt="Avatar of dimitrij"> dimitrij
 			</a><br/>
@@ -9933,7 +9946,7 @@ There are `935 users`  in Sweden. You need at least `86 followers` to be on this
 		<td>107</td>
 	</tr>
 	<tr>
-		<td>757</td>
+		<td>758</td>
 		<td>
 			<a href="https://github.com/TimonPost">
 				<img src="https://avatars.githubusercontent.com/u/19969910?s=72&u=88eff3bab2f81e0568c0dc333d20934ebf919063&v=4" width="24" alt="Avatar of TimonPost"> TimonPost
@@ -9946,7 +9959,7 @@ There are `935 users`  in Sweden. You need at least `86 followers` to be on this
 		<td>106</td>
 	</tr>
 	<tr>
-		<td>758</td>
+		<td>759</td>
 		<td>
 			<a href="https://github.com/mengstr">
 				<img src="https://avatars.githubusercontent.com/u/325326?s=72&v=4" width="24" alt="Avatar of mengstr"> mengstr
@@ -9956,19 +9969,6 @@ There are `935 users`  in Sweden. You need at least `86 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/matseng">matseng</a></td>
 		<td>Stockholm, Sweden</td>
-		<td>106</td>
-	</tr>
-	<tr>
-		<td>759</td>
-		<td>
-			<a href="https://github.com/forslund">
-				<img src="https://avatars.githubusercontent.com/u/804543?s=72&v=4" width="24" alt="Avatar of forslund"> forslund
-			</a><br/>
-			Åke
-		</td>
-		<td>Leine Linde </td>
-		<td><a href="https://twitter.com/forslund">forslund</a></td>
-		<td>Eskilstuna, Sweden</td>
 		<td>106</td>
 	</tr>
 	<tr>
