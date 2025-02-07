@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg" alt="Sweden">
 </a>
 
-The `number of followers` of users in Sweden on `2025/2/7 12:25 PM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
+The `number of followers` of users in Sweden on `2025/2/7 1:25 PM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
 
 There are `1 countries` and `4 cities` can be found [here](https://github.com/jaagr/top-github-users).
 
@@ -128,7 +128,7 @@ There are `935 users`  in Sweden. You need at least `88 followers` to be on this
 		<td>Spotify </td>
 		<td><a href="https://twitter.com/emmabostian">emmabostian</a></td>
 		<td>Stockholm, Sweden</td>
-		<td>6787</td>
+		<td>6788</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -141,7 +141,7 @@ There are `935 users`  in Sweden. You need at least `88 followers` to be on this
 		<td>@wolfssl  </td>
 		<td>No Twitter Username</td>
 		<td>the curl factory, Sweden - close to Nebraska</td>
-		<td>6507</td>
+		<td>6508</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -219,7 +219,7 @@ There are `935 users`  in Sweden. You need at least `88 followers` to be on this
 		<td>Chia Net </td>
 		<td>No Twitter Username</td>
 		<td>Stockholm, Sweden</td>
-		<td>3310</td>
+		<td>3311</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -1532,7 +1532,7 @@ There are `935 users`  in Sweden. You need at least `88 followers` to be on this
 		<td>Asynkron Ab </td>
 		<td><a href="https://twitter.com/rogeralsing">rogeralsing</a></td>
 		<td>Stockholm, Sweden</td>
-		<td>495</td>
+		<td>496</td>
 	</tr>
 	<tr>
 		<td>111</td>
@@ -6425,6 +6425,19 @@ There are `935 users`  in Sweden. You need at least `88 followers` to be on this
 	<tr>
 		<td>487</td>
 		<td>
+			<a href="https://github.com/tinaponting">
+				<img src="https://avatars.githubusercontent.com/u/3619162?s=72&u=b6b3fedfede27402924b41ffa7a5bb606876afcc&v=4" width="24" alt="Avatar of tinaponting"> tinaponting
+			</a><br/>
+			Kristina Ponting  sweden
+		</td>
+		<td>Racewalker- Runner </td>
+		<td>No Twitter Username</td>
+		<td>Sweden</td>
+		<td>153</td>
+	</tr>
+	<tr>
+		<td>488</td>
+		<td>
 			<a href="https://github.com/FabrizioBrancati">
 				<img src="https://avatars.githubusercontent.com/u/2663148?s=72&u=717056fa0a15bc8209e42dce1186fa99c23907b3&v=4" width="24" alt="Avatar of FabrizioBrancati"> FabrizioBrancati
 			</a><br/>
@@ -6436,7 +6449,7 @@ There are `935 users`  in Sweden. You need at least `88 followers` to be on this
 		<td>153</td>
 	</tr>
 	<tr>
-		<td>488</td>
+		<td>489</td>
 		<td>
 			<a href="https://github.com/terlar">
 				<img src="https://avatars.githubusercontent.com/u/280235?s=72&u=d7800c6b865cd81f66dde404e97f2db291840368&v=4" width="24" alt="Avatar of terlar"> terlar
@@ -6449,7 +6462,7 @@ There are `935 users`  in Sweden. You need at least `88 followers` to be on this
 		<td>153</td>
 	</tr>
 	<tr>
-		<td>489</td>
+		<td>490</td>
 		<td>
 			<a href="https://github.com/mglantz">
 				<img src="https://avatars.githubusercontent.com/u/16682462?s=72&u=51caf46399123308ba43270321bc665928219cf6&v=4" width="24" alt="Avatar of mglantz"> mglantz
@@ -6462,7 +6475,7 @@ There are `935 users`  in Sweden. You need at least `88 followers` to be on this
 		<td>153</td>
 	</tr>
 	<tr>
-		<td>490</td>
+		<td>491</td>
 		<td>
 			<a href="https://github.com/alvarlagerlof">
 				<img src="https://avatars.githubusercontent.com/u/14835120?s=72&u=25adb6551500a72b946d56e4a27dcf6db6b94359&v=4" width="24" alt="Avatar of alvarlagerlof"> alvarlagerlof
@@ -6475,7 +6488,7 @@ There are `935 users`  in Sweden. You need at least `88 followers` to be on this
 		<td>152</td>
 	</tr>
 	<tr>
-		<td>491</td>
+		<td>492</td>
 		<td>
 			<a href="https://github.com/IuryAlves">
 				<img src="https://avatars.githubusercontent.com/u/1934268?s=72&u=4d5bede692170231a1a0b32fd3f74243f5d8e53d&v=4" width="24" alt="Avatar of IuryAlves"> IuryAlves
@@ -6488,7 +6501,7 @@ There are `935 users`  in Sweden. You need at least `88 followers` to be on this
 		<td>152</td>
 	</tr>
 	<tr>
-		<td>492</td>
+		<td>493</td>
 		<td>
 			<a href="https://github.com/jiwidi">
 				<img src="https://avatars.githubusercontent.com/u/10882086?s=72&u=481aeb402835fec6bf4340624c67b0191cb90580&v=4" width="24" alt="Avatar of jiwidi"> jiwidi
@@ -6498,19 +6511,6 @@ There are `935 users`  in Sweden. You need at least `88 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Stockholm</td>
-		<td>152</td>
-	</tr>
-	<tr>
-		<td>493</td>
-		<td>
-			<a href="https://github.com/tinaponting">
-				<img src="https://avatars.githubusercontent.com/u/3619162?s=72&u=b6b3fedfede27402924b41ffa7a5bb606876afcc&v=4" width="24" alt="Avatar of tinaponting"> tinaponting
-			</a><br/>
-			Kristina Ponting  sweden
-		</td>
-		<td>Racewalker- Runner </td>
-		<td>No Twitter Username</td>
-		<td>Sweden</td>
 		<td>152</td>
 	</tr>
 	<tr>
