@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg" alt="Sweden">
 </a>
 
-The `public contributions` by users in Sweden on `2025/2/19 12:48 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
+The `public contributions` by users in Sweden on `2025/2/19 2:19 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
 
 There are `1 countries` and `4 cities` can be found [here](https://github.com/jaagr/top-github-users).
 
@@ -583,7 +583,7 @@ There are `934 users`  in Sweden. You need at least `89 followers` to be on this
 		<td>@charmbracelet </td>
 		<td><a href="https://twitter.com/raphamorims">raphamorims</a></td>
 		<td>Stockholm, Sweden</td>
-		<td>1909</td>
+		<td>1912</td>
 	</tr>
 	<tr>
 		<td>38</td>
@@ -1012,7 +1012,7 @@ There are `934 users`  in Sweden. You need at least `89 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/alexdotjs">alexdotjs</a></td>
 		<td>Malmö, Sweden</td>
-		<td>1205</td>
+		<td>1208</td>
 	</tr>
 	<tr>
 		<td>71</td>
@@ -1797,6 +1797,19 @@ There are `934 users`  in Sweden. You need at least `89 followers` to be on this
 	<tr>
 		<td>131</td>
 		<td>
+			<a href="https://github.com/devmotion">
+				<img src="https://avatars.githubusercontent.com/u/26102?s=72&u=945a5b7e5854b607abc481bd3fcea2ca128fa617&v=4" width="24" alt="Avatar of devmotion"> devmotion
+			</a><br/>
+			David Widmann
+		</td>
+		<td>@pumasai  </td>
+		<td>No Twitter Username</td>
+		<td>Uppsala, Sweden</td>
+		<td>687</td>
+	</tr>
+	<tr>
+		<td>132</td>
+		<td>
 			<a href="https://github.com/kappsegla">
 				<img src="https://avatars.githubusercontent.com/u/5329974?s=72&u=5d35c9342e4b96b4668190415d8be588ad82ab20&v=4" width="24" alt="Avatar of kappsegla"> kappsegla
 			</a><br/>
@@ -1808,7 +1821,7 @@ There are `934 users`  in Sweden. You need at least `89 followers` to be on this
 		<td>686</td>
 	</tr>
 	<tr>
-		<td>132</td>
+		<td>133</td>
 		<td>
 			<a href="https://github.com/lawik">
 				<img src="https://avatars.githubusercontent.com/u/1971237?s=72&u=671495fb9f1a273698d28143739868e993be816e&v=4" width="24" alt="Avatar of lawik"> lawik
@@ -1818,19 +1831,6 @@ There are `934 users`  in Sweden. You need at least `89 followers` to be on this
 		<td>Underjord </td>
 		<td>No Twitter Username</td>
 		<td>West coast, Sweden</td>
-		<td>684</td>
-	</tr>
-	<tr>
-		<td>133</td>
-		<td>
-			<a href="https://github.com/devmotion">
-				<img src="https://avatars.githubusercontent.com/u/26102?s=72&u=945a5b7e5854b607abc481bd3fcea2ca128fa617&v=4" width="24" alt="Avatar of devmotion"> devmotion
-			</a><br/>
-			David Widmann
-		</td>
-		<td>@pumasai  </td>
-		<td>No Twitter Username</td>
-		<td>Uppsala, Sweden</td>
 		<td>684</td>
 	</tr>
 	<tr>
@@ -3864,6 +3864,19 @@ There are `934 users`  in Sweden. You need at least `89 followers` to be on this
 	<tr>
 		<td>290</td>
 		<td>
+			<a href="https://github.com/shubhamzanwar">
+				<img src="https://avatars.githubusercontent.com/u/15626155?s=72&u=f9a12f09de21a9e4538bb869ebfbd4f3789f5371&v=4" width="24" alt="Avatar of shubhamzanwar"> shubhamzanwar
+			</a><br/>
+			Shubham Zanwar
+		</td>
+		<td>@mimohq </td>
+		<td><a href="https://twitter.com/szanwar22">szanwar22</a></td>
+		<td>Stockholm, Sweden</td>
+		<td>237</td>
+	</tr>
+	<tr>
+		<td>291</td>
+		<td>
 			<a href="https://github.com/gforge">
 				<img src="https://avatars.githubusercontent.com/u/2198913?s=72&u=8b536e0db1a1bc087213eaa929d87da42009ca6f&v=4" width="24" alt="Avatar of gforge"> gforge
 			</a><br/>
@@ -3875,7 +3888,7 @@ There are `934 users`  in Sweden. You need at least `89 followers` to be on this
 		<td>237</td>
 	</tr>
 	<tr>
-		<td>291</td>
+		<td>292</td>
 		<td>
 			<a href="https://github.com/trapd00r">
 				<img src="https://avatars.githubusercontent.com/u/43331?s=72&u=9b7bea245930fa680b2ceab80c4f828a55b01344&v=4" width="24" alt="Avatar of trapd00r"> trapd00r
@@ -3885,19 +3898,6 @@ There are `934 users`  in Sweden. You need at least `89 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>sweden</td>
-		<td>236</td>
-	</tr>
-	<tr>
-		<td>292</td>
-		<td>
-			<a href="https://github.com/shubhamzanwar">
-				<img src="https://avatars.githubusercontent.com/u/15626155?s=72&u=f9a12f09de21a9e4538bb869ebfbd4f3789f5371&v=4" width="24" alt="Avatar of shubhamzanwar"> shubhamzanwar
-			</a><br/>
-			Shubham Zanwar
-		</td>
-		<td>@mimohq </td>
-		<td><a href="https://twitter.com/szanwar22">szanwar22</a></td>
-		<td>Stockholm, Sweden</td>
 		<td>236</td>
 	</tr>
 	<tr>
