@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg" alt="Sweden">
 </a>
 
-The `public contributions` by users in Sweden on `2025/2/20 11:18 PM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
+The `public contributions` by users in Sweden on `2025/2/21 12:48 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
 
 There are `1 countries` and `4 cities` can be found [here](https://github.com/jaagr/top-github-users).
 
@@ -297,7 +297,7 @@ There are `934 users`  in Sweden. You need at least `89 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/henrikrydgard">henrikrydgard</a></td>
 		<td>Stockholm, Sweden</td>
-		<td>2963</td>
+		<td>2968</td>
 	</tr>
 	<tr>
 		<td>16</td>
@@ -336,7 +336,7 @@ There are `934 users`  in Sweden. You need at least `89 followers` to be on this
 		<td>Tvnu Sweden Ab </td>
 		<td>No Twitter Username</td>
 		<td>Arvika, Sweden</td>
-		<td>2917</td>
+		<td>2918</td>
 	</tr>
 	<tr>
 		<td>19</td>
@@ -557,7 +557,7 @@ There are `934 users`  in Sweden. You need at least `89 followers` to be on this
 		<td>@ladybirdbrowser </td>
 		<td><a href="https://twitter.com/awesomekling">awesomekling</a></td>
 		<td>Sweden</td>
-		<td>2000</td>
+		<td>2002</td>
 	</tr>
 	<tr>
 		<td>36</td>
@@ -583,7 +583,7 @@ There are `934 users`  in Sweden. You need at least `89 followers` to be on this
 		<td>@charmbracelet </td>
 		<td><a href="https://twitter.com/raphamorims">raphamorims</a></td>
 		<td>Stockholm, Sweden</td>
-		<td>1921</td>
+		<td>1922</td>
 	</tr>
 	<tr>
 		<td>38</td>
@@ -622,7 +622,7 @@ There are `934 users`  in Sweden. You need at least `89 followers` to be on this
 		<td>@styrainc </td>
 		<td>No Twitter Username</td>
 		<td>Stockholm, Sweden</td>
-		<td>1791</td>
+		<td>1792</td>
 	</tr>
 	<tr>
 		<td>41</td>
@@ -869,7 +869,7 @@ There are `934 users`  in Sweden. You need at least `89 followers` to be on this
 		<td>@evilcorpltd </td>
 		<td>No Twitter Username</td>
 		<td>Sweden</td>
-		<td>1405</td>
+		<td>1407</td>
 	</tr>
 	<tr>
 		<td>60</td>
@@ -1012,7 +1012,7 @@ There are `934 users`  in Sweden. You need at least `89 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/alexdotjs">alexdotjs</a></td>
 		<td>Malmö, Sweden</td>
-		<td>1211</td>
+		<td>1212</td>
 	</tr>
 	<tr>
 		<td>71</td>
@@ -1415,7 +1415,7 @@ There are `934 users`  in Sweden. You need at least `89 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/carlthome">carlthome</a></td>
 		<td>Stockholm, Sweden</td>
-		<td>878</td>
+		<td>879</td>
 	</tr>
 	<tr>
 		<td>102</td>
@@ -3760,6 +3760,19 @@ There are `934 users`  in Sweden. You need at least `89 followers` to be on this
 	<tr>
 		<td>282</td>
 		<td>
+			<a href="https://github.com/pooyanazad">
+				<img src="https://avatars.githubusercontent.com/u/20085529?s=72&u=e6336dbc3f465dcf6e83ee571752be0d8bdbf794&v=4" width="24" alt="Avatar of pooyanazad"> pooyanazad
+			</a><br/>
+			Pooyan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Gothenburg, Sweden 🇸🇪 </td>
+		<td>254</td>
+	</tr>
+	<tr>
+		<td>283</td>
+		<td>
 			<a href="https://github.com/viccon">
 				<img src="https://avatars.githubusercontent.com/u/12787673?s=72&u=22c9d78a254ad52d7282ee4e9231597e16c9ea87&v=4" width="24" alt="Avatar of viccon"> viccon
 			</a><br/>
@@ -3771,7 +3784,7 @@ There are `934 users`  in Sweden. You need at least `89 followers` to be on this
 		<td>253</td>
 	</tr>
 	<tr>
-		<td>283</td>
+		<td>284</td>
 		<td>
 			<a href="https://github.com/abergs">
 				<img src="https://avatars.githubusercontent.com/u/357283?s=72&u=b9262cdc085c0cd6cc5f6b8f52454634fc0bb1b9&v=4" width="24" alt="Avatar of abergs"> abergs
@@ -3782,19 +3795,6 @@ There are `934 users`  in Sweden. You need at least `89 followers` to be on this
 		<td><a href="https://twitter.com/andersaberg">andersaberg</a></td>
 		<td>Sweden</td>
 		<td>252</td>
-	</tr>
-	<tr>
-		<td>284</td>
-		<td>
-			<a href="https://github.com/pooyanazad">
-				<img src="https://avatars.githubusercontent.com/u/20085529?s=72&u=e6336dbc3f465dcf6e83ee571752be0d8bdbf794&v=4" width="24" alt="Avatar of pooyanazad"> pooyanazad
-			</a><br/>
-			Pooyan
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Gothenburg, Sweden 🇸🇪 </td>
-		<td>251</td>
 	</tr>
 	<tr>
 		<td>285</td>
