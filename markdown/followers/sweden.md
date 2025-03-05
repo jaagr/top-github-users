@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg" alt="Sweden">
 </a>
 
-The `number of followers` of users in Sweden on `2025/3/5 1:28 PM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
+The `number of followers` of users in Sweden on `2025/3/5 2:19 PM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
 
 There are `1 countries` and `4 cities` can be found [here](https://github.com/jaagr/top-github-users).
 
@@ -128,7 +128,7 @@ There are `934 users`  in Sweden. You need at least `89 followers` to be on this
 		<td>Spotify </td>
 		<td><a href="https://twitter.com/emmabostian">emmabostian</a></td>
 		<td>Stockholm, Sweden</td>
-		<td>6929</td>
+		<td>6930</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -232,7 +232,7 @@ There are `934 users`  in Sweden. You need at least `89 followers` to be on this
 		<td>Pixolity Ab </td>
 		<td><a href="https://twitter.com/vandadnp">vandadnp</a></td>
 		<td>Sweden</td>
-		<td>3283</td>
+		<td>3285</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -401,7 +401,7 @@ There are `934 users`  in Sweden. You need at least `89 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Sweden</td>
-		<td>1943</td>
+		<td>1944</td>
 	</tr>
 	<tr>
 		<td>24</td>
@@ -479,7 +479,7 @@ There are `934 users`  in Sweden. You need at least `89 followers` to be on this
 		<td>@superuserlabs </td>
 		<td><a href="https://twitter.com/ErikBjare">ErikBjare</a></td>
 		<td>Lund, Sweden</td>
-		<td>1756</td>
+		<td>1757</td>
 	</tr>
 	<tr>
 		<td>30</td>
@@ -5372,6 +5372,19 @@ There are `934 users`  in Sweden. You need at least `89 followers` to be on this
 	<tr>
 		<td>406</td>
 		<td>
+			<a href="https://github.com/john-tornblom">
+				<img src="https://avatars.githubusercontent.com/u/547534?s=72&v=4" width="24" alt="Avatar of john-tornblom"> john-tornblom
+			</a><br/>
+			John Törnblom
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Linköping, Sweden</td>
+		<td>180</td>
+	</tr>
+	<tr>
+		<td>407</td>
+		<td>
 			<a href="https://github.com/myshov">
 				<img src="https://avatars.githubusercontent.com/u/2382567?s=72&v=4" width="24" alt="Avatar of myshov"> myshov
 			</a><br/>
@@ -5383,7 +5396,7 @@ There are `934 users`  in Sweden. You need at least `89 followers` to be on this
 		<td>180</td>
 	</tr>
 	<tr>
-		<td>407</td>
+		<td>408</td>
 		<td>
 			<a href="https://github.com/augustss">
 				<img src="https://avatars.githubusercontent.com/u/5245086?s=72&v=4" width="24" alt="Avatar of augustss"> augustss
@@ -5396,7 +5409,7 @@ There are `934 users`  in Sweden. You need at least `89 followers` to be on this
 		<td>180</td>
 	</tr>
 	<tr>
-		<td>408</td>
+		<td>409</td>
 		<td>
 			<a href="https://github.com/modlfo">
 				<img src="https://avatars.githubusercontent.com/u/2001046?s=72&v=4" width="24" alt="Avatar of modlfo"> modlfo
@@ -5409,7 +5422,7 @@ There are `934 users`  in Sweden. You need at least `89 followers` to be on this
 		<td>180</td>
 	</tr>
 	<tr>
-		<td>409</td>
+		<td>410</td>
 		<td>
 			<a href="https://github.com/sayeh92">
 				<img src="https://avatars.githubusercontent.com/u/25332941?s=72&u=14e62f82f95279460c36ac3bbdee825b529aaca4&v=4" width="24" alt="Avatar of sayeh92"> sayeh92
@@ -5422,7 +5435,7 @@ There are `934 users`  in Sweden. You need at least `89 followers` to be on this
 		<td>180</td>
 	</tr>
 	<tr>
-		<td>410</td>
+		<td>411</td>
 		<td>
 			<a href="https://github.com/luna-duclos">
 				<img src="https://avatars.githubusercontent.com/u/5576448?s=72&u=550aca641e2740b492acbf489ceb38a21e4b0cd4&v=4" width="24" alt="Avatar of luna-duclos"> luna-duclos
@@ -5433,19 +5446,6 @@ There are `934 users`  in Sweden. You need at least `89 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Stockholm, Sweden</td>
 		<td>180</td>
-	</tr>
-	<tr>
-		<td>411</td>
-		<td>
-			<a href="https://github.com/john-tornblom">
-				<img src="https://avatars.githubusercontent.com/u/547534?s=72&v=4" width="24" alt="Avatar of john-tornblom"> john-tornblom
-			</a><br/>
-			John Törnblom
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Linköping, Sweden</td>
-		<td>179</td>
 	</tr>
 	<tr>
 		<td>412</td>
