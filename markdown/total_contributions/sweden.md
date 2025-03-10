@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg" alt="Sweden">
 </a>
 
-The `public contributions` and `private contributions` by users in Sweden on `2025/3/10 3:17 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
+The `public contributions` and `private contributions` by users in Sweden on `2025/3/10 4:18 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
 
 There are `1 countries` and `4 cities` can be found [here](https://github.com/jaagr/top-github-users).
 
@@ -606,8 +606,8 @@ There are `933 users`  in Sweden. You need at least `89 followers` to be on this
 		<td>@lichess-org / @recordedfuture </td>
 		<td><a href="https://twitter.com/lenguyenthanh">lenguyenthanh</a></td>
 		<td>Gothenburg, Sweden</td>
-		<td>2969</td>
-		<td>3190</td>
+		<td>2973</td>
+		<td>3194</td>
 	</tr>
 	<tr>
 		<td>37</td>
@@ -4252,6 +4252,20 @@ There are `933 users`  in Sweden. You need at least `89 followers` to be on this
 	<tr>
 		<td>297</td>
 		<td>
+			<a href="https://github.com/AhsanAyaz">
+				<img src="https://avatars.githubusercontent.com/u/9844254?s=72&u=86cc938f580841709a23d0f73c7fb01eeb3738e2&v=4" width="24" alt="Avatar of AhsanAyaz"> AhsanAyaz
+			</a><br/>
+			Muhammad Ahsan Ayaz
+		</td>
+		<td>@scania </td>
+		<td>No Twitter Username</td>
+		<td>Stockholm, Sweden</td>
+		<td>507</td>
+		<td>673</td>
+	</tr>
+	<tr>
+		<td>298</td>
+		<td>
 			<a href="https://github.com/trapd00r">
 				<img src="https://avatars.githubusercontent.com/u/43331?s=72&u=9b7bea245930fa680b2ceab80c4f828a55b01344&v=4" width="24" alt="Avatar of trapd00r"> trapd00r
 			</a><br/>
@@ -4264,7 +4278,7 @@ There are `933 users`  in Sweden. You need at least `89 followers` to be on this
 		<td>671</td>
 	</tr>
 	<tr>
-		<td>298</td>
+		<td>299</td>
 		<td>
 			<a href="https://github.com/okasi">
 				<img src="https://avatars.githubusercontent.com/u/42962282?s=72&u=b39b7076db6592aa50b76b0094e7306cce898b59&v=4" width="24" alt="Avatar of okasi"> okasi
@@ -4276,20 +4290,6 @@ There are `933 users`  in Sweden. You need at least `89 followers` to be on this
 		<td>Stockholm, Sweden</td>
 		<td>41</td>
 		<td>669</td>
-	</tr>
-	<tr>
-		<td>299</td>
-		<td>
-			<a href="https://github.com/AhsanAyaz">
-				<img src="https://avatars.githubusercontent.com/u/9844254?s=72&u=86cc938f580841709a23d0f73c7fb01eeb3738e2&v=4" width="24" alt="Avatar of AhsanAyaz"> AhsanAyaz
-			</a><br/>
-			Muhammad Ahsan Ayaz
-		</td>
-		<td>@scania </td>
-		<td>No Twitter Username</td>
-		<td>Stockholm, Sweden</td>
-		<td>507</td>
-		<td>668</td>
 	</tr>
 	<tr>
 		<td>300</td>

@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg" alt="Sweden">
 </a>
 
-The `public contributions` by users in Sweden on `2025/3/10 3:17 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
+The `public contributions` by users in Sweden on `2025/3/10 4:18 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
 
 There are `1 countries` and `4 cities` can be found [here](https://github.com/jaagr/top-github-users).
 
@@ -276,6 +276,19 @@ There are `933 users`  in Sweden. You need at least `89 followers` to be on this
 	<tr>
 		<td>14</td>
 		<td>
+			<a href="https://github.com/lenguyenthanh">
+				<img src="https://avatars.githubusercontent.com/u/437967?s=72&u=1620925f11207a8a6461b755d795278cbaee8d2d&v=4" width="24" alt="Avatar of lenguyenthanh"> lenguyenthanh
+			</a><br/>
+			Thanh Le
+		</td>
+		<td>@lichess-org / @recordedfuture </td>
+		<td><a href="https://twitter.com/lenguyenthanh">lenguyenthanh</a></td>
+		<td>Gothenburg, Sweden</td>
+		<td>2973</td>
+	</tr>
+	<tr>
+		<td>15</td>
+		<td>
 			<a href="https://github.com/zmstone">
 				<img src="https://avatars.githubusercontent.com/u/164324?s=72&u=33b0667584f473505e536a6907c47bd76e9b47b5&v=4" width="24" alt="Avatar of zmstone"> zmstone
 			</a><br/>
@@ -285,19 +298,6 @@ There are `933 users`  in Sweden. You need at least `89 followers` to be on this
 		<td><a href="https://twitter.com/stonezshi">stonezshi</a></td>
 		<td>Stockholm Sweden</td>
 		<td>2970</td>
-	</tr>
-	<tr>
-		<td>15</td>
-		<td>
-			<a href="https://github.com/lenguyenthanh">
-				<img src="https://avatars.githubusercontent.com/u/437967?s=72&u=1620925f11207a8a6461b755d795278cbaee8d2d&v=4" width="24" alt="Avatar of lenguyenthanh"> lenguyenthanh
-			</a><br/>
-			Thanh Le
-		</td>
-		<td>@lichess-org / @recordedfuture </td>
-		<td><a href="https://twitter.com/lenguyenthanh">lenguyenthanh</a></td>
-		<td>Gothenburg, Sweden</td>
-		<td>2969</td>
 	</tr>
 	<tr>
 		<td>16</td>
