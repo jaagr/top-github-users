@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg" alt="Sweden">
 </a>
 
-The `public contributions` and `private contributions` by users in Sweden on `2025/3/11 12:50 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
+The `public contributions` and `private contributions` by users in Sweden on `2025/3/11 2:26 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
 
 There are `1 countries` and `4 cities` can be found [here](https://github.com/jaagr/top-github-users).
 
@@ -145,7 +145,7 @@ There are `933 users`  in Sweden. You need at least `89 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Stockholm, Sweden</td>
 		<td>88</td>
-		<td>9036</td>
+		<td>9039</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -396,8 +396,8 @@ There are `933 users`  in Sweden. You need at least `89 followers` to be on this
 		<td>@spotify </td>
 		<td>No Twitter Username</td>
 		<td>Stockholm</td>
-		<td>3785</td>
-		<td>3875</td>
+		<td>3786</td>
+		<td>3876</td>
 	</tr>
 	<tr>
 		<td>22</td>
@@ -2180,6 +2180,20 @@ There are `933 users`  in Sweden. You need at least `89 followers` to be on this
 	<tr>
 		<td>149</td>
 		<td>
+			<a href="https://github.com/furqanullah717">
+				<img src="https://avatars.githubusercontent.com/u/11693042?s=72&u=0e8f637109ab2ad905373f923a77dfd010df8680&v=4" width="24" alt="Avatar of furqanullah717"> furqanullah717
+			</a><br/>
+			Furqan Ullah
+		</td>
+		<td>Instabridge Ab </td>
+		<td><a href="https://twitter.com/furqanullah717">furqanullah717</a></td>
+		<td>Stockholm</td>
+		<td>220</td>
+		<td>1444</td>
+	</tr>
+	<tr>
+		<td>150</td>
+		<td>
 			<a href="https://github.com/javve">
 				<img src="https://avatars.githubusercontent.com/u/123192?s=72&u=74525f7edc0c551b3e5b079c7f8b541339754ac3&v=4" width="24" alt="Avatar of javve"> javve
 			</a><br/>
@@ -2190,20 +2204,6 @@ There are `933 users`  in Sweden. You need at least `89 followers` to be on this
 		<td>Stockholm</td>
 		<td>66</td>
 		<td>1443</td>
-	</tr>
-	<tr>
-		<td>150</td>
-		<td>
-			<a href="https://github.com/furqanullah717">
-				<img src="https://avatars.githubusercontent.com/u/11693042?s=72&u=0e8f637109ab2ad905373f923a77dfd010df8680&v=4" width="24" alt="Avatar of furqanullah717"> furqanullah717
-			</a><br/>
-			Furqan Ullah
-		</td>
-		<td>Instabridge Ab </td>
-		<td><a href="https://twitter.com/furqanullah717">furqanullah717</a></td>
-		<td>Stockholm</td>
-		<td>220</td>
-		<td>1441</td>
 	</tr>
 	<tr>
 		<td>151</td>
@@ -3715,7 +3715,7 @@ There are `933 users`  in Sweden. You need at least `89 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Sweden</td>
 		<td>77</td>
-		<td>826</td>
+		<td>827</td>
 	</tr>
 	<tr>
 		<td>259</td>
@@ -4616,6 +4616,20 @@ There are `933 users`  in Sweden. You need at least `89 followers` to be on this
 	<tr>
 		<td>323</td>
 		<td>
+			<a href="https://github.com/mglantz">
+				<img src="https://avatars.githubusercontent.com/u/16682462?s=72&u=51caf46399123308ba43270321bc665928219cf6&v=4" width="24" alt="Avatar of mglantz"> mglantz
+			</a><br/>
+			Magnus Glantz
+		</td>
+		<td>@redhatofficial </td>
+		<td>No Twitter Username</td>
+		<td>Sweden</td>
+		<td>572</td>
+		<td>572</td>
+	</tr>
+	<tr>
+		<td>324</td>
+		<td>
 			<a href="https://github.com/johlju">
 				<img src="https://avatars.githubusercontent.com/u/7189721?s=72&u=753ae2193c7ca9225fd59755442a7549ae2a1dd8&v=4" width="24" alt="Avatar of johlju"> johlju
 			</a><br/>
@@ -4626,20 +4640,6 @@ There are `933 users`  in Sweden. You need at least `89 followers` to be on this
 		<td>Nyköping, Sweden</td>
 		<td>558</td>
 		<td>572</td>
-	</tr>
-	<tr>
-		<td>324</td>
-		<td>
-			<a href="https://github.com/mglantz">
-				<img src="https://avatars.githubusercontent.com/u/16682462?s=72&u=51caf46399123308ba43270321bc665928219cf6&v=4" width="24" alt="Avatar of mglantz"> mglantz
-			</a><br/>
-			Magnus Glantz
-		</td>
-		<td>@redhatofficial </td>
-		<td>No Twitter Username</td>
-		<td>Sweden</td>
-		<td>571</td>
-		<td>571</td>
 	</tr>
 	<tr>
 		<td>325</td>
