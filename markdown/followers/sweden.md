@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg" alt="Sweden">
 </a>
 
-The `number of followers` of users in Sweden on `2025/3/28 8:20 PM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
+The `number of followers` of users in Sweden on `2025/3/28 9:17 PM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
 
 There are `1 countries` and `4 cities` can be found [here](https://github.com/jaagr/top-github-users).
 
@@ -1155,7 +1155,7 @@ There are `933 users`  in Sweden. You need at least `90 followers` to be on this
 		<td>Daniel Saidi </td>
 		<td><a href="https://twitter.com/danielsaidi">danielsaidi</a></td>
 		<td>Stockholm, Sweden</td>
-		<td>719</td>
+		<td>720</td>
 	</tr>
 	<tr>
 		<td>82</td>
@@ -1511,19 +1511,6 @@ There are `933 users`  in Sweden. You need at least `90 followers` to be on this
 	<tr>
 		<td>109</td>
 		<td>
-			<a href="https://github.com/pmmmwh">
-				<img src="https://avatars.githubusercontent.com/u/9338255?s=72&u=0b748539c151acf36871fdf53cb52c9f150bf1a4&v=4" width="24" alt="Avatar of pmmmwh"> pmmmwh
-			</a><br/>
-			Michael Mok
-		</td>
-		<td>@mimohq </td>
-		<td><a href="https://twitter.com/pmmmwh">pmmmwh</a></td>
-		<td>Stockholm</td>
-		<td>515</td>
-	</tr>
-	<tr>
-		<td>110</td>
-		<td>
 			<a href="https://github.com/Cryakl">
 				<img src="https://avatars.githubusercontent.com/u/128066597?s=72&u=ab27094a2f52baa3745828c75d57bfbbd7705384&v=4" width="24" alt="Avatar of Cryakl"> Cryakl
 			</a><br/>
@@ -1532,6 +1519,19 @@ There are `933 users`  in Sweden. You need at least `90 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Sweden</td>
+		<td>517</td>
+	</tr>
+	<tr>
+		<td>110</td>
+		<td>
+			<a href="https://github.com/pmmmwh">
+				<img src="https://avatars.githubusercontent.com/u/9338255?s=72&u=0b748539c151acf36871fdf53cb52c9f150bf1a4&v=4" width="24" alt="Avatar of pmmmwh"> pmmmwh
+			</a><br/>
+			Michael Mok
+		</td>
+		<td>@mimohq </td>
+		<td><a href="https://twitter.com/pmmmwh">pmmmwh</a></td>
+		<td>Stockholm</td>
 		<td>515</td>
 	</tr>
 	<tr>
@@ -2234,7 +2234,7 @@ There are `933 users`  in Sweden. You need at least `90 followers` to be on this
 		<td>@u-blox </td>
 		<td>No Twitter Username</td>
 		<td>Malmö Sweden</td>
-		<td>376</td>
+		<td>377</td>
 	</tr>
 	<tr>
 		<td>165</td>
@@ -3773,6 +3773,19 @@ There are `933 users`  in Sweden. You need at least `90 followers` to be on this
 	<tr>
 		<td>283</td>
 		<td>
+			<a href="https://github.com/Garderoben">
+				<img src="https://avatars.githubusercontent.com/u/10367109?s=72&u=2abf95f9e01132e8e2915def42895ffe99c5d2c6&v=4" width="24" alt="Avatar of Garderoben"> Garderoben
+			</a><br/>
+			Jonny Larsson
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Örebro, Sweden</td>
+		<td>242</td>
+	</tr>
+	<tr>
+		<td>284</td>
+		<td>
 			<a href="https://github.com/kaaes">
 				<img src="https://avatars.githubusercontent.com/u/202548?s=72&v=4" width="24" alt="Avatar of kaaes"> kaaes
 			</a><br/>
@@ -3784,7 +3797,7 @@ There are `933 users`  in Sweden. You need at least `90 followers` to be on this
 		<td>242</td>
 	</tr>
 	<tr>
-		<td>284</td>
+		<td>285</td>
 		<td>
 			<a href="https://github.com/oeway">
 				<img src="https://avatars.githubusercontent.com/u/478667?s=72&v=4" width="24" alt="Avatar of oeway"> oeway
@@ -3794,19 +3807,6 @@ There are `933 users`  in Sweden. You need at least `90 followers` to be on this
 		<td>Science For Life Laboratory<br/></td>
 		<td>No Twitter Username</td>
 		<td>Stockholm</td>
-		<td>241</td>
-	</tr>
-	<tr>
-		<td>285</td>
-		<td>
-			<a href="https://github.com/Garderoben">
-				<img src="https://avatars.githubusercontent.com/u/10367109?s=72&u=2abf95f9e01132e8e2915def42895ffe99c5d2c6&v=4" width="24" alt="Avatar of Garderoben"> Garderoben
-			</a><br/>
-			Jonny Larsson
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Örebro, Sweden</td>
 		<td>241</td>
 	</tr>
 	<tr>
