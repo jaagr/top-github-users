@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg" alt="Sweden">
 </a>
 
-The `public contributions` and `private contributions` by users in Sweden on `2025/4/1 2:48 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
+The `public contributions` and `private contributions` by users in Sweden on `2025/4/1 3:46 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
 
 There are `1 countries` and `4 cities` can be found [here](https://github.com/jaagr/top-github-users).
 
@@ -522,8 +522,8 @@ There are `933 users`  in Sweden. You need at least `90 followers` to be on this
 		<td>Google </td>
 		<td>No Twitter Username</td>
 		<td>Stockholm</td>
-		<td>3443</td>
-		<td>3443</td>
+		<td>3444</td>
+		<td>3444</td>
 	</tr>
 	<tr>
 		<td>31</td>
@@ -1894,8 +1894,8 @@ There are `933 users`  in Sweden. You need at least `90 followers` to be on this
 		<td>@wcomab </td>
 		<td><a href="https://twitter.com/devlead">devlead</a></td>
 		<td>Gothenburg, Sweden</td>
-		<td>1577</td>
-		<td>1673</td>
+		<td>1585</td>
+		<td>1681</td>
 	</tr>
 	<tr>
 		<td>129</td>
@@ -2497,7 +2497,7 @@ There are `933 users`  in Sweden. You need at least `90 followers` to be on this
 		<td><a href="https://twitter.com/a7ulr">a7ulr</a></td>
 		<td>Stockholm, Sweden</td>
 		<td>23</td>
-		<td>1327</td>
+		<td>1329</td>
 	</tr>
 	<tr>
 		<td>172</td>
@@ -3225,7 +3225,7 @@ There are `933 users`  in Sweden. You need at least `90 followers` to be on this
 		<td><a href="https://twitter.com/lillerik">lillerik</a></td>
 		<td>Stockholm</td>
 		<td>1</td>
-		<td>990</td>
+		<td>991</td>
 	</tr>
 	<tr>
 		<td>224</td>
@@ -4373,7 +4373,7 @@ There are `933 users`  in Sweden. You need at least `90 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Copenhagen, Sweden</td>
 		<td>191</td>
-		<td>663</td>
+		<td>665</td>
 	</tr>
 	<tr>
 		<td>306</td>
