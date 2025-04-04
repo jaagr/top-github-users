@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg" alt="Sweden">
 </a>
 
-The `public contributions` and `private contributions` by users in Sweden on `2025/4/4 2:28 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
+The `public contributions` and `private contributions` by users in Sweden on `2025/4/4 3:34 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
 
 There are `1 countries` and `4 cities` can be found [here](https://github.com/jaagr/top-github-users).
 
@@ -522,8 +522,8 @@ There are `933 users`  in Sweden. You need at least `90 followers` to be on this
 		<td>Google </td>
 		<td>No Twitter Username</td>
 		<td>Stockholm</td>
-		<td>3474</td>
-		<td>3474</td>
+		<td>3475</td>
+		<td>3475</td>
 	</tr>
 	<tr>
 		<td>31</td>
@@ -724,6 +724,20 @@ There are `933 users`  in Sweden. You need at least `90 followers` to be on this
 	<tr>
 		<td>45</td>
 		<td>
+			<a href="https://github.com/etu">
+				<img src="https://avatars.githubusercontent.com/u/461970?s=72&v=4" width="24" alt="Avatar of etu"> etu
+			</a><br/>
+			Elis Hirwing
+		</td>
+		<td>Tvnu Sweden Ab </td>
+		<td>No Twitter Username</td>
+		<td>Arvika, Sweden</td>
+		<td>3014</td>
+		<td>3014</td>
+	</tr>
+	<tr>
+		<td>46</td>
+		<td>
 			<a href="https://github.com/zegl">
 				<img src="https://avatars.githubusercontent.com/u/47952?s=72&u=ea6f04adb8a7bb6c0d52f903376d8a9e42e619a6&v=4" width="24" alt="Avatar of zegl"> zegl
 			</a><br/>
@@ -734,20 +748,6 @@ There are `933 users`  in Sweden. You need at least `90 followers` to be on this
 		<td>Stockholm, Sweden</td>
 		<td>372</td>
 		<td>3013</td>
-	</tr>
-	<tr>
-		<td>46</td>
-		<td>
-			<a href="https://github.com/etu">
-				<img src="https://avatars.githubusercontent.com/u/461970?s=72&v=4" width="24" alt="Avatar of etu"> etu
-			</a><br/>
-			Elis Hirwing
-		</td>
-		<td>Tvnu Sweden Ab </td>
-		<td>No Twitter Username</td>
-		<td>Arvika, Sweden</td>
-		<td>3011</td>
-		<td>3011</td>
 	</tr>
 	<tr>
 		<td>47</td>
@@ -872,8 +872,8 @@ There are `933 users`  in Sweden. You need at least `90 followers` to be on this
 		<td>@cerveco </td>
 		<td>No Twitter Username</td>
 		<td>Göteborg, Sweden</td>
-		<td>844</td>
-		<td>2753</td>
+		<td>845</td>
+		<td>2755</td>
 	</tr>
 	<tr>
 		<td>56</td>
@@ -1167,7 +1167,7 @@ There are `933 users`  in Sweden. You need at least `90 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Stockholm</td>
 		<td>2056</td>
-		<td>2418</td>
+		<td>2420</td>
 	</tr>
 	<tr>
 		<td>77</td>
@@ -1671,7 +1671,7 @@ There are `933 users`  in Sweden. You need at least `90 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Sweden</td>
 		<td>1344</td>
-		<td>1881</td>
+		<td>1882</td>
 	</tr>
 	<tr>
 		<td>113</td>
@@ -1782,8 +1782,8 @@ There are `933 users`  in Sweden. You need at least `90 followers` to be on this
 		<td>@wcomab </td>
 		<td><a href="https://twitter.com/devlead">devlead</a></td>
 		<td>Gothenburg, Sweden</td>
-		<td>1651</td>
-		<td>1747</td>
+		<td>1655</td>
+		<td>1751</td>
 	</tr>
 	<tr>
 		<td>121</td>
@@ -1923,7 +1923,7 @@ There are `933 users`  in Sweden. You need at least `90 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Sweden, Skåne</td>
 		<td>0</td>
-		<td>1686</td>
+		<td>1688</td>
 	</tr>
 	<tr>
 		<td>131</td>
@@ -4134,8 +4134,8 @@ There are `933 users`  in Sweden. You need at least `90 followers` to be on this
 		<td>Valo Intranet </td>
 		<td>No Twitter Username</td>
 		<td>Sweden</td>
-		<td>742</td>
-		<td>742</td>
+		<td>744</td>
+		<td>744</td>
 	</tr>
 	<tr>
 		<td>289</td>
