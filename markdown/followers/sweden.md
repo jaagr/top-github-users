@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg" alt="Sweden">
 </a>
 
-The `number of followers` of users in Sweden on `2025/4/9 7:17 PM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
+The `number of followers` of users in Sweden on `2025/4/9 8:20 PM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
 
 There are `1 countries` and `4 cities` can be found [here](https://github.com/jaagr/top-github-users).
 
@@ -453,7 +453,7 @@ There are `933 users`  in Sweden. You need at least `90 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/jullerino">jullerino</a></td>
 		<td>Sweden</td>
-		<td>1815</td>
+		<td>1816</td>
 	</tr>
 	<tr>
 		<td>28</td>
@@ -817,7 +817,7 @@ There are `933 users`  in Sweden. You need at least `90 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Stockholm, Sweden</td>
-		<td>966</td>
+		<td>967</td>
 	</tr>
 	<tr>
 		<td>56</td>
@@ -2078,7 +2078,7 @@ There are `933 users`  in Sweden. You need at least `90 followers` to be on this
 		<td>Microsoft </td>
 		<td><a href="https://twitter.com/koreyspace">koreyspace</a></td>
 		<td>Stockholm, Sweden </td>
-		<td>396</td>
+		<td>397</td>
 	</tr>
 	<tr>
 		<td>153</td>
@@ -3768,7 +3768,7 @@ There are `933 users`  in Sweden. You need at least `90 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Linköping, Sweden</td>
-		<td>243</td>
+		<td>242</td>
 	</tr>
 	<tr>
 		<td>283</td>
@@ -4587,7 +4587,7 @@ There are `933 users`  in Sweden. You need at least `90 followers` to be on this
 		<td>Software Contractor </td>
 		<td>No Twitter Username</td>
 		<td>Sweden</td>
-		<td>206</td>
+		<td>207</td>
 	</tr>
 	<tr>
 		<td>346</td>
